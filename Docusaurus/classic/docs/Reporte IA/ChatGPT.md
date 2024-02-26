@@ -13,3 +13,4 @@ sidebar_position: 1
 | Mario Aroca Páez  | 19-02-2024 | [Generar QR página](https://chat.openai.com/share/7ceb3db2-4869-4b8a-b099-a34d55d797d5)                             |
 | Pedro Jesús Ruiz Aguilar | 19-02-2024 | [Costos TCO y Operativos](https://chat.openai.com/share/161c8ef9-1318-41d6-a1ec-98d88242bfdd)                             |
 | Carmen Ruiz Porcel | 24-02-2024 | [Rendimiento integrantes equipo desarrollo](https://chat.openai.com/share/854ba8a5-a501-4850-a7b9-26517d7d2c73)                             |
+| Mario Aroca Páez | 25-02-2024 | [Soluciones para conexión a base de datos](https://chat.openai.com/share/b10abf89-8f17-497d-9e00-35d95c6aa53e)                             |
