@@ -76,9 +76,9 @@ Esta será la forma de medir el rendimiento de los integrantes que han firmado e
 * **Tareas asignadas (Ta):** Número total de tareas asignadas. 
 * **Horas extras (Hx):** Tiempo adicional trabajado más allá de las 10h semanales.  
 
-**INSERTAR FORMULA 1**
+![Formula 1](/img/formula1_commitment_agreement.png)
 
-**INSERTAR FORMULA 2**
+![Formula 2](/img/formula2_commitment_agreement.png)
 
 Con esta fórmula, el rendimiento puede superar el 100%, lo que indicaría que el rendimiento del individuo supera lo requerido y, aunque se recompensará, deberá justificar las horas extras para evitar que los integrantes se saturen con el proyecto y que la próxima vez se intenten ajustar a las 10h semanales. 
 

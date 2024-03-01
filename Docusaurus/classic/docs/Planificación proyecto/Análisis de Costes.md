@@ -125,7 +125,7 @@ De esta manera, se obtiene el coste final del proyecto:
 ### Planes de pago y Balance de Cuentas
 Primero, hace falta dejar claro que para realizar las siguientes estimaciones se ha seguido un modelo logístico para representar crecimiento de poblaciones con un límite superior conocido como capacidad de carga. Estos modelos se basan en la siguiente expresión:
 
-**IMAGEN** 
+![Formula planes de pago](/img/formula_costes.png)
 
 Donde:
 -   P(t) es  la cantidad total en el tiempo transcurrido t.
@@ -152,31 +152,32 @@ Para todos los planes, una vez consumidos los créditos mensuales, podrán compr
 
 Por último, la empresa genera dinero mediante anuncios de Google Ads, los cuales, de media generan entre 0,5€ y 1,50€ por cada 1.000 visitas.
 
-Este análisis de los costes lo desglosamos en la siguiente tabla que muestra el tiempo total destinado al desarrollo del sistema, el capex, el opex y la suma destinada a los planes de contingencia durante el periodo de desarrollo. Luego, se muestra el TCO y el mantenimiento del sistema en el año siguiente al lanzamiento.
+Este análisis de los costes lo desglosamos en la siguiente tabla que muestra el tiempo total destinado al desarrollo del sistema, el CapEx, el OpEx y la suma destinada a los planes de contingencia durante el periodo de desarrollo. Luego, se muestra el TCO y el mantenimiento del sistema en el año siguiente al lanzamiento.
 
-**IMAGEN**
+![Recopilación costes](/img/recopilacion_costes.png)
 
 Para el siguiente análisis de estima un crecimiento del número de usuarios de la siguiente forma:
 
-**IMAGEN**
+![Crecimiento usuarios](/img/crecimiento_usuarios.png)
 
 Luego, para la siguiente tabla se presupone que, del total de usuarios del sistema, el 40% serán del plan gratuito, 35% serán del plan Noble y 25% del plan King. Luego, vamos a suponer que, del total de usuarios, el 20% compra una media de 50 créditos adicionales. Dejando el cálculo de ganancias mensuales de la siguiente forma:
 
-**IMAGEN**
+![Tabla costes](/img/tabla_costes1.png)
 
 En esta tabla se muestran las ganancias del primer mes con el modelo de crecimiento descrito. Comparativamente, un año después, las ganancias serían las siguientes:
 
-**IMAGEN**
+![Tabla costes](/img/tabla_costes2.png)
 
 Representando el incremento de ganancias a lo largo del tiempo de la siguiente forma:
 
-**IMAGEN**
+![Beneficios brutos](/img/beneficios_brutos.png)
 
 Por tanto, haciendo balance de cuentas teniendo en cuenta  el periodo necesario para obtener beneficios brutos del sistema, es decir, reponer todo el gasto empleado en el desarrollo. Obtenemos el siguiente resultado:
 
-**IMAGEN**
+![Comparacion entre beneficios y costes](/img/comparacion_beneficios_costes.png)
 
 Podemos comprobar que a los 6 meses y medio de lanzar la aplicación alcanzamos el punto de equilibrio. Luego, tras 8 meses después del lanzamiento, recuperamos todo el dinero invertido y empezamos a generar más valor. La cifra constante a partir de los 8 meses equivale a los costes de mantenimiento del sistema.
+
 
 ## Webgrafía
 Dongee. (2023, 22 de noviembre). ¿Cuánto paga Google Adsense? Todo lo que debes saber. Dongee. [https://www.dongee.com/tutoriales/cuanto-paga-google-adsense/#:~:text=Google%20Adsense%20paga%20por%20mil,50%20y%201%2C50%20euros](https://www.dongee.com/tutoriales/cuanto-paga-google-adsense/#:~:text=Google%20Adsense%20paga%20por%20mil,50%20y%201%2C50%20euros)
