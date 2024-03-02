@@ -15,6 +15,7 @@ sidebar_position: 1
 | Pedro Jesús Ruiz Aguilar | 19-02-2024 | [Costos TCO y Operativos](https://chat.openai.com/share/161c8ef9-1318-41d6-a1ec-98d88242bfdd)                      |
 | Carmen Ruiz Porcel       | 24-02-2024 | [Rendimiento integrantes equipo desarrollo](https://chat.openai.com/share/854ba8a5-a501-4850-a7b9-26517d7d2c73)    |
 | Mario Aroca Páez         | 25-02-2024 | [Soluciones para conexión a base de datos](https://chat.openai.com/share/b10abf89-8f17-497d-9e00-35d95c6aa53e)     |
+| Carmen Ruiz Porcel       | 28-02-2024 | [Commitment agreement a markdown](https://chat.openai.com/share/0fa9e4ae-0949-44ff-b90f-8d6ad4d36ce7)              |
 | Mario Aroca Páez         | 01-03-2024 | [Transformación de info de pdf a markdown](https://chat.openai.com/share/79809a73-afb7-46b6-93c3-acded5bb4512)     |
 | José Javier Alcobendas   | 01-03-2024 | [Backend listar usuarios](https://chat.openai.com/share/67b94869-5440-4bb4-a903-6b93233cb391)                      |
 | Carmen Ruiz Porcel       | 02-03-2024 | [Geolocalización con Angular](https://chat.openai.com/share/89fa9b05-ec9b-4661-b0e1-948bc38ac91c)                  |
