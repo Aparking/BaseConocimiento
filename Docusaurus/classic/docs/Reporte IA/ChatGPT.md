@@ -19,3 +19,5 @@ sidebar_position: 1
 | Mario Aroca Páez         | 01-03-2024 | [Transformación de info de pdf a markdown](https://chat.openai.com/share/79809a73-afb7-46b6-93c3-acded5bb4512)     |
 | José Javier Alcobendas   | 01-03-2024 | [Backend listar usuarios](https://chat.openai.com/share/67b94869-5440-4bb4-a903-6b93233cb391)                      |
 | Carmen Ruiz Porcel       | 02-03-2024 | [Geolocalización con Angular](https://chat.openai.com/share/89fa9b05-ec9b-4661-b0e1-948bc38ac91c)                  |
+| Mario Aroca Páez      | 04-03-2024 | [Solucionar Build failure Django](https://chat.openai.com/share/bdd9f3a1-69fd-4d81-9a58-194e98c8c1b6)                  |
+
