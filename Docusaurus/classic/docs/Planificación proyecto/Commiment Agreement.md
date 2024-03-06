@@ -2,49 +2,9 @@
 sidebar_position: 1
 ---
 
-### Devising a Project - Commitment Agreement
-
-**Universidad de Sevilla - Escuela Técnica Superior de Ingeniería Informática**
-
-| Grupo y nombre  |
-| --------------- |
-| G.11 - AparKing |
-
-| Repositorio                                                |
-| ---------------------------------------------------------- |
-| [https://github.com/Aparking](https://github.com/Aparking) |
-
-### Miembros del equipo
-
-| Nombre, Apellidos             | Correo                |
-| ----------------------------- | --------------------- |
-| José Javier Alcobendas Santos | josalcan1@alum.us.es  |
-| Mario Aroca Páez              | mararopae@alum.us.es  |
-| Enrique Caballero Muñoz       | enrcabmun@alum.us.es  |
-| Virgilio Oliva Alonso         | virolialo@alum.us.es  |
-| Alberto Perea León            | albperleo@alum.us.es  |
-| Alejandro Pérez Vázquez       | alepervaz@alum.us.es  |
-| Juan Carlos Ramírez López     | juaramlop2@alum.us.es |
-| Laura Roldán Merat            | laurolmer@alum.us.es  |
-| Pedro Jesús Ruiz Aguilar      | pedruiagu1@alum.us.es |
-| Ismael Ruiz Jurado            | ismruijur@alum.us.es  |
-| Carmen Ruiz Porcel            | carruipor@alum.us.es  |
-| Iván Sánchez San José         | ivasansan1@alum.us.es |
-| Sergio Santiago Sánchez       | sersansan2@alum.us.es |
-| María Vico Martín             | marvicmar@alum.us.es  |
-
-# 1. Resumen ejecutivo
+## Resumen ejecutivo
 
 Este documento presenta un listado de acuerdos decididos por todo el equipo de trabajo para que el nivel de desempeño de cada miembro sea el óptimo, guiar a cada miembro para que sepa lo que se espera de él o ella durante el proyecto y así poder evitar injusticias entre todos.
-
-# 2. Tabla de revisión
-
-| Número de revisión | Fecha de revisión | Descripción de la revisión                            |
-| ------------------ | ----------------- | ----------------------------------------------------- |
-| 1                  | 10/02/2024        | Primera implementación del documento.                 |
-| 2                  | 18/02/2024        | Formalización del documento y corrección del formato. |
-| 3                  | 22/02/2024        | Actualización semana 3                                |
-| 4                  | 28/02/2024        | Actualización semana 4, añadir tareas integrantes     |
 
 ## Commitment Agreement
 
