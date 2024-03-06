@@ -19,5 +19,6 @@ sidebar_position: 1
 | Mario Aroca Páez         | 01-03-2024 | [Transformación de info de pdf a markdown](https://chat.openai.com/share/79809a73-afb7-46b6-93c3-acded5bb4512)     |
 | José Javier Alcobendas   | 01-03-2024 | [Backend listar usuarios](https://chat.openai.com/share/67b94869-5440-4bb4-a903-6b93233cb391)                      |
 | Carmen Ruiz Porcel       | 02-03-2024 | [Geolocalización con Angular](https://chat.openai.com/share/89fa9b05-ec9b-4661-b0e1-948bc38ac91c)                  |
-
-
+| Ivan Sánchez San José    | 03-03-2024 | [Angular Project Structure Guide](https://chat.openai.com/share/e78fccf0-50f8-4543-b3cd-0387226d9034)              |
+| Carmen Ruiz Porcel       | 03-03-2024 | [Test unitario desarrollo ágil](https://chat.openai.com/share/91ee4faa-31b6-404d-8f7e-3215284424a2)                |
+| Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)                  |
