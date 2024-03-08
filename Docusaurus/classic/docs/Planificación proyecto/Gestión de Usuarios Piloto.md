@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
 
 ## Aclarar y especificar quiénes van a hacer de usuarios piloto.
