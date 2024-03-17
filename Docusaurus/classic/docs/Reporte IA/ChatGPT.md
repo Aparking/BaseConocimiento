@@ -23,3 +23,4 @@ sidebar_position: 1
 | Carmen Ruiz Porcel       | 03-03-2024 | [Test unitario desarrollo ágil](https://chat.openai.com/share/91ee4faa-31b6-404d-8f7e-3215284424a2)                |
 | Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)    |
 | Mario Aroca Páez       | 17-03-2024 | [Convertir PDF a Markdown](https://chat.openai.com/share/3a07272f-41d9-4f8c-9780-2ec37115d815)                |
+| Mario Aroca Páez       | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)                |
