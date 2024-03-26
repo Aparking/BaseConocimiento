@@ -2,6 +2,8 @@
 sidebar_position: 8
 ---
 
+# Report
+
 ## Resumen ejecutivo
 
 La intención de este documento es la de mostrar cómo se han organizado los conocimientos compartidos en la base de conocimiento común con los compañeros.
@@ -286,6 +288,49 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 - TODO tiene que estar contenido en la presentación, el trabajo puede que lo corrija alguien que no ha visto la presentación.
 - No hacer cambios de la presentación entregada.
+
+## Semana 7
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- Importante mostra el customer agreement.
+- La situcacióm actual frente al total debe ir con los costes.
+- Hay que poner un video en la demo, se está vendiendo humo.
+
+**Costes/Beneficios**
+
+- Indicar en la presentacion el número de clientes estimado y de donde han salio.
+
+**Burn down**
+
+- El burn down se debe hacer por sprint, no por semana.
+- Debe representar el estado en que se encuentra el sprint en el momento de la presentación.
+
+**Project management**
+
+- Se han hecho previsiones poco realistas de acuerdo con el ritmo que llevamos.
+
+### Feedback común
+
+**Análisis de costes**
+
+- El calculo del TCO hay que hacerlo a 2 años vista.
+
+**Presentación**
+
+- Usar zoom para mostra los detalles de la aplicación en la demo.
+- Presentar aspectos legalres.
+- Antes de poner la demo explicar que se va a ver así se puede obviar la voz en off.
+
+**Rendimiento**
+
+- Hacer una matriz Razzi para ver la relación entre el rendiemiento y el esfuerzo de los integrantes.
+
+**Usuarios pilotos**
+
+- Hay que hacer un balance entre una guía que lleve de la mano al usuario pilotti y dejarlo por libre. Se deberá decir al usuaro que testear pero tamoco explicarlo 100% como funciona para que explore y explique como de intuitivo/fácuil es hacer esa función.
 
 ## Acciones de consolidación
 
