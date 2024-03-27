@@ -6,9 +6,9 @@
 
 - Modelo de negocio:
 
-* Killer opener.
-* Elevator Pitch.
-* Análisis de competidores (Centrarse en lo que nos diferencia).
+  - Killer opener.
+  - Elevator Pitch.
+  - Análisis de competidores (Centrarse en lo que nos diferencia).
 
 - Nuevo story board (cambio de rol/objetivo)
 
@@ -36,8 +36,8 @@
 
 - Rendimiento del equipo:
 
-* Formula.
-* Matriz de rendimiento y esfuerzo (y esfuerzo horas invertidas, x rendimiento obtenido en esas horas)
+  - Formula.
+  - Matriz de rendimiento y esfuerzo (y esfuerzo horas invertidas, x rendimiento obtenido en esas horas)
 
 - Mejora del agendamiento (poner las adendas de todos y automáticamente agendar las reuniones, tipo calendario de outlook). No es obligatorio pero muy recomendable.
 
