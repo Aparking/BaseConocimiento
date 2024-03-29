@@ -12,7 +12,7 @@
 
 - Nuevo story board (cambio de rol/objetivo)
 
-- Costummer agreement (términos de servicios, lo que acarrea en el desarrollo esas cláusulas. Seguir píldora teórica).
+- Customer agreement (términos de servicios, lo que acarrea en el desarrollo esas cláusulas. Seguir píldora teórica).
 
 - Pricing de la aplicación.
 
@@ -24,7 +24,7 @@
 
 - Integrantes del equipo y sus roles.
 
-- Commitmen agreement (cambios y cumplimiento).
+- Commitment agreement (cambios y cumplimiento).
 
 ### Demo
 
@@ -45,9 +45,9 @@
 
 - Análisis de calidad del código, enseñar cómo evoluciona a lo largo del desarrollo.
 
-- Riesgos y problemas encontrados en el sprint y como se han encontrado estos problemas.
+- Riesgos y problemas encontrados en el sprint y cómo se han encontrado estos problemas.
 
-- Changelog para saber que funcionalidad se va implementando nueva (automatizado mejor)
+- Changelog para saber qué funcionalidad se va implementando nueva (automatizado mejor).
 
 - Reloj de avance del proyecto.
 
@@ -55,11 +55,11 @@
 
 - Estado actual.
 
-- Feedback
+- Feedback.
 
 - Acciones tomadas a partir del feedback. Prioridades que se toman.
 
-- Preparar plan de gestión del S3. (Pilot user agreement).
+- Preparar plan de gestión del S3 (Pilot user agreement).
 
 ### Planificación S3
 
@@ -69,7 +69,7 @@
 
 - Objetivos del S3.
 
-- Apis externas nuevas añadidas al proyecto. Y las implicaciones en el cálculo del OPEX.
+- Apis externas nuevas añadidas al proyecto. Y las implicaciones en el cálculo del OPex.
 
 ### Análisis IAs
 
