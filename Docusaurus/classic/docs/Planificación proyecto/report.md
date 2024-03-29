@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Resumen ejecutivo
 
-La intención de este documento es la de mostrar cómo se han organizado los conocimientos compartidos en la base de conocimiento común con los compañeros.
+La intención de este documento es mostrar cómo se han organizado los conocimientos compartidos en la base de conocimiento común con los compañeros.
 
 ## Enlace
 
@@ -14,7 +14,7 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 ## Semana 1
 
-### Feedback especifico del equipo
+### Feedback específico del equipo
 
 **Feedback general**
 
@@ -28,9 +28,9 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 - Utilizar nuestros propios conceptos, no los de la asignatura.
 
-- Presentaciones más visuales para que sean más dinámico.
+- Presentaciones más visuales para que sean más dinámicas.
 
-- Evitar usar imágenes que “creamos que no se ven bien”.
+- Evitar usar imágenes que "creamos que no se ven bien".
 
 - Plantear mejor cómo presentar el cuadrante de crecimiento de competidores. Mejor una imagen creada por nosotros que una captura.
 
@@ -44,7 +44,7 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 **Base de conocimiento**
 
-- ¿almacenamiento organizado de la información? Tenemos que pensar qué consultas vamos a hacerle a la base de conocimiento para aclarar qué herramienta utilizar.
+- ¿Almacenamiento organizado de la información? Tenemos que pensar qué consultas vamos a hacerle a la base de conocimiento para aclarar qué herramienta utilizar.
 
 - Guardar todos los enlaces de los diálogos con la IA.
 
@@ -78,7 +78,7 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 **Presentadores**
 
-- La velocidad de exposición genera que no se pueda dar un feedback preciso. Intentar ser eficiente. Plantearse qué es lo que se quiere transmitir en la presentación.
+- La velocidad de exposición genera que no se pueda dar un feedback preciso. Intentar ser eficientes. Plantearse qué es lo que se quiere transmitir en la presentación.
 
 ## Semana 2
 

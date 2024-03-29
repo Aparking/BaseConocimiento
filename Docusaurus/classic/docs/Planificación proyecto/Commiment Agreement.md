@@ -9,7 +9,7 @@ Este documento presenta un listado de acuerdos decididos por todo el equipo de t
 ## Commitment Agreement
 
 Número de miembros del grupo: 14
-Nombres de los miembros del grupo: Iván Sánchez San José, Laura Roldán Merat, Carmen Ruiz Porcel, Alberto Perea León, Pedro Jesús Ruiz Aguilar, Ismael Ruiz Jurado, Virgilio Oliva Alonso, Mario Aroca Páez, Enrique Caballero Muñoz, María Vico, Martín, Sergio Santiago Sánchez, Alejandro Pérez Vázquez, Juan Carlos Ramírez López y José Javier Alcobendas Santos.
+Nombres de los miembros del grupo: Iván Sánchez San José, Laura Roldán Merat, Carmen Ruiz Porcel, Alberto Perea León, Pedro Jesús Ruiz Aguilar, Ismael Ruiz Jurado, Virgilio Oliva Alonso, Mario Aroca Páez, Enrique Caballero Muñoz, María Vico Martín, Sergio Santiago Sánchez, Alejandro Pérez Vázquez, Juan Carlos Ramírez López y José Javier Alcobendas Santos.
 Fecha de realización del acuerdo: 22/02/2024
 Grupo de Trabajo: 11
 

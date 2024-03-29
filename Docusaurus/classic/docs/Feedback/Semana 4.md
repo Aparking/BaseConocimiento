@@ -1,7 +1,7 @@
 # Semana 4
 
 ### Guía de revisión de software en EV
-- Mirarla.
+- Revisarla.
 
 ### Repositorio
 - Adaptar el repositorio para los casos de uso de Blue J.
@@ -54,7 +54,7 @@
 ### Sprint Próximo
 - Revisar el dashboard de BlueJ en EV para prácticas de equipo.
 - Preparar documentación en EV para facilitar el despliegue del proyecto.
-- Programar la evaluación del sprint próximo, asignar roles y tareas correspondientes.
+- Programar la evaluación del Sprint próximo, asignar roles y tareas correspondientes.
 
 ## Presentación Semana 5:
 #### Introducción Negocio (20/15%)
@@ -66,9 +66,9 @@
  - Equipo y roles
  - Commitment agreement y estado (lo más importante es el estado)
 #### Prototiopo obtenido después del Sprint (15%)
- - Demo, puede ser en video o en directo pero muller recomendó encarecidamente en video (puso un ejemplo de que a bill gates le salió una pantalla azul enseñando una versión de windows)
- - Mirar algo de UX (la verdad que no entendí a que se referia)
+ - Demo, puede ser en vídeo o en directo pero Müller recomendó encarecidamente en vídeo (puso un ejemplo de que a Bill Gates le salió una pantalla azul enseñando una versión de Windows)
+ - Mirar algo de UX
 #### Retrospectiva del primer sprint (40/45%)
- - Dicen que hay que enseñar lo mismo que en una asignatura del año pasado cuando se pedia un srint retrospective (no se lo que es amor, me fui de Erasmus)
- - Hablar de la gente y su trabajo de manera anonima, es interesante ver sobre todo quien lo ha hecho mejor y quien ha evolucionado mas en cuanto trabajo
- - Plantear automatizar la calidad del codigo para comparar entre sprints con erramientas como sonar
+ - Dicen que hay que enseñar lo mismo que en una asignatura del año pasado cuando se pedía un Sprint Retrospective
+ - Hablar de la gente y su trabajo de manera anónima, es interesante ver sobre todo quién lo ha hecho mejor y quién ha evolucionado más en cuanto trabajo
+ - Plantear automatizar la calidad del código para comparar entre Sprints con herramientas como SonarCloud

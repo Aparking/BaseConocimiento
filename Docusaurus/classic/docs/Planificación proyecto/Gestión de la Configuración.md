@@ -8,7 +8,7 @@ La intención de este documento es la de registrar todos los procedimientos de l
 
 ## Introducción a la Configuración del Proyecto
 
-AparKing es una aplicación de búsqueda de aparcamiento de manera rápida y sencilla destinada a ayudar a los conductores a estacionar su vehículo. Luego, siguiendo los requisitos establecidos por el cliente, el producto debe poseer las características de una Progressive Web App, por lo que se segmentará el código de la aplicación en frontend y backend, cada uno con tecnologías diferentes, Angular con Ionic y Django, respectivamente. Todo esto, se suma a los periodos de desarrollo ajustados. La organización ha decidido configurar el proyecto con los procedimientos descritos en los siguientes apartados del documento.
+AparKing es una aplicación de búsqueda de aparcamiento de manera rápida y sencilla destinada a ayudar a los conductores a estacionar su vehículo. Luego, siguiendo los requisitos establecidos por el cliente, el producto debe poseer las características de una Progressive Web App, por lo que se segmentará el código de la aplicación en frontend y backend, cada uno con tecnologías diferentes, Angular con Ionic y Django, respectivamente. Todo esto, se suma a los períodos de desarrollo ajustados. La organización ha decidido configurar el proyecto con los procedimientos descritos en los siguientes apartados del documento.
 
 ## Tecnologías y Convenciones Estilísticas
 

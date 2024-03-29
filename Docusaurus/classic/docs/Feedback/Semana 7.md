@@ -28,15 +28,15 @@
 
 ### Demo
 
-- Demo sprint 2 ya desplegada con datos reales.
+- Demo Sprint 2 ya desplegada con datos reales.
 
-- Incrementos en la demo, que es lo que ha mejorado con respecto a la última demo enseñada / sprint 1 (en nuestro caso todo).
+- Incrementos en la demo, que es lo que ha mejorado con respecto a la última demo enseñada / Sprint 1 (en nuestro caso todo).
 
 ### Retrospectiva S2
 
 - Rendimiento del equipo:
 
-  - Formula.
+  - Fórmula.
   - Matriz de rendimiento y esfuerzo (y esfuerzo horas invertidas, x rendimiento obtenido en esas horas)
 
 - Mejora del agendamiento (poner las adendas de todos y automáticamente agendar las reuniones, tipo calendario de outlook). No es obligatorio pero muy recomendable.
@@ -69,7 +69,7 @@
 
 - Objetivos del S3.
 
-- Apis externas nuevas añadidas al proyecto. Y las implicaciones en el cálculo del opex.
+- Apis externas nuevas añadidas al proyecto. Y las implicaciones en el cálculo del OPEX.
 
 ### Análisis IAs
 
