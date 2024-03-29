@@ -1,14 +1,14 @@
 # Condiciones de Fallos Check
 
 ## Condiciones de Fallo Individuales:
-- **Requisito de Asistencia**: Todo el mundo estará presente
-- **Responsividad al Feedback**: No Aplica
-- **Compromiso con las Píldoras Teóricas**: [Teoría](https://github.com/Aparking/AparKing_Backend/labels/theory)
+- **Requisito de Asistencia**: Todo el mundo estará presente.
+- **Responsividad al Feedback**: No Aplica.
+- **Compromiso con las Píldoras Teóricas**: [Teoría](https://github.com/Aparking/AparKing_Backend/labels/theory).
 
 ## Condiciones de Fallo de Equipo:
-- **Notificación de Ausencia**: Todo el mundo estará presente
-- **Gestión del Tiempo de Presentación**: No Aplica
-- **Consistencia del Contenido de la Presentación**: (TODO AÑADIR ENLACE DEL CANVA)
+- **Notificación de Ausencia**: Todo el mundo estará presente.
+- **Gestión del Tiempo de Presentación**: No Aplica.
+- **Consistencia del Contenido de la Presentación**: (TODO AÑADIR ENLACE DEL CANVA).
 - **Gestión del Feedback**: No Aplica
 - **Cumplimiento de Expectativas del Documento**: No Aplica
 - **Estándares de Documentación de Entregables**: [Documentación](https://base-conocimiento-g11.vercel.app/docs/intro) (TODO INCLUIR EN LA HOME PAGE NUMERO DE GRUPO, NOMBRE DEL ENTREGABLE Y DASHBOARD DE CLOCKY)

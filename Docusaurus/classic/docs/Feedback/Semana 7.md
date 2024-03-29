@@ -12,7 +12,7 @@
 
 - Nuevo story board (cambio de rol/objetivo)
 
-- Costummer agreement (términos de servicios, lo que acarrea en el desarrollo esas cláusulas. Seguir píldora teórica).
+- Customer agreement (términos de servicios, lo que acarrea en el desarrollo esas cláusulas. Seguir píldora teórica).
 
 - Pricing de la aplicación.
 
@@ -24,19 +24,19 @@
 
 - Integrantes del equipo y sus roles.
 
-- Commitmen agreement (cambios y cumplimiento).
+- Commitment agreement (cambios y cumplimiento).
 
 ### Demo
 
-- Demo sprint 2 ya desplegada con datos reales.
+- Demo Sprint 2 ya desplegada con datos reales.
 
-- Incrementos en la demo, que es lo que ha mejorado con respecto a la última demo enseñada / sprint 1 (en nuestro caso todo).
+- Incrementos en la demo, que es lo que ha mejorado con respecto a la última demo enseñada / Sprint 1 (en nuestro caso todo).
 
 ### Retrospectiva S2
 
 - Rendimiento del equipo:
 
-  - Formula.
+  - Fórmula.
   - Matriz de rendimiento y esfuerzo (y esfuerzo horas invertidas, x rendimiento obtenido en esas horas)
 
 - Mejora del agendamiento (poner las adendas de todos y automáticamente agendar las reuniones, tipo calendario de outlook). No es obligatorio pero muy recomendable.
@@ -45,9 +45,9 @@
 
 - Análisis de calidad del código, enseñar cómo evoluciona a lo largo del desarrollo.
 
-- Riesgos y problemas encontrados en el sprint y como se han encontrado estos problemas.
+- Riesgos y problemas encontrados en el sprint y cómo se han encontrado estos problemas.
 
-- Changelog para saber que funcionalidad se va implementando nueva (automatizado mejor)
+- Changelog para saber qué funcionalidad se va implementando nueva (automatizado mejor).
 
 - Reloj de avance del proyecto.
 
@@ -55,11 +55,11 @@
 
 - Estado actual.
 
-- Feedback
+- Feedback.
 
 - Acciones tomadas a partir del feedback. Prioridades que se toman.
 
-- Preparar plan de gestión del S3. (Pilot user agreement).
+- Preparar plan de gestión del S3 (Pilot user agreement).
 
 ### Planificación S3
 
@@ -69,7 +69,7 @@
 
 - Objetivos del S3.
 
-- Apis externas nuevas añadidas al proyecto. Y las implicaciones en el cálculo del opex.
+- Apis externas nuevas añadidas al proyecto. Y las implicaciones en el cálculo del OPex.
 
 ### Análisis IAs
 

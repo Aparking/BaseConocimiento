@@ -4,13 +4,13 @@ sidebar_position: 5
 
 # Testing
 
-El testing se usa para mostrar la presencia de bug, pero nunca la ausencia de ellos.
+El testing se usa para mostrar la presencia de bugs, pero nunca la ausencia de ellos.
 
 ## Test unitarios
 
 - Se prueba la unidad, dependerá de cada entorno.
-- La mayor parte de los test deben ser test unitarios.
-- Tiene un alcance bajo porque se prueban unidades pequeñas en detalles.
+- La mayor parte de los tests deben ser test unitarios.
+- Tiene un alcance bajo porque se prueban unidades pequeñas en detalle.
 - Deben ejecutarse rápidamente
 - Si para testear una unidad hace falta colaboradores externos, se reemplaza por dobles de test especialmente si dependen de internet.
 
