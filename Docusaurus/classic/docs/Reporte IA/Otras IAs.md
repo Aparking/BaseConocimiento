@@ -12,3 +12,8 @@
 
 - Detector de plagios: [PlagScan](https://www.plagscan.com/es/)
 - Detector de estructura y faltas ortográficas: [ProWritingAid](https://prowritingaid.com/)
+
+## Desarrollo del Código
+
+- **GitHub Copilot**:
+  GitHub Copilot ha sido una herramienta clave en el desarrollo del código, ofreciendo sugerencias inteligentes y acelerando el proceso de codificación. Permite a los desarrolladores ser más productivos al proponer código y funciones basadas en el contexto del proyecto en desarrollo. [Copilot](https://github.com/features/copilot)

@@ -7,6 +7,8 @@ La intención de este documento es la de servir como acuerdo entre usuarios pilo
 
 ## 2.1. Acuerdos NexONG
 
+Documento compartido de Acuerdo de compromiso entre los grupos AparKing y NexONG: [Acuerdo de compromiso](/pdf/Commitment_Agreement_User_Pilot.pdf)
+
 ### Objetivos de la Colaboración
 
 La colaboración entre el equipo AparKing y NexONG se fundamenta en objetivos claros y estratégicos destinados a maximizar el potencial de la aplicación AparKing a través de una serie de pruebas detalladas y un feedback constructivo. Estos objetivos incluyen:
@@ -37,12 +39,10 @@ La colaboración entre el equipo AparKing y NexONG se fundamenta en objetivos cl
 
 - Calendario de Usuario Piloto: El calendario de usuario piloto planeado para AparKing, el cual puede variar en función del desarrollo y las negociaciones con NexONG es el siguiente:
 
-    Sprint 1:
-    ![Calendario Sprint 1](/img/S1Calendar.png)
-    Sprint 2 y Sprint 3:
-    ![Calendario Sprint 2 y 3](/img/S2S3Calendar.png)
-
-Estas fechas son inclusivas, por ejemplo, el día 22/03/2024 todas las encuestas sobre el Sprint 1 deberían estar rellenadas.
+    Sprint 2:
+    ![Calendario Sprint 1](/img/S2Calendar.png)
+    Sprint 3:
+    ![Calendario Sprint 2 y 3](/img/S3Calendar.png)
 
 ### Responsables de Comunicación
 
