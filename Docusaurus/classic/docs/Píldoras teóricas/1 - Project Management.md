@@ -137,4 +137,4 @@ Dentro de un plan de comunicaciones tenemos que responder las siguientes pregunt
 
 Luego, el desempeño del proyecto. Cómo vamos a informar a la gente el avance del proyecto o los cambios. Es importante que el esfuerzo de todo el mundo sea visible, es la mejor herramienta para el trabajo, que todo el mundo se sienta observado (en el buen y en el mal sentido). 
 
-En el mundo de los startups se ha puesto de moda copiar el modelo de Spotify. Trabajar en pequeños equipos de trabajo. 
+En el mundo de las startups se ha puesto de moda copiar el modelo de Spotify. Trabajar en pequeños equipos de trabajo. 

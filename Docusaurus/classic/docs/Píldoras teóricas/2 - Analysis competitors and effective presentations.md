@@ -52,7 +52,7 @@ Una vez identificados los competidores, debemos analizarlos siguiendo las cuatro
   - Qué características ofrece dicho producto
   - Quién es la audiencia objetivo de este producto
   - Qué problema soluciona el producto
-- Prize (precio):
+- Price (precio):
   - Comparar planes de precios
   - Rebajas, ofertas, descuentos
 - Place (lugar de venta):
@@ -70,8 +70,8 @@ Errores comunes:
 
 - No somos capaces de encontrar a todos nuestros rivales
 - No somos capaces de usar palabras clave en nuestras búsquedas
-- No conozcamos las noticias y/o novedades de la industria
-- No monitoreemos las noticias
+- No conocemos las noticias y/o novedades de la industria
+- No monitoreamos las noticias
 - No conocer a nuestros competidores puede hacer que clasifiquemos erróneamente ciertas fortalezas
 - No estar en constante estudio de nuestros competidores
 - No compartir esta información con todos los participantes de nuestra organización

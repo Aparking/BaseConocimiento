@@ -2,9 +2,11 @@
 sidebar_position: 8
 ---
 
+# Report
+
 ## Resumen ejecutivo
 
-La intención de este documento es la de mostrar cómo se han organizado los conocimientos compartidos en la base de conocimiento común con los compañeros.
+La intención de este documento es mostrar cómo se han organizado los conocimientos compartidos en la base de conocimiento común con los compañeros.
 
 ## Enlace
 
@@ -12,7 +14,7 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 ## Semana 1
 
-### Feedback especifico del equipo
+### Feedback específico del equipo
 
 **Feedback general**
 
@@ -26,9 +28,9 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 - Utilizar nuestros propios conceptos, no los de la asignatura.
 
-- Presentaciones más visuales para que sean más dinámico.
+- Presentaciones más visuales para que sean más dinámicas.
 
-- Evitar usar imágenes que “creamos que no se ven bien”.
+- Evitar usar imágenes que "creamos que no se ven bien".
 
 - Plantear mejor cómo presentar el cuadrante de crecimiento de competidores. Mejor una imagen creada por nosotros que una captura.
 
@@ -42,7 +44,7 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 **Base de conocimiento**
 
-- ¿almacenamiento organizado de la información? Tenemos que pensar qué consultas vamos a hacerle a la base de conocimiento para aclarar qué herramienta utilizar.
+- ¿Almacenamiento organizado de la información? Tenemos que pensar qué consultas vamos a hacerle a la base de conocimiento para aclarar qué herramienta utilizar.
 
 - Guardar todos los enlaces de los diálogos con la IA.
 
@@ -76,7 +78,7 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 **Presentadores**
 
-- La velocidad de exposición genera que no se pueda dar un feedback preciso. Intentar ser eficiente. Plantearse qué es lo que se quiere transmitir en la presentación.
+- La velocidad de exposición genera que no se pueda dar un feedback preciso. Intentar ser eficientes. Plantearse qué es lo que se quiere transmitir en la presentación.
 
 ## Semana 2
 
@@ -286,6 +288,49 @@ La intención de este documento es la de mostrar cómo se han organizado los con
 
 - TODO tiene que estar contenido en la presentación, el trabajo puede que lo corrija alguien que no ha visto la presentación.
 - No hacer cambios de la presentación entregada.
+
+## Semana 7
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- Importante mostra el customer agreement.
+- La situcacióm actual frente al total debe ir con los costes.
+- Hay que poner un video en la demo, se está vendiendo humo.
+
+**Costes/Beneficios**
+
+- Indicar en la presentacion el número de clientes estimado y de donde han salio.
+
+**Burn down**
+
+- El burn down se debe hacer por sprint, no por semana.
+- Debe representar el estado en que se encuentra el sprint en el momento de la presentación.
+
+**Project management**
+
+- Se han hecho previsiones poco realistas de acuerdo con el ritmo que llevamos.
+
+### Feedback común
+
+**Análisis de costes**
+
+- El calculo del TCO hay que hacerlo a 2 años vista.
+
+**Presentación**
+
+- Usar zoom para mostra los detalles de la aplicación en la demo.
+- Presentar aspectos legalres.
+- Antes de poner la demo explicar que se va a ver así se puede obviar la voz en off.
+
+**Rendimiento**
+
+- Hacer una matriz Razzi para ver la relación entre el rendiemiento y el esfuerzo de los integrantes.
+
+**Usuarios pilotos**
+
+- Hay que hacer un balance entre una guía que lleve de la mano al usuario pilotti y dejarlo por libre. Se deberá decir al usuaro que testear pero tamoco explicarlo 100% como funciona para que explore y explique como de intuitivo/fácuil es hacer esa función.
 
 ## Acciones de consolidación
 
