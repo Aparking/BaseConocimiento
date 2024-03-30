@@ -113,5 +113,5 @@ El feedback que AparKing le ha dado a NexONG es contenido confidencial de NexONG
 - No permite hacer scroll.
 - Sección “Solicitudes” vacía.
 
-Para ver el feedback de manera más detallada y visual, debido a las limitaciones del formato Markdown se puede ver el siguiente documento redactado por el equipo mientras probaba la aplicación: [Feedback](/pdf/FeedbackNexOng.pdf)
+Para ver el feedback de manera más detallada y visual, debido a las limitaciones del formato Markdown se puede ver el siguiente documento redactado por el equipo mientras probaba la aplicación: [Feedback](/pdf/FeedbackNexONG.pdf)
 
