@@ -1,3 +1,4 @@
+# Customer Agreement
 # Términos de Aceptación
 
 Este acuerdo del Cliente (en adelante "Acuerdo") se establecen los términos y condiciones para la aceptación del acuerdo entre el Aparking  y los usuarios finales (en adelante, "Cliente") quienes utilizan los servicios de nuestra aplicación y web de busqueda de aparcamiento (en adelante "Aplicación").
