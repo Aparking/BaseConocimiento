@@ -24,3 +24,5 @@ sidebar_position: 1
 | Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)    |
 | Mario Aroca Páez       | 17-03-2024 | [Convertir PDF a Markdown](https://chat.openai.com/share/3a07272f-41d9-4f8c-9780-2ec37115d815)                |
 | Mario Aroca Páez       | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)                |
+| Mario Aroca Páez       | 30-03-2024 | [Documento a Markdown](https://chat.openai.com/share/9fae8fea-9a0b-49b5-96e9-83bc755e104c)                |
+| Mario Aroca Páez       | 30-03-2024 | [Excel a Markdown](https://chat.openai.com/share/082febe3-71ef-42f5-978e-a083e2054bc2)                |
