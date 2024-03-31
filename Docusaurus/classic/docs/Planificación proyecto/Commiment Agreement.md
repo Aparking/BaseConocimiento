@@ -44,24 +44,25 @@ Al incorporarme a la asignatura de Ingeniería de Software y Práctica Profesion
 ## Medición del rendimiento
 
 Esta será la forma de medir el rendimiento de los integrantes que han firmado el acuerdo:
+**Tiempo estimado (Ts)**: Horas de duración estimadas para terminar todas las tareas asignadas.
 
-**Horas trabajadas efectivas (Hte)**: Tiempo real al dedicado a las tareas.
+**Tiempo dedicado (Td)**: Horas dedicadas a realizar las tareas asignadas.
 
-**Horas asignadas (Ha)**: Tiempo estimado de todas las tareas asignadas.
+**Puntos de historia terminados (PHt)**: Puntos de historia scrum completados.
 
-**Tareas completadas (Tc)**: Número de tareas que se han completado satisfactoriamente.
+**Puntos de historia estimados (PHe)**: Puntos de historia scrum estimados para todas las tareas asignadas.
 
-**Tareas asignadas (Ta)**: Número total de tareas asignadas.
+**Penalización (P)**: Penalización determinada por los coordinadores de los grupos (valor entre 0 y 1).
 
-**Horas extras (Hx)**: Tiempo adicional trabajado más allá de las 10h semanales.
+**Bonificación (B)**: Bonificación determinada por los coordinadores de los grupos (valor entre 0 y 1).
 
-`Hx = max⁡(0, Hte - 10)`
+$$
+\left(\frac{{T_s}}{{T_d}}\right) \times \left(\frac{{\text{{PHt}}}}{{\text{{PHe}}}}\right) \times 10 - P + B
+$$
 
-`Rendimiento = (Hte / Ha) × (Tc / Ta) × (1 / (1 + Hx / Hte)) × 100`
+Con esta fórmula, el rendimiento puede superar el 100%. Esto sería porque el integrante ha realizado todas las tareas asignadas en el tiempo estimado y además los coordinadores están muy contentos con su esfuerzo y dedicación al proyecto.
 
-Con esta fórmula, el rendimiento puede superar el 100%, lo que indicaría que el rendimiento del individuo supera lo requerido y, aunque se recompensará, deberá justificar las horas extras para evitar que los integrantes se saturen con el proyecto y que la próxima vez se intenten ajustar a las 10h semanales.
-
-Si este rendimiento es menor que el 70% implica que no se ha trabajado las horas estipuladas o que no se han completado todas las tareas. Se incumplirá uno de los apartados establecidos anteriormente y se llevarán a cabo las acciones que se estipulan en el siguiente apartado.
+Si este rendimiento es menor que el 70%, implica que se ha tardado mucho más de lo estimado en terminar sus tareas, que no se han completado todas las tareas, o que los coordinadores ven que el integrante no está tan comprometido con el proyecto como se requiere. Se incumplirá uno de los apartados establecidos anteriormente y se llevarán a cabo las acciones que se estipulan en el siguiente apartado.
 
 ## Incumplimiento del acuerdo firmado
 
