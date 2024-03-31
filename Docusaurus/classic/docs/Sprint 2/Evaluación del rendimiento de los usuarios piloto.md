@@ -6,6 +6,6 @@
 | Validez del Feedback |  NA    |  9   |     |      |      |
 | Cantidad de Feedback | NA  |  8   |     |      |      |
 | Calidad del Feedback | NA  |  9   |     |      |      |
-| Uso de prácticas no abusivas | NA  |  4   |     |      |      |
-| Cooperación | NA  |  3   |     |      |      |
+| Cumplimiento del CA | NA  |  8   |     |      |      |
+| Cooperación | NA  |  5   |     |      |      |
 
