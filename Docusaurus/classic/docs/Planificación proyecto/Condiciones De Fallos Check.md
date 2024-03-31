@@ -8,7 +8,7 @@
 ## Condiciones de Fallo de Equipo:
 - **Notificación de Ausencia**: Todo el mundo estará presente.
 - **Gestión del Tiempo de Presentación**: No Aplica.
-- **Consistencia del Contenido de la Presentación**: (TODO AÑADIR ENLACE DEL CANVA).
+- **Consistencia del Contenido de la Presentación**: [Presentación](https://www.canva.com/design/DAGA-o5dF40/HoA1QwcCeIiyJiEyvbhvmA/view)
 - **Gestión del Feedback**: [Feedback](https://base-conocimiento-g11.vercel.app/docs/category/feedback)
 - **Cumplimiento de Expectativas del Documento**: No Aplica
 - **Estándares de Documentación de Entregables**: [Documentación](https://base-conocimiento-g11.vercel.app/docs/intro) 
