@@ -145,7 +145,10 @@ Representando el incremento de ganancias a lo largo del tiempo de la siguiente f
 
 ![Beneficios brutos](/img/beneficios_brutos.png)
 
-Por tanto, haciendo balance de cuentas teniendo en cuenta el periodo necesario para obtener beneficios brutos del sistema, es decir, reponer todo el gasto empleado en el desarrollo. Obtenemos el siguiente resultado: 
+Por tanto, haciendo balance de cuentas teniendo en cuenta el periodo necesario para obtener beneficios brutos del sistema, es decir, reponer todo el 
+gasto empleado en el desarrollo. Obtenemos el siguiente resultado: 
+
+![Costes pesimistas y optimistas](/img/pessimism_optimist_costs.png)
 
 ![Comparación entre beneficios y costes](/img/comparacion_beneficios_costes.png)
 
