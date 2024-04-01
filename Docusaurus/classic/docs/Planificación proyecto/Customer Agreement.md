@@ -1,14 +1,16 @@
+# Customer Agreement
 # Términos de Aceptación
 
-Este acuerdo del Cliente (en adelante "Acuerdo") se establecen los términos y condiciones para la aceptación del acuerdo entre el Aparking  y los usuarios finales (en adelante, "Cliente") quienes utilizan los servicios de nuestra aplicación y web de busqueda de aparcamiento (en adelante "Aplicación").
-
+Este acuerdo del Cliente (en adelante "Acuerdo") establece los términos y condiciones bajo los cuales Aparking ofrece sus servicios a los usuarios finales (en adelante, "Cliente") utilizando nuestra aplicación y sitio web de búsqueda de aparcamiento.
 
 # Uso del Servicio
 
-Usted acepta utilizar el Servicio solo para fines legales y de conformidad con este Acuerdo. Usted es responsable de todas las actividades realizadas en su cuenta.
+El Cliente se compromete a utilizar el Servicio únicamente para fines legales y de conformidad con este Acuerdo, asumiendo la responsabilidad total de todas las actividades realizadas bajo su cuenta.
 
 
 # Descripción de Servicios
+
+Nuestra oferta, incluido el Alquiler de Garajes, Mostrar Aparcamientos Libres en la Calle, y Cesión de Aparcamiento en la Calle, está sujeta a limitaciones o restricciones específicas, detalladas dentro de nuestras descripciones de servicio.
 
 #### Servicios/Productos:
 
@@ -29,6 +31,8 @@ El Cliente acepta que el alcance de los servicios/productos proporcionados estar
 
 
 # Obligaciones de Aparking
+
+Aparking y los Clientes están sujetos a obligaciones detalladas respecto a la provisión y utilización de servicios/productos, que abarcan el pago, el uso adecuado, la precisión de la información, la cooperación para la entrega eficiente del servicio y la resolución de problemas.
 
 1. **Provisión de Servicios/Productos:**
    * Aparking se compromete a proporcionar los servicios/productos acordados de manera eficiente y profesional, cumpliendo con los estándares de calidad especificados en el presente acuerdo.
@@ -66,12 +70,12 @@ El Cliente reconoce y acepta que el cumplimiento de estas obligaciones es esenci
 
 # Política de Privacidad
 
-Su privacidad es importante para nosotros. Nuestra Política de Privacidad, [enlace a la Política de Privacidad], explica cómo recopilamos, utilizamos y protegemos su información personal.
+Nuestra Política de Privacidad describe nuestras prácticas de manejo de datos, subrayando nuestro compromiso con la protección de la privacidad del cliente.
 
 
 # Políticas de facturación y pagos
 
-En esta sección se detallan las tarifas asociadas con los servicios/productos ofrecidos por Aparking, así como las condiciones de pago, la política de facturación y las penalizaciones por pagos atrasados.
+Esta sección incluye los costos asociados con nuestros servicios/productos, el calendario de pagos, los métodos de pago aceptados, los procedimientos de facturación y las implicaciones de los pagos atrasados.
 
 #### Tarifas de Servicios/Productos:
 
@@ -173,12 +177,14 @@ En caso de terminación del acuerdo por cualquier motivo, el Cliente deberá pag
 
 # Cambios en el Acuerdo
 
-En esta sección, se reserva el derecho de modificar este Acuerdo en cualquier momento. El uso continuado del Servicio después de tales cambios constituye su aceptación de los nuevos términos.
+Cualquier modificación a este Acuerdo será comunicada a los Clientes con antelación, requiriendo su consentimiento explícito antes de su implementación. Los Clientes serán informados sobre los cambios y se les dará la opción de aceptar los términos actualizados o discontinuar el uso del Servicio, asegurando su derecho a elegir.
 
 
 # Ley Aplicable
 
-Este Acuerdo estará regido por las leyes de Jurisdicción, sin tener en cuenta sus disposiciones sobre conflictos de leyes.
+Aunque el Acuerdo está regido principalmente por las leyes de la Jurisdicción especificada para garantizar una protección legal sólida, está diseñado para no excluir la aplicación de leyes de protección al consumidor que ofrezcan protecciones más fuertes a los Clientes basadas en su país de residencia.
+
+Para cualquier consulta o información adicional sobre este Acuerdo o nuestros servicios, los Clientes están invitados a contactar directamente a Aparking a través de la información de contacto proporcionada.
 
 
 # Información de Contacto
