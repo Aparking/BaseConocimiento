@@ -10,15 +10,16 @@ En este primer apartado, se procede a analizar con detalle el cumplimiento del e
 
 - **Fecha:** 31/03/2024
 - **Duración:** 1h y 05 minutos
-  | **Participantes**     | **Roles**                            | 
-  | ----------------------| ------------------------- ---------- | 
-  | Virgilio Oliva Alonso | Secretario y equipo de desarrollo    |  
-  | Alberto Perea León    | Scrum Master y equipo de desarrollo  |  
-  | Laura Roldán Merat    | Secretaria y equipo de desarrollo    |  
-  | María Vico Martín     | Product Owner y equipo de desarrollo |  
-  | Iván Sánchez San José | Equipo de desarrollo |
 
--**Resumen de la reunión:** El equipo ha revisado exhaustivamente la situación actual en la que se encontraba el sistema a implementar. Se cerraron aquellas pull requests que estaban abiertas y que se podían cerrar, se arreglaron tareas que no contaban con asignaciones de prioridad y tamaño, y, en general, se mejoró el tablero Kanban. 
+  | **Participantes**     | **Roles**                            |
+  | --------------------- | ------------------------------------ |
+  | Virgilio Oliva Alonso | Secretario y equipo de desarrollo    |
+  | Alberto Perea León    | Scrum Master y equipo de desarrollo  |
+  | Laura Roldán Merat    | Secretaria y equipo de desarrollo    |
+  | María Vico Martín     | Product Owner y equipo de desarrollo |
+  | Iván Sánchez San José | Equipo de desarrollo                 |
+
+-**Resumen de la reunión:** El equipo ha revisado exhaustivamente la situación actual en la que se encontraba el sistema a implementar. Se cerraron aquellas pull requests que estaban abiertas y que se podían cerrar, se arreglaron tareas que no contaban con asignaciones de prioridad y tamaño, y, en general, se mejoró el tablero Kanban.
 
 En este Sprint el equipo ha trabajado de manera más eficiente, aprendiendo de varios de los errores recogidos durante el entregable anterior. Se han logrado cerrar casi todas las tareas pendientes del Sprint anterior con éxito, sin embargo, debido a la poca velocidad con la que se cierran tareas, no han podido cerrarse todas las tareas que el equipo hubiera querido, posponiéndose al último Sprint con máxima urgencia.
 
@@ -26,9 +27,10 @@ Por último, cabe destacar que se ha acortado el alcance del proyecto, no incluy
 
 ## Estado del Sprint Backlog
 
-Para tener una visión más clara del estado real del proyecto, se recogen todas las tareas que posee el Sprint Backlog de la segunda iteración y se analiza el estado en el que se encuentran. El listado de tareas es el siguiente: 
+Para tener una visión más clara del estado real del proyecto, se recogen todas las tareas que posee el Sprint Backlog de la segunda iteración y se analiza el estado en el que se encuentran. El listado de tareas es el siguiente:
 
 | **Historia de usuario** | **Estado actual** |
+|-------------------------|-------------------|
 | Actualizar análisis de costes #122 | Finalizado |
 | Arreglo del Docusaurus #142 | Finalizado |
 | Agregacion de datos #104 | Finalizado |
@@ -44,7 +46,7 @@ Para tener una visión más clara del estado real del proyecto, se recogen todas
 | Reformular ecuación para medir el esfuerzo #119 | Finalizado |
 | Elaborar un Pilot User Agreement #121 | Finalizado |
 | Elaborar la guía de usuario para los usuarios piloto #149 | Finalizado |
-| Implementar registro con validación desde el correo #164  | Finalizado |
+| Implementar registro con validación desde el correo #164 | Finalizado |
 | Elaborar plantillas de issues para el repositorio #126 | Finalizado |
 | Implementación de Docker para la Configuración del Proyecto #91 | Finalizado |
 | Doc: Cambio fórmula rendimiento #178 | Finalizado |
@@ -64,7 +66,7 @@ Para tener una visión más clara del estado real del proyecto, se recogen todas
 | Fix: incluir modulo de autenticación en frontend de develop #30 | Finalizado |
 | Despliegue Sprint 2 #39 | En progreso |
 | Despliegue frontent S2 #171 | En progreso |
-| Documentación Sprint 2 #42  | Finalizado |
+| Documentación Sprint 2 #42 | Finalizado |
 | watch_theory_pill_Testing #153 | En progreso |
 | watch_theory_pill_customer_agreement #154 | En progreso |
 | watch_theory_pill_Replanning, Story Boards, and Expenses_Revenues Estimation #152 | En progreso |
