@@ -26,3 +26,4 @@ sidebar_position: 1
 | Mario Aroca Páez       | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)                |
 | Mario Aroca Páez       | 30-03-2024 | [Documento a Markdown](https://chat.openai.com/share/9fae8fea-9a0b-49b5-96e9-83bc755e104c)                |
 | Mario Aroca Páez       | 30-03-2024 | [Excel a Markdown](https://chat.openai.com/share/082febe3-71ef-42f5-978e-a083e2054bc2)                |
+| Mario Aroca Páez       | 06-03-2024 | [Prompt contexto proyecto para la IA](https://chat.openai.com/share/9228d90b-5b73-468d-9a6a-961b221ab2d4)                |
