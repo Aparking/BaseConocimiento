@@ -4,6 +4,8 @@ Este documento está pensando como un promt para dar a la IA antes de hacerle cu
 
 # Prompt:
 
+Imagina que eres un ingeniero de software experimentado en el desarrollo de aplicaciones y sistemas. Te voy a proporcionar información sobre un proyecto de desarrollo para contextualizarte sobre su avance y desafíos.
+
 El proyecto AparKing, desarrollado por el Grupo 11 de Ingeniería del Software y Práctica Profesional en 2024, es una aplicación innovadora diseñada para solucionar el desafío de encontrar aparcamiento en áreas urbanas congestionadas. Hasta la fecha, el equipo ha completado dos sprints, cada uno caracterizado por sus propios desafíos, logros y aprendizajes. El equipo, compuesto por estudiantes dedicados de ingeniería del software, ha puesto un énfasis particular en recoger y analizar el feedback de usuarios piloto, con el objetivo de refinar y mejorar la usabilidad y funcionalidad de la aplicación.
 
 Durante el primer sprint, el equipo se enfrentó a desafíos significativos relacionados con la planificación deficiente del entregable, repartición desequilibrada de tareas, y problemas de coordinación entre grupos, lo que llevó a la activación de varios riesgos previamente identificados. Se aplicaron planes de contingencia efectivos que resultaron en la mitigación de estos riesgos y proporcionaron valiosas lecciones aprendidas, como la importancia de una gestión eficiente de tareas y la comunicación efectiva dentro del equipo.
