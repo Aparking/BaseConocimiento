@@ -1,5 +1,4 @@
-﻿# Sprint 2
-# Sprint Review
+﻿# Sprint Review
 
 ## Resumen ejecutivo
 
@@ -30,48 +29,48 @@ Por último, cabe destacar que se ha acortado el alcance del proyecto, no incluy
 
 Para tener una visión más clara del estado real del proyecto, se recogen todas las tareas que posee el Sprint Backlog de la segunda iteración y se analiza el estado en el que se encuentran. El listado de tareas es el siguiente:
 
-| **Historia de usuario** | **Estado actual** |
-|-------------------------|-------------------|
-| Actualizar análisis de costes #122 | Finalizado |
-| Arreglo del Docusaurus #142 | Finalizado |
-| Agregacion de datos #104 | Finalizado |
-| Actualizar documento de gestión de la configuración #124 | Finalizado |
-| Creación de Failure conditions check en el docusaurus #155 | Finalizado |
-| Seguimiento de riesgos y planes de contingencia Sprint 2 #112 | Finalizado |
-| Elaborar resumen de procedimientos para docusaurus #123 | Finalizado |
-| Presentación individual performance #110 | Finalizado |
-| Elaborar presentación 19/03 #145 | Finalizado |
-| Actualizar Landing Page #115 | Finalizado |
-| Hacer de Usuarios Piloto para el grupo 5 #162 | Finalizado |
-| doc: Interpretar el feedback de los usuarios piloto #174 | Finalizado |
-| Reformular ecuación para medir el esfuerzo #119 | Finalizado |
-| Elaborar un Pilot User Agreement #121 | Finalizado |
-| Elaborar la guía de usuario para los usuarios piloto #149 | Finalizado |
-| Implementar registro con validación desde el correo #164 | Finalizado |
-| Elaborar plantillas de issues para el repositorio #126 | Finalizado |
-| Implementación de Docker para la Configuración del Proyecto #91 | Finalizado |
-| Doc: Cambio fórmula rendimiento #178 | Finalizado |
-| Generar un StoryBoard #141 | Finalizado |
-| Solucionar login y registro en el sistema #159 | Finalizado |
-| fix populate.json #113 | Finalizado |
-| Actualizar Report base de conocimiento común #165 | Finalizado |
-| Despliegue del frontend #143 | Finalizado |
-| doc: Nuevo StoryBoard #172 | Finalizado |
-| Documentar Sprint Retrospective (Sprint 2) #140 | Finalizado |
-| Doc: Elaborar un Pilot Users Performance Evaluation Form #175 | Finalizado |
-| Refactor: Arreglo del backend de alquileres de coches para que funcione correctamente #147 | Finalizado |
-| Alquilar un garaje #176 | Finalizado |
-| Implementar GPS para localizaciones #17 | Finalizado |
-| Adición de membresías y permisos a la aplicación #12 | Finalizado |
-| Elaborar un Customer Agreement #144 | Finalizado |
-| Fix: incluir modulo de autenticación en frontend de develop #30 | Finalizado |
-| Despliegue Sprint 2 #39 | En progreso |
-| Despliegue frontent S2 #171 | En progreso |
-| Documentación Sprint 2 #42 | Finalizado |
-| watch_theory_pill_Testing #153 | En progreso |
-| watch_theory_pill_customer_agreement #154 | En progreso |
-| watch_theory_pill_Replanning, Story Boards, and Expenses_Revenues Estimation #152 | En progreso |
-| Documentar Sprint Review (Sprint 2) #139 | Finalizado |
-| Documentar feedback de los usuarios pilotos #66 | Finalizado |
+| **Historia de usuario**                                                                    | **Estado actual** |
+| ------------------------------------------------------------------------------------------ | ----------------- |
+| Actualizar análisis de costes #122                                                         | Finalizado        |
+| Arreglo del Docusaurus #142                                                                | Finalizado        |
+| Agregacion de datos #104                                                                   | Finalizado        |
+| Actualizar documento de gestión de la configuración #124                                   | Finalizado        |
+| Creación de Failure conditions check en el docusaurus #155                                 | Finalizado        |
+| Seguimiento de riesgos y planes de contingencia Sprint 2 #112                              | Finalizado        |
+| Elaborar resumen de procedimientos para docusaurus #123                                    | Finalizado        |
+| Presentación individual performance #110                                                   | Finalizado        |
+| Elaborar presentación 19/03 #145                                                           | Finalizado        |
+| Actualizar Landing Page #115                                                               | Finalizado        |
+| Hacer de Usuarios Piloto para el grupo 5 #162                                              | Finalizado        |
+| doc: Interpretar el feedback de los usuarios piloto #174                                   | Finalizado        |
+| Reformular ecuación para medir el esfuerzo #119                                            | Finalizado        |
+| Elaborar un Pilot User Agreement #121                                                      | Finalizado        |
+| Elaborar la guía de usuario para los usuarios piloto #149                                  | Finalizado        |
+| Implementar registro con validación desde el correo #164                                   | Finalizado        |
+| Elaborar plantillas de issues para el repositorio #126                                     | Finalizado        |
+| Implementación de Docker para la Configuración del Proyecto #91                            | Finalizado        |
+| Doc: Cambio fórmula rendimiento #178                                                       | Finalizado        |
+| Generar un StoryBoard #141                                                                 | Finalizado        |
+| Solucionar login y registro en el sistema #159                                             | Finalizado        |
+| fix populate.json #113                                                                     | Finalizado        |
+| Actualizar Report base de conocimiento común #165                                          | Finalizado        |
+| Despliegue del frontend #143                                                               | Finalizado        |
+| doc: Nuevo StoryBoard #172                                                                 | Finalizado        |
+| Documentar Sprint Retrospective (Sprint 2) #140                                            | Finalizado        |
+| Doc: Elaborar un Pilot Users Performance Evaluation Form #175                              | Finalizado        |
+| Refactor: Arreglo del backend de alquileres de coches para que funcione correctamente #147 | Finalizado        |
+| Alquilar un garaje #176                                                                    | Finalizado        |
+| Implementar GPS para localizaciones #17                                                    | Finalizado        |
+| Adición de membresías y permisos a la aplicación #12                                       | Finalizado        |
+| Elaborar un Customer Agreement #144                                                        | Finalizado        |
+| Fix: incluir modulo de autenticación en frontend de develop #30                            | Finalizado        |
+| Despliegue Sprint 2 #39                                                                    | En progreso       |
+| Despliegue frontent S2 #171                                                                | En progreso       |
+| Documentación Sprint 2 #42                                                                 | Finalizado        |
+| watch_theory_pill_Testing #153                                                             | En progreso       |
+| watch_theory_pill_customer_agreement #154                                                  | En progreso       |
+| watch_theory_pill_Replanning, Story Boards, and Expenses_Revenues Estimation #152          | En progreso       |
+| Documentar Sprint Review (Sprint 2) #139                                                   | Finalizado        |
+| Documentar feedback de los usuarios pilotos #66                                            | Finalizado        |
 
 Todas las demás tareas no se han completado en el Sprint 2 y se han pospuesto al siguiente entregable. Se trata de todas las tareas de testing, las tareas de pasarelas de pago, de la página de inicio y alguna que otra de refinar lo que ya se tiene hecho o pequeñas funcionalidades individuales.
