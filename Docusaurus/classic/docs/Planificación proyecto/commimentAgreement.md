@@ -53,7 +53,7 @@ Esta será la forma de medir el rendimiento de los integrantes que han firmado e
 **Bonificación (B)**: Bonificación determinada por los coordinadores de los grupos (valor entre 0 y 1).
 
 $$
-\left(\frac{{T_s}}{{T_d}}\right) \times \left(\frac{{\text{{PHt}}}}{{\text{{PHe}}}}\right) \times 10 - P + B
+\frac{\left(\frac{{T_s}}{{T_d}}\right) + \left(\frac{{\text{{PHt}}}}{{\text{{PHe}}}}\right)}{2} \times 10 - P + B
 $$
 
 Con esta fórmula, el rendimiento puede superar el 100%. Esto sería porque el integrante ha realizado todas las tareas asignadas en el tiempo estimado y además los coordinadores están muy contentos con su esfuerzo y dedicación al proyecto.
