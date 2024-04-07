@@ -332,6 +332,38 @@ La intención de este documento es mostrar cómo se han organizado los conocimie
 
 - Hay que hacer un balance entre una guía que lleve de la mano al usuario pilotti y dejarlo por libre. Se deberá decir al usuaro que testear pero tamoco explicarlo 100% como funciona para que explore y explique como de intuitivo/fácuil es hacer esa función.
 
+## Semana 8
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- Relacionar el inicio efectivo con la demo.
+- Mucho tiempo dedicado a la parte inicial. Se tiene que dedicar el mayor tiempo a la parte técnica y planificación del proyecto que a vender el producto.
+- Explicar en la presentación como se va a gestionar el feedback de los usuarios pilotos.
+
+**Demo**
+
+- Usar una lupa en la demo para hacer zoom en las partes claves.
+
+**Documentación**
+
+- Poner las _condiciones de fallo_ en la parte del Sprint 2, no en Planificación del proyecto.
+
+**Desarrollo**
+
+- Se valora positivamente implementar un social loging (google, facebook, ...)
+
+### Feedback común
+
+**Demos**
+
+- Usar una lupa para hacer zoom a lar partes importantes de la demo. Pero sin pasarse.
+
+**Presentación**
+
+- No usar colores con tonos similares para exponer distintas cosas en una misma gráfica/tabla.
+
 ## Acciones de consolidación
 
 Después de la presentación, nos hemos reunido todas las semanas para comentar el feedback recibido y establecer soluciones para mejorar lo comentado por los profesores tanto a nosotros como los compañeros. Se ha reforzado y animado a los compañeros a seguir con el trabajo que ha sido alabado en el feedback y se han compartido nuevas estrategias para mejorar el producto mostrado.
