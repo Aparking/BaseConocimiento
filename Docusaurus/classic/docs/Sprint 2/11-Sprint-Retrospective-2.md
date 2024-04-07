@@ -1,5 +1,4 @@
-﻿# SPRINT 2
-# Sprint Retrospective
+﻿# Sprint Retrospective
 
 ## Resumen ejecutivo
 
@@ -21,7 +20,7 @@ Tras una mala asignación del Sprint Backlog durante el anterior Sprint y la con
 
 Durante el Sprint #2, se ha seguido manteniendo la misma política de ramas (GitFlow), ya que esta funciona especialmente bien en el equipo de trabajo. A continuación, se explayan con rigurosidad los detalles sobre el tema:
 
-- **Nomenclatura de las ramas:** salvo pequeños casos, la nomenclatura de las ramas en este Sprint se ha respetado mucho más que en el anterior, ya que al mejorar la comunicación con el equipo y realizar una guía de acceso rápido del reglamento y políticas a seguir, la mayoría estuvo al tanto de la normativa a seguir. 
+- **Nomenclatura de las ramas:** salvo pequeños casos, la nomenclatura de las ramas en este Sprint se ha respetado mucho más que en el anterior, ya que al mejorar la comunicación con el equipo y realizar una guía de acceso rápido del reglamento y políticas a seguir, la mayoría estuvo al tanto de la normativa a seguir.
 - **Posición de ramas y cierre:** de la misma forma, se ha respetado la división de las ramas desde develop, de la misma forma que antes de subir los cambios de una épica a develop, todas las subtareas deberán integradas en su rama épica correspondiente. De igual manera que en el anterior Sprint, las ramas en las que se haya finalizado el trabajo y se encuentren ya integradas en develop, han sido borradas para la limpieza del repositorio.
 
 ### Commits y Pull Request
@@ -66,17 +65,16 @@ Sin embargo, como se ha comentado en apartados anteriores, el Sprint #2 se vuelv
   - **Dependencia de tareas** algunos integrantes no han podido realizar algunas tareas debido a que para comenzarlas, tenían que esperar a que otro compañero finalizara la suya. Es por tanto que las dependencias entre tareas ha favorecido a que no se hayan terminado todas las tareas previstas.
   - **Surgimiento de tareas no contempladas** días previos a la entrega el equipo se dio cuenta de que había una tarea necesaria que no había sido contemplada por el equipo
 
-
 ## Plan de acción
 
 De esta manera, tras analizar las circunstancias que se han dado durante el Sprint, se puede obtener el siguiente plan de acción, el cual está destinado a anotar aquellas mejoras y consejos para comenzar a tener en cuenta por los integrantes para el próximo entregable, o “_start doing_”, situaciones que el equipo debería continuar haciendo, o “_continue doing_”, ya que funcionan y se hacen de manera correcta y acciones que se deben de dejar de hacer porque están perjudicando el desempeño grupal, o “_stop doing_”.
 
 Con este plan de acción se pretende que todos los miembros del equipo tengan constancia de qué acciones son viables y lo apliquen para siguientes entregables o proyectos. A continuación, se muestra la lista:
 
-| **START**                                        | **STOP**                               | **CONTINUE**                                          |
-| -------------------------------------------------| -------------------------------------- | ----------------------------------------------------- |
-| Seguir estándares de configuración rígidamente   | Dejar las pull request abiertas por mucho tiempo | Hacer documentos con alta calidad           |
-| Agilizar la gestión de errores software          | Desinterés por la asignatura de algunos miembros | Mantener una buena comunicación             |
-| Seguir el Commitment Agreement                   | Asignar tareas a quienes más tengan              | Registro de horas en Clockify               |
-| Finalizar las tareas de Sprints anteriores       | Superar las 10 horas semanales          | Monitorizar correctamente y semanalmente los riesgos |
-|                                                  | Posponer tareas para el siguiente Sprint | Hacer la documentación en Docusaurus directamente   |
+| **START**                                      | **STOP**                                         | **CONTINUE**                                         |
+| ---------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------- |
+| Seguir estándares de configuración rígidamente | Dejar las pull request abiertas por mucho tiempo | Hacer documentos con alta calidad                    |
+| Agilizar la gestión de errores software        | Desinterés por la asignatura de algunos miembros | Mantener una buena comunicación                      |
+| Seguir el Commitment Agreement                 | Asignar tareas a quienes más tengan              | Registro de horas en Clockify                        |
+| Finalizar las tareas de Sprints anteriores     | Superar las 10 horas semanales                   | Monitorizar correctamente y semanalmente los riesgos |
+|                                                | Posponer tareas para el siguiente Sprint         | Hacer la documentación en Docusaurus directamente    |
