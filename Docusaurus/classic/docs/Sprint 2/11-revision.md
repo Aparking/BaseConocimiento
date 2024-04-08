@@ -32,24 +32,13 @@ Obviamente estos datos se podrán actualizar en cualquier momento por el dueño 
 
 Todos los datos necesarios para realizar el análisis de la aplicación se encuentran en la Landing Page oficial de AparKing [Landing page](https://aparking-144153767.hubspotpagebuilder.eu/aparking) En esta se podrán visitar los Mockups de la aplicación por el botón “Mockups” y también estará enlazado con el GitHub de la organización AparKing por medio del botón “Visit Us”, esta organización consta de tres repositorios, uno para el backend de AparKing, otro para el frontend y un último para la base de conocimiento Común de Docusaurus. Además, existe una sección dedicada a cada uno de los Sprints para que los usuarios piloto encuentren rápidamente la aplicación desplegada por cada sprint. Esta sección tiene un botón con la versión desplegada de cada sprint “Sprint X” y justo debajo un botón donde podrán rellenar una encuesta de feedback sobre la experiencia probando la aplicación.
 
-Finalmente, se expone todos los enlaces ya mencionados para dejarlos más accesible, así como la
-información necesaria para poder acceder a la aplicación y realizar las correspondientes revisiones de
-esta:
+Finalmente, se expone todos los enlaces ya mencionados para dejarlos más accesible:
 
-- Credenciales:
-  - Administrador:
-    - Nombre de usuario: admin
-    - Contraseña: admin
-  - Usuarios esporádicos:
-    - Usuario 1:
-      - Nombre de usuario: Emilio
-      - Contraseña: emiagufer
-    - Usuario 2:
-      - Nombre de usuario: Noelia
-      - Contraseña: noepergar
 - URL Despliegue: [Aparking APP](https://aparking-frontend.vercel.app/)
 - URL GitHub: [Aparking Github](https://github.com/Aparking)
   - Backend: [Backend aparking](https://github.com/Aparking/AparKing_Backend)
   - Frontend: [Frontend aparking](https://github.com/Aparking/AparKing_Frontend)
   - Base del conocimiento: [Base de conocimiento Aparking](https://github.com/Aparking/BaseConocimiento)
 - URL Clockify: [Clockify](https://app.clockify.me/shared/65e4d112997a62586a5562e2)
+
+Las credenciales necesarias para probar la aplicación correctamente han sido enviadas al profesor que evalúa nuestro proyecto, con el fin de mantener la privacidad y seguridad de nuestro sistema.
