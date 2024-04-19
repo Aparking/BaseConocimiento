@@ -538,9 +538,21 @@ Contribución del estudiante:
 Contribución del estudiante: 
 
 - Primera semana (05/03): 
+  - Asistencia a clase 
+  - Planes de precio 
+  - Píldoras teóricas 
+  - Ayuda con la presentación 
 - Segunda semana (12/03): 
+  - Asistencia a clase 
+  - Píldoras teóricas 
+  - Añadir y arreglar fallos en los planes de precio 
+  - Test login y register 
+  - Ayuda con la presentación 
 - Tercera semana (19/03): 
-
+  - Asistencia a clase 
+  - Píldoras teóricas 
+  - Finalizar planes de precio con los cambios sugeridos. 
+  - Configuración para el desarrollo local 
 
 
 **Aroca Páez, Mario** 
@@ -713,9 +725,20 @@ Contribución del estudiante:  
 
 Contribución del estudiante: 
 
-- Primera semana (05/03): 
-- Segunda semana (12/03): 
-- Tercera semana (19/03): 
+- Primera semana (05/03):
+  - Asistencia a clase
+  - Planes de precio
+  - Píldoras teóricas
+  - Ayuda con la presentación
+- Segunda semana (12/03):
+  - Asistencia a clase
+  - Píldoras teóricas
+  - Añadir y arreglar fallos en los planes de precio
+  - Test login y register
+- Tercera semana (19/03):
+  - Asistencia a clase
+  - Píldoras teóricas
+  - Finalizar planes de precio con los cambios sugeridos.
 
 **Ruiz Jurado, Ismael**  
 
