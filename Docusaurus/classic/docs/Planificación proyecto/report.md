@@ -364,6 +364,48 @@ La intención de este documento es mostrar cómo se han organizado los conocimie
 
 - No usar colores con tonos similares para exponer distintas cosas en una misma gráfica/tabla.
 
+## Semana 9
+
+### Feedback específico del grupo
+
+**Demos**
+
+- Enlazar la demo con el anuncio, usar simbolos para indicar que tipo de usuario usa la funcionalidad.
+- Hacer la demo con la aplicación en claro (blanco).
+- Eliminar las partes que no forman parte del core de la aplicacion, como el login.
+
+**Presentación**
+
+- La parte del planning de la siguiente semana va después de la demo.
+- Poner menos datos en las diapositivas porque no da tiempo a digerir la información.
+- Ajustar el tamaño de las diapositivas a la pantalla donde se proyecta.
+- Cuidar la presentación y unificar los estilos. Hay que ser profesionales y consistentes.
+- La parte del costumer agreement se puede reducir a una diapositiva.
+- Elaborar un elevator pitch que hable sobre nuestra funcionalidad de forma resumida.
+
+**Presentadores**
+
+- Vocalizar más en el inicio.
+- Explicar mejor de que va nuestra aplicación para que sea clara para los oyentes.
+
+### Feedback común
+
+**Demos**
+
+- Incluir datos realistas en las demostraciones.
+
+**Presentación**
+
+- Hay que mantener la uniformidad en los elementos de las presentaciones como las gráficas.
+
+- Mantener la misma tipografía y paleta de colores en todas las diapositivas.
+
+- Conectar la demo con el anuncio y el inicio ejectivo.
+
+- No añadir información excesiva en las presentaciones, que permita a los oyentes digerir la información.
+
+- Para la información extra añadirlas a diapositivas finales después de todo por si preguntan por esa información.
+
 ## Acciones de consolidación
 
 Después de la presentación, nos hemos reunido todas las semanas para comentar el feedback recibido y establecer soluciones para mejorar lo comentado por los profesores tanto a nosotros como los compañeros. Se ha reforzado y animado a los compañeros a seguir con el trabajo que ha sido alabado en el feedback y se han compartido nuevas estrategias para mejorar el producto mostrado.
