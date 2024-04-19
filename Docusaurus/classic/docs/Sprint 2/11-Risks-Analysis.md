@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
-## Seguimiento de riesgos
+# Seguimiento de riesgos
 
 ### SPRINT 2. Semana del 06/03 al 02/04: 
 
