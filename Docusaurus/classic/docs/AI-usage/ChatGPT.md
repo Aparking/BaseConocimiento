@@ -27,4 +27,6 @@ sidebar_position: 1
 | Mario Aroca Páez         | 30-03-2024 | [Documento a Markdown](https://chat.openai.com/share/9fae8fea-9a0b-49b5-96e9-83bc755e104c)                         |
 | Mario Aroca Páez         | 30-03-2024 | [Excel a Markdown](https://chat.openai.com/share/082febe3-71ef-42f5-978e-a083e2054bc2)                             |
 | Mario Aroca Páez         | 06-03-2024 | [Prompt contexto proyecto para la IA](https://chat.openai.com/share/9228d90b-5b73-468d-9a6a-961b221ab2d4)          |
+| Mario Aroca Páez       | 20-04-2024 | [Traer cambios de Main a una rama](https://chat.openai.com/share/c4b89f77-a9e9-4071-95f4-e8af1b3b412b)                |
 | Carmen Ruiz Porcel       | 20-04-2024 | [Excel a Markdown](https://chat.openai.com/share/a133060e-2bbb-470e-8f00-0cae75cbdf01)                             |
+
