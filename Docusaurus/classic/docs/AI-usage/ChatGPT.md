@@ -21,10 +21,12 @@ sidebar_position: 1
 | Carmen Ruiz Porcel       | 02-03-2024 | [Geolocalización con Angular](https://chat.openai.com/share/89fa9b05-ec9b-4661-b0e1-948bc38ac91c)                  |
 | Ivan Sánchez San José    | 03-03-2024 | [Angular Project Structure Guide](https://chat.openai.com/share/e78fccf0-50f8-4543-b3cd-0387226d9034)              |
 | Carmen Ruiz Porcel       | 03-03-2024 | [Test unitario desarrollo ágil](https://chat.openai.com/share/91ee4faa-31b6-404d-8f7e-3215284424a2)                |
-| Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)    |
-| Mario Aroca Páez       | 17-03-2024 | [Convertir PDF a Markdown](https://chat.openai.com/share/3a07272f-41d9-4f8c-9780-2ec37115d815)                |
-| Mario Aroca Páez       | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)                |
-| Mario Aroca Páez       | 30-03-2024 | [Documento a Markdown](https://chat.openai.com/share/9fae8fea-9a0b-49b5-96e9-83bc755e104c)                |
-| Mario Aroca Páez       | 30-03-2024 | [Excel a Markdown](https://chat.openai.com/share/082febe3-71ef-42f5-978e-a083e2054bc2)                |
-| Mario Aroca Páez       | 06-03-2024 | [Prompt contexto proyecto para la IA](https://chat.openai.com/share/9228d90b-5b73-468d-9a6a-961b221ab2d4)                |
+| Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)                  |
+| Mario Aroca Páez         | 17-03-2024 | [Convertir PDF a Markdown](https://chat.openai.com/share/3a07272f-41d9-4f8c-9780-2ec37115d815)                     |
+| Mario Aroca Páez         | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)             |
+| Mario Aroca Páez         | 30-03-2024 | [Documento a Markdown](https://chat.openai.com/share/9fae8fea-9a0b-49b5-96e9-83bc755e104c)                         |
+| Mario Aroca Páez         | 30-03-2024 | [Excel a Markdown](https://chat.openai.com/share/082febe3-71ef-42f5-978e-a083e2054bc2)                             |
+| Mario Aroca Páez         | 06-03-2024 | [Prompt contexto proyecto para la IA](https://chat.openai.com/share/9228d90b-5b73-468d-9a6a-961b221ab2d4)          |
 | Mario Aroca Páez       | 20-04-2024 | [Traer cambios de Main a una rama](https://chat.openai.com/share/c4b89f77-a9e9-4071-95f4-e8af1b3b412b)                |
+| Carmen Ruiz Porcel       | 20-04-2024 | [Excel a Markdown](https://chat.openai.com/share/a133060e-2bbb-470e-8f00-0cae75cbdf01)                             |
+
