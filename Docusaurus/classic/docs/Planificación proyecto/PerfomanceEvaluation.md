@@ -6,6 +6,8 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 |---------------------|-------------------|------------------------------------------------------------------|
 | 1                   | 18/02/2024        | Primera implementación del documento para primer entregable. Formalización del documento.     |
 | 2                   | 28/02/2024        | Añadido el rendimiento del Sprint 1.                              |
+| 3                   | 24/03/2024        | Añadido el rendimiento del Sprint 2.                              |
+| 4                   | 21/04/2024        | Añadido el rendimiento del Sprint 3.                              |
 
 ## 3. Contenido
 
@@ -16,21 +18,21 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 |  |  Evaluación del rendimiento individual acordada   |     |     |     |     |     |     |     |     
 |-----------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
 | Estudiante                                     | #DP1| #S1 | #S2 | #S3 | #PPL| #WPL| Total| Peso|     
-| Alcobendas Santos, José Javier                | 9,5 | 8,5 |     |     |     |     |     |     |     
-| Aroca Páez, Mario                             | 9   | 8,5 |     |     |     |     |     |     |     
-| Caballero Muñoz, Enrique                      | 9   | 8,5 |     |     |     |     |     |     |     
-| Oliva Alonso, Virgilio                        | 9   | 9   |     |     |     |     |     |     |     
-| Perea León, Alberto                           | 10  | 9,5 |     |     |     |     |     |     |     
-| Pérez Vázquez, Alejandro                      | 9,5 | 9,5 |     |     |     |     |     |     |     
-| Ramírez López, Juan Carlos                    | 10  | 10  |     |     |     |     |     |     |     
-| Merat Roldán, Laura                           | 10  | 9,5 |     |     |     |     |     |     |     
-| Ruiz Aguilar, Pedro Jesús                     | 9   | 9,5 |     |     |     |     |     |     |     
-| Ruiz Jurado, Ismael                           | 9   | 9   |     |     |     |     |     |     |     
-| Ruiz Porcel, Carmen                           | 9,5 | 8,5 |     |     |     |     |     |     |     
-| Sánchez San José, Iván                        | 9,5 | 8,5 |     |     |     |     |     |     |     
-| Santiago Sánchez, Sergio                      | 9,5 | 9   |     |     |     |     |     |     |     
-| Vico Martín, María                            | 10  | 8,5 |     |     |     |     |     |     |     
-| **Total**                                     | **132,5** | **125** |     |     |     |     |     |     |     
+| Alcobendas Santos, José Javier                | 9,5 | 8,5 | 8,5 |     |     |     |     |     |     
+| Aroca Páez, Mario                             | 9   | 8,5 | 9   |     |     |     |     |     |     
+| Caballero Muñoz, Enrique                      | 9   | 8,5 | 6   |     |     |     |     |     |     
+| Oliva Alonso, Virgilio                        | 9   | 9   | 7   |     |     |     |     |     |     
+| Perea León, Alberto                           | 10  | 9,5 | 9   |     |     |     |     |     |     
+| Pérez Vázquez, Alejandro                      | 9,5 | 9,5 | 8,5 |     |     |     |     |     |     
+| Ramírez López, Juan Carlos                    | 10  | 10  | 10  |     |     |     |     |     |     
+| Merat Roldán, Laura                           | 10  | 9,5 | 9,5 |     |     |     |     |     |     
+| Ruiz Aguilar, Pedro Jesús                     | 9   | 9,5 | 8,5 |     |     |     |     |     |     
+| Ruiz Jurado, Ismael                           | 9   | 9   | 8,5 |     |     |     |     |     |     
+| Ruiz Porcel, Carmen                           | 9,5 | 8,5 | 8,5 |     |     |     |     |     |     
+| Sánchez San José, Iván                        | 9,5 | 8,5 | 9,5 |     |     |     |     |     |     
+| Santiago Sánchez, Sergio                      | 9,5 | 9   | 9   |     |     |     |     |     |     
+| Vico Martín, María                            | 10  | 8,5 | 8,5 |     |     |     |     |     |     
+| **Total**                                     | **132,5** | **125** |**119,5**     |     |     |     |     |     |     
 
 ### 3.2. Resumen de la contribución individual
 #### Devising a Project (#DP)
@@ -863,59 +865,95 @@ Contribución del estudiante: 
 **Alcobendas Santos, José Javier**
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Aroca Páez, Mario**
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Perea León, Alberto** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Pérez Vázquez, Alejandro** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Ramírez López, Juan Carlos** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Merat Roldán, Laura** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Ruiz Aguilar, Pedro Jesús** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Ruiz Jurado, Ismael** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Ruiz Porcel, Carmen** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Sánchez San José, Iván** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04):
 
 **Santiago Sánchez, Sergio** 
 
 Contribución del estudiante:
+  - Primera semana (02/04): 
+  - Segunda semana (09/04): 
 
 **Vico Martín, María**
 
 Contribución del estudiante:
-
+  - Primera semana (02/04): 
+    - Sprint planning S3.
+    - Inicio frontend del buscador.
+    - Ver píldoras teoricas   
+    - Asistencia a clases. 
+  - Segunda semana (09/04): 
+    - Documento de Sprint Review, Sprint Retrospective y Sprint Planning etapa de marketing.
+    - Configuración del despligue.
+    - Revisión del repositorio y las tareas de mi equipo.
+    - Reunión entre coordinadores.
+    - Asistneica a clases.
 
 ##### Preparing Project Launch (#PPL)
 
