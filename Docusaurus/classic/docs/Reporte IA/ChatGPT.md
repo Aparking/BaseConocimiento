@@ -21,6 +21,8 @@ sidebar_position: 1
 | Carmen Ruiz Porcel       | 02-03-2024 | [Geolocalización con Angular](https://chat.openai.com/share/89fa9b05-ec9b-4661-b0e1-948bc38ac91c)                  |
 | Ivan Sánchez San José    | 03-03-2024 | [Angular Project Structure Guide](https://chat.openai.com/share/e78fccf0-50f8-4543-b3cd-0387226d9034)              |
 | Carmen Ruiz Porcel       | 03-03-2024 | [Test unitario desarrollo ágil](https://chat.openai.com/share/91ee4faa-31b6-404d-8f7e-3215284424a2)                |
-| Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)    |
-| Mario Aroca Páez       | 17-03-2024 | [Convertir PDF a Markdown](https://chat.openai.com/share/3a07272f-41d9-4f8c-9780-2ec37115d815)                |
-| Mario Aroca Páez       | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)                |
+| Carmen Ruiz Porcel       | 03-03-2024 | [Error despliegue docusaurus](https://chat.openai.com/share/7e743e68-f7d4-400f-8285-d5cc1335cb9f)                  |
+| Mario Aroca Páez       | 17-03-2024 | [Convertir PDF a Markdown](https://chat.openai.com/share/3a07272f-41d9-4f8c-9780-2ec37115d815)                       |
+| Mario Aroca Páez       | 17-03-2024 | [Validaciones de Modelo en Django](https://chat.openai.com/share/eb21a58a-43b4-4e8b-9634-edd7d8ef2377)               |
+| María Vico Martín      | 21-04-2024 | [Planificación etapa de Marketing y refactorizaciones](https://chat.openai.com/share/24b46069-e51b-4a59-ae6b-b7550b2653af)                                                                                                                        |
+| Mario Aroca Páez       | 21-04-2024 | [Resolución Problemas Git](https://chat.openai.com/share/c322e648-7bd2-44ce-917c-091e15574939)                       |
