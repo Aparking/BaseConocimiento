@@ -17,5 +17,5 @@ sidebar_position: 1
 + Presentar un reloj de horas totales. Cada semana se actualiza el tiempo consumido. 
 
 #### Base de conocimiento
-+ ¿almacenamiento organizado de la información? Tenemos que pensar qué consultas vamos a hacerle a la base de conocimiento para aclarar qué herramienta utilizar.
++ ¿Almacenamiento organizado de la información? Tenemos que pensar qué consultas vamos a hacerle a la base de conocimiento para aclarar qué herramienta utilizar.
 + Guardar todos los enlaces de los diálogos con la IA. 

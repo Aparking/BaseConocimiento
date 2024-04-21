@@ -1,0 +1,8 @@
+{
+  "label": "Reporte IA",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "¿Que semana quieres explorar?"
+  }
+}
