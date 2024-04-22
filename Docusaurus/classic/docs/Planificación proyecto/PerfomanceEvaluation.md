@@ -937,23 +937,31 @@ Contribución del estudiante:
 **Santiago Sánchez, Sergio** 
 
 Contribución del estudiante:
-  - Primera semana (02/04): 
+  - Primera semana (02/04):
+    - Asistencia a clases.
+    - Visualización de píldora teórica.
+	  - Desarrollo de navegación rápida a la plaza más próxima.
+	  - Revisión y arreglos en login/register/mapa.
   - Segunda semana (09/04): 
-
+    - Asistencia a clases.
+	  - Visualización de píldora teórica.
+	  - Desarrollo de navegación rápida a la plaza más próxima.
+	  - Colaboración con María Vico para concluir la tarea relacionada con la búsqueda.
 **Vico Martín, María**
 
 Contribución del estudiante:
   - Primera semana (02/04): 
     - Sprint planning S3.
     - Inicio frontend del buscador.
-    - Ver píldoras teoricas   
+    - Ver píldoras teóricas   
     - Asistencia a clases. 
   - Segunda semana (09/04): 
     - Documento de Sprint Review, Sprint Retrospective y Sprint Planning etapa de marketing.
-    - Configuración del despligue.
+    - Finalización de la tarea de búsquedad gracias a la ayuda de Sergio Santiago.
+    - Configuración del despliegue.
     - Revisión del repositorio y las tareas de mi equipo.
     - Reunión entre coordinadores.
-    - Asistneica a clases.
+    - Asistencia a clases.
 
 ##### Preparing Project Launch (#PPL)
 
