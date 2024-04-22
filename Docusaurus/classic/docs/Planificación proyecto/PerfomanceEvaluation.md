@@ -852,7 +852,15 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
+  - Asistencia a clases.
+  - Visualización de píldora teórica.
+  - Ayuda a Pedro con la adición de página de about-us de información.
+  -  Añadir las redes sociales a la pagina de About us.
 - Segunda semana (09/04):
+  - Asistencia a clases.
+  - Visualización de píldora teórica.
+  - Ayuda a Pedro en la tarea de añadido banners de anuncios en la página principal.
+  - Revisión y actualización del documento Condiciones de Fallo.
 
 **Aroca Páez, Mario**
 
