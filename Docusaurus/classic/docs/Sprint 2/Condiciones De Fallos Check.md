@@ -2,7 +2,7 @@
 
 ## Condiciones de Fallo Individuales:
 
-- **Requisito de Asistencia**: [Control Asistencia](https://uses0-my.sharepoint.com/:x:/g/personal/albperleo_alum_us_es/EY6wnO9_yuhHvqSlFTWd8kwBHoFd6nTfMjDUsuZel23p-A?e=kCyRIZ)
+- **Requisito de Asistencia**: [Control Asistencia](/Xlsx/AsistenciaClases.xlsx)
 - **Responsividad al Feedback**: No Aplica.
 - **Compromiso con las Píldoras Teóricas**: [Teoría](https://github.com/Aparking/AparKing_Backend/labels/theory).
 
@@ -14,7 +14,7 @@
 - **Gestión del Feedback**: [Feedback](https://base-conocimiento-g11.vercel.app/docs/category/feedback)
 - **Cumplimiento de Expectativas del Documento**: No Aplica
 - **Estándares de Documentación de Entregables**: [Documentación](https://base-conocimiento-g11.vercel.app/docs/intro)
-- **Planificación del Trabajo para Revisiones**: (TODO BACKLOG)
+- **Planificación del Trabajo para Revisiones**: [Review](https://base-conocimiento-g11.vercel.app/docs/Sprint%202/Sprint-Review-2)
 - **Documentación de Contribución a la Base de Conocimiento Compartida**: [Contribución](https://base-conocimiento-g11.vercel.app/docs/Planificaci%C3%B3n%20proyecto/report)
 
 ## Cumplimiento de Entrega del Repositorio GitHub:
@@ -25,16 +25,17 @@
 
 ## Adherencia a las Guías del Revisor de Software:
 
-- No seguir las guías del revisor de software o incurrir en cualquiera de las condiciones de fallo enumeradas. [Guía](https://github.com/Aparking/AparKing_Backend/issues/149)
+- No seguir las guías del revisor de software o incurrir en cualquiera de las condiciones de fallo enumeradas. [Guía](https://base-conocimiento-g11.vercel.app/docs/Sprint%202/revision)
 
 ## Evaluación de Desempeño de Usuarios Piloto:
 
-- No incluir los documentos de evaluación de desempeño requeridos en el repositorio según la plantilla proporcionada. (Falta el nuestro)
-  [Desempeño Usuarios Piloto](https://base-conocimiento-g11.vercel.app/docs/Sprint%202/Evaluaci%C3%B3n%20del%20rendimiento%20de%20los%20usuarios%20piloto)
+- No incluir los documentos de evaluación de desempeño requeridos en el repositorio según la plantilla proporcionada.
+  [Desempeño del Grupo](https://base-conocimiento-g11.vercel.app/docs/Planificaci%C3%B3n%20proyecto/PerfomanceEvaluation)
+  [Desempeño Usuarios Piloto](https://base-conocimiento-g11.vercel.app/docs/Sprint%202/PilotUserPerformanceEvaluation)
 
 ## Documentación de Feedback de Usuarios Piloto:
 
-- Fallar en documentar toda la información recibida de los usuarios piloto según los requisitos mínimos de información. [Feedback](https://base-conocimiento-g11.vercel.app/docs/Sprint%202/Feedback%20Usuarios%20Piloto)
+- Fallar en documentar toda la información recibida de los usuarios piloto según los requisitos mínimos de información. [Feedback](https://base-conocimiento-g11.vercel.app/docs/Sprint%202/InformationProvidedByPilotUsers)
 
 ## Planificación de Revisión para el Software Desplegado:
 
