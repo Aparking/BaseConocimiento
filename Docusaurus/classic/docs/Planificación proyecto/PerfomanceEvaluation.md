@@ -904,7 +904,13 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
+  - Asistencia a clases.
+  - Píldoras teóricas.
+  - Optimización contenedores y despliegue.
 - Segunda semana (09/04):
+  - Asistencia a clases.
+  - Píldoras teóricas.
+  - Despliegue del S3.
 
 **Merat Roldán, Laura**
 
