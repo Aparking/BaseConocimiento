@@ -1,4 +1,3 @@
-+++markdown
 # Plan de pruebas
 
 ## Universidad de Sevilla - Escuela Técnica Superior de Ingeniería Informática
