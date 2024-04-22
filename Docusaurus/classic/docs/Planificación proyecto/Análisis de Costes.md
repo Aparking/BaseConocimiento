@@ -115,12 +115,7 @@ Por último, el presupuesto reservado para contingencias se desglosa en estos ca
 De esta manera, se obtiene el coste final del proyecto:
 |CapEx | OpEx |Contingencia |Mantenimiento| Total TCO|
 |--|--|--|--|--|
-<<<<<<< HEAD
-| € 38.052,50 | € 6.450,56 |3.951,44€| 41.036,88€ (3.419,74€/mes) | € 44.503,06 (+3.419,74€/mes) |
-=======
-| 38.865,55 € | 6.450,56 € |3.951,44€| 1.696,06€ + uso mensual de App Engine | 49.267,55€ (+3.419,74€/mes) |
-
-> > > > > > > main
+| 38.052,50€ | 6.450,56€ |3.951,44€| 41.036,88€ (3.419,74€/mes) | 44.503,06€ (+3.419,74€/mes) |
 
 ## Planes de pago y Balance de Cuentas
 
