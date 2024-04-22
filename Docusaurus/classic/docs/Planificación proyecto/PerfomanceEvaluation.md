@@ -856,6 +856,7 @@ Contribución del estudiante:
   - Visualización de píldora teórica.
   - Ayuda a Pedro con la adición de página de about-us de información.
   -  Añadir las redes sociales a la pagina de About us.
+
 - Segunda semana (09/04):
   - Asistencia a clases.
   - Visualización de píldora teórica.
@@ -900,6 +901,7 @@ Contribución del estudiante:
   - Arreglo actions para el análisis del Codacy.
   - Desarrollo de un plan de pruebas.
   - Mejoras implementación pasarela de pago.
+
 - Segunda semana (09/04):
   - Asistencia a clases y a todas las reuniones grupales realizadas.
   - Visualización de videos de píldora teórica.
@@ -915,6 +917,7 @@ Contribución del estudiante:
   - Asistencia a clases.
   - Píldoras teóricas.
   - Optimización contenedores y despliegue.
+
 - Segunda semana (09/04):
   - Asistencia a clases.
   - Píldoras teóricas.
@@ -934,12 +937,13 @@ Contribución del estudiante:
 - Primera semana (02/04):
   - Asistencia a clases.
   - Visualización de píldora teórica.
-    - Adición de página de about-us de información.
+  - Adición de página de about-us de información.
   - Colaboración con José para añadir las redes sociales.
+
 - Segunda semana (09/04):
   - Asistencia a clases.
-    - Visualización de píldora teórica.
-    - Añadido banners de anuncios en la página principal.
+  - Visualización de píldora teórica.
+  - Añadido banners de anuncios en la página principal.
 
 **Ruiz Jurado, Ismael**
 
@@ -953,7 +957,6 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
-
   - Asistencia a clase.
   - Actualizar formula rendimiento.
   - Calcular la matriz de rendimiento.
@@ -982,10 +985,16 @@ Contribución del estudiante:
 - Primera semana (02/04):
   - Asistencia a clases.
   - Visualización de píldora teórica.
-    - Desarrollo de navegación rápida a la plaza más próxima.
-    - Revisión y arreglos en login/register/mapa.
-- Segunda semana (09/04):  - Asistencia a clases. - Visualización de píldora teórica. - Desarrollo de navegación rápida a la plaza más próxima. - Colaboración con María Vico para concluir la tarea relacionada con la búsqueda.
-  **Vico Martín, María**
+  - Desarrollo de navegación rápida a la plaza más próxima.
+  - Revisión y arreglos en login/register/mapa.
+
+- Segunda semana (09/04):  
+  - Asistencia a clases. 
+  - Visualización de píldora teórica. 
+  - Desarrollo de navegación rápida a la plaza más próxima. 
+  - Colaboración con María Vico para concluir la tarea relacionada con la búsqueda.
+
+**Vico Martín, María**
 
 Contribución del estudiante:
 
@@ -994,6 +1003,7 @@ Contribución del estudiante:
   - Inicio frontend del buscador.
   - Ver píldoras teóricas
   - Asistencia a clases.
+
 - Segunda semana (09/04):
   - Documento de Sprint Review, Sprint Retrospective y Sprint Planning etapa de marketing.
   - Finalización de la tarea de búsquedad gracias a la ayuda de Sergio Santiago.
