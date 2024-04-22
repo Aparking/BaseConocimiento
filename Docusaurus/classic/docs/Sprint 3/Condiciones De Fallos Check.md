@@ -10,7 +10,7 @@
 
 - **Notificación de Ausencia**: Todo el mundo estará presente.
 - **Gestión del Tiempo de Presentación**: No Aplica.
-- **Consistencia del Contenido de la Presentación**: [Presentación](https://www.canva.com/design/DAGA-o5dF40/HoA1QwcCeIiyJiEyvbhvmA/view)
+- **Consistencia del Contenido de la Presentación**: [Presentación](https://www.canva.com/design/DAGDCZZkjiE/eDqySImwB9JH23Xf9V3TVw/view?utm_content=DAGDCZZkjiE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - **Gestión del Feedback**: [Feedback](https://base-conocimiento-g11.vercel.app/docs/category/feedback)
 - **Cumplimiento de Expectativas del Documento**: No Aplica
 - **Estándares de Documentación de Entregables**: [Documentación](https://base-conocimiento-g11.vercel.app/docs/intro)
