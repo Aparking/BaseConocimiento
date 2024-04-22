@@ -913,8 +913,15 @@ Contribución del estudiante:
 **Ruiz Aguilar, Pedro Jesús** 
 
 Contribución del estudiante:
-  - Primera semana (02/04): 
-  - Segunda semana (09/04):
+  - Primera semana (02/04):
+    - Asistencia a clases.
+    - Visualización de píldora teórica.
+	  - Adición de página de about-us de información.
+    - Colaboración con José para añadir las redes sociales.
+  - Segunda semana (09/04): 
+    - Asistencia a clases.
+	  - Visualización de píldora teórica.
+	  - Añadido banners de anuncios en la página principal.
 
 **Ruiz Jurado, Ismael** 
 
