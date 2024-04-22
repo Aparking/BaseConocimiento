@@ -18,20 +18,20 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 |                                | Evaluación del rendimiento individual acordada |         |           |     |      |      |       |      |
 | ------------------------------ | ---------------------------------------------- | ------- | --------- | --- | ---- | ---- | ----- | ---- |
 | Estudiante                     | #DP1                                           | #S1     | #S2       | #S3 | #PPL | #WPL | Total | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       |     |      |      |       |      |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       |  7  |      |      |       |      |
 | Aroca Páez, Mario              | 9                                              | 8,5     | 9         |     |      |      |       |      |
 | Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         |     |      |      |       |      |
 | Oliva Alonso, Virgilio         | 9                                              | 9       | 7         |     |      |      |       |      |
 | Perea León, Alberto            | 10                                             | 9,5     | 9         |     |      |      |       |      |
-| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       |     |      |      |       |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        |     |      |      |       |      |
+| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10  |      |      |       |      |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 9,5 |      |      |       |      |
 | Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       |     |      |      |       |      |
-| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       |     |      |      |       |      |
+| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       |  8  |      |      |       |      |
 | Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       |     |      |      |       |      |
-| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       |     |      |      |       |      |
+| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5 |      |      |       |      |
 | Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       |     |      |      |       |      |
-| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         |     |      |      |       |      |
-| Vico Martín, María             | 10                                             | 8,5     | 8,5       |     |      |      |       |      |
+| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5 |      |      |       |      |
+| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5 |      |      |       |      |
 | **Total**                      | **132,5**                                      | **125** | **119,5** |     |      |      |       |      |
 
 ### 3.2. Resumen de la contribución individual
@@ -856,6 +856,7 @@ Contribución del estudiante:
   - Visualización de píldora teórica.
   - Ayuda a Pedro con la adición de página de about-us de información.
   -  Añadir las redes sociales a la pagina de About us.
+
 - Segunda semana (09/04):
   - Asistencia a clases.
   - Visualización de píldora teórica.
@@ -900,6 +901,7 @@ Contribución del estudiante:
   - Arreglo actions para el análisis del Codacy.
   - Desarrollo de un plan de pruebas.
   - Mejoras implementación pasarela de pago.
+
 - Segunda semana (09/04):
   - Asistencia a clases y a todas las reuniones grupales realizadas.
   - Visualización de videos de píldora teórica.
@@ -915,6 +917,7 @@ Contribución del estudiante:
   - Asistencia a clases.
   - Píldoras teóricas.
   - Optimización contenedores y despliegue.
+
 - Segunda semana (09/04):
   - Asistencia a clases.
   - Píldoras teóricas.
@@ -934,12 +937,13 @@ Contribución del estudiante:
 - Primera semana (02/04):
   - Asistencia a clases.
   - Visualización de píldora teórica.
-    - Adición de página de about-us de información.
+  - Adición de página de about-us de información.
   - Colaboración con José para añadir las redes sociales.
+
 - Segunda semana (09/04):
   - Asistencia a clases.
-    - Visualización de píldora teórica.
-    - Añadido banners de anuncios en la página principal.
+  - Visualización de píldora teórica.
+  - Añadido banners de anuncios en la página principal.
 
 **Ruiz Jurado, Ismael**
 
@@ -953,7 +957,6 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
-
   - Asistencia a clase.
   - Actualizar formula rendimiento.
   - Calcular la matriz de rendimiento.
@@ -982,10 +985,16 @@ Contribución del estudiante:
 - Primera semana (02/04):
   - Asistencia a clases.
   - Visualización de píldora teórica.
-    - Desarrollo de navegación rápida a la plaza más próxima.
-    - Revisión y arreglos en login/register/mapa.
-- Segunda semana (09/04):  - Asistencia a clases. - Visualización de píldora teórica. - Desarrollo de navegación rápida a la plaza más próxima. - Colaboración con María Vico para concluir la tarea relacionada con la búsqueda.
-  **Vico Martín, María**
+  - Desarrollo de navegación rápida a la plaza más próxima.
+  - Revisión y arreglos en login/register/mapa.
+
+- Segunda semana (09/04):  
+  - Asistencia a clases. 
+  - Visualización de píldora teórica. 
+  - Desarrollo de navegación rápida a la plaza más próxima. 
+  - Colaboración con María Vico para concluir la tarea relacionada con la búsqueda.
+
+**Vico Martín, María**
 
 Contribución del estudiante:
 
@@ -994,6 +1003,7 @@ Contribución del estudiante:
   - Inicio frontend del buscador.
   - Ver píldoras teóricas
   - Asistencia a clases.
+
 - Segunda semana (09/04):
   - Documento de Sprint Review, Sprint Retrospective y Sprint Planning etapa de marketing.
   - Finalización de la tarea de búsquedad gracias a la ayuda de Sergio Santiago.
