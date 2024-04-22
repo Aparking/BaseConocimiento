@@ -74,9 +74,9 @@ Con este plan de acción se pretende que todos los miembros del equipo tengan co
 | **START**                                      | **STOP**                                         | **CONTINUE**                                         |
 | ---------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------- |
 | Planificar mejor a los usuarios pilotos        | Dejar las pull request abiertas por mucho tiempo | Hacer documentos con alta calidad                    |
-| Agilizar la gestión de errores software        | Desinterés por la asignatura de algunos miembros | Mantener una buena comunicación                      |
-| Realizar una estimación más exahustiva de las tareas                                               | Estar ausente en un largo periodo de tiempo por los medios de comunicación                                                 | Registro de horas en Clockify                        |
-| Fomentar la participación activa de todos los miembros del equipo                                               | Superar las 10 horas semanales                   | Monitorizar correctamente y semanalmente los riesgos |
-|                                                |                                                  | Hacer la documentación en Docusaurus directamente    |
-|                                                |                                                  | Asignar tareas equitativamente                       |
+| Agilizar la gestión de errores software        | Desinterés por la asignatura de algunos miembros | Mantener una buena comunicación                 |
+| Realizar una estimación más exahustiva de las tareas  | Estar ausente en un largo periodo de tiempo por los medios de comunicación  | Registro de horas en Clockify   |
+| Fomentar la participación activa de todos los miembros del equipo  | Superar las 10 horas semanales      | Monitorizar correctamente y semanalmente los riesgos |
+|                                                | Incumplir el Customer Agreement                  | Hacer la documentación en Docusaurus directamente    |
+|                                                | Retrasar las tareas hasta el límite              | Asignar tareas equitativamente      |
 |                                                |                                                  | Seguir el Commitment Agreement                       |
