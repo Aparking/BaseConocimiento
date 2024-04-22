@@ -37,7 +37,7 @@ Durante esta semana el equipo ha detectado que se han activado los siguientes ri
   - **Lecciones aprendidas:** las tareas entre pares se realizan más velozmente que de manera individual. Si no terminas las tareas de un sprint anterior se acumulan y cuando no se puede posponer más es cuando más carga tiene uno. Es buena práctica cambiar la asignación de tareas cuando la situación lo requiera, pues ayuda a que algunos miembros no se fatiguen y desmotiven con el proyecto. Además siempre es aconsejable tener más de una opinión sobre algo que se está haciendo.
   - **Eficiencia de los planes de contingencia:** nuevamente, funcionó correctamente, ya que aquellos miembros se sintieron más aliviados al tener menor carga y las tareas avanzaron algo más rápido.
 
-  - **Retraso en algunas tareas**
+- **Retraso en algunas tareas**
   - **Activación del riesgo:** el riesgo se activó el día 06/04, cuando el equipo se dio cuenta de que habían personas que ya habían terminado todas las tareas que tenían asignadas para este Sprint y otras todavían tenían varias pendientes. También se pudo comprobar cuando, al registrar las horas necesarias, habían personas que no llegaban a las 10 horas mínimas y otras se pasaban de estas.
   - **Planes de contingencia aplicados:**
     - **Ayuda por parte de miembros con menor carga de tareas.** Aquellas personas que hayan terminado sus tareas rápidamente o que tuvieran pocas tareas que hacer para este entregable debe ayudar a otra persona que tenga mayor carga para agilizar la finalización de las tareas a realizar.
@@ -46,7 +46,7 @@ Durante esta semana el equipo ha detectado que se han activado los siguientes ri
   - **Lecciones aprendidas:** las tareas entre pares se realizan más velozmente que de manera individual. Si no terminas las tareas de un sprint anterior se acumulan y cuando no se puede posponer más es cuando más carga tiene uno.
   - **Eficiencia de los planes de contingencia:** para este caso, el plan de contingencia no ha funcionado. Esto se ha debido no porque no haya sido una buena alternativa, sino porque con la festividad varios miembros del equipo se han desvinculado del proyecto hasta los últimos días, haciendo que el riesgo activado se prolongase hasta casi al final del sprint.
 
-  - **Incapacidad de algún miembro del equipo**
+- **Incapacidad de algún miembro del equipo**
   - **Activación del riesgo:** el riesgo se activó el día 13/04, cuando comenzó la festividad de la Feria, ya que varios miembros del equipo quisieron disfrutar de las vacaciones.
   - **Planes de contingencia aplicados:**
     - **Intentar minimizar el impacto con el trabajo de los demás integrantes.** Para minimizar el impacto de la ausencia de varios miembros, otros miembros deberán avanzar en todas aquellas tareas que puedan hasta que los demás integrantes vuelvan.

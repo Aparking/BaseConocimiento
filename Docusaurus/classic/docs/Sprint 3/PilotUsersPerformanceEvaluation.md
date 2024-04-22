@@ -9,4 +9,4 @@
 | Cumplimiento del CA  | NA  | 8   | NA    |      |      |
 | Cooperación          | NA  | 5   | NA    |      |      |
 
-Durante el Sprint 3 el despliegue proporcionado por AparKing no funcionaba por lo que al incumplir el acuerdo de compromiso con el grupo Nex ONG se llegó al acuerdo de que no haría falta que hiciesen de usuarios piloto al no funcionar el despliegue
+Durante el Sprint 3 el despliegue proporcionado por AparKing no funcionaba por lo que al incumplir el acuerdo de compromiso con el grupo NextONG se llegó al acuerdo de que no haría falta que hiciesen de usuarios piloto al no funcionar el despliegue.
