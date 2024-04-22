@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Nuestros usuarios pilotos son Hombres y Mujeres de entre 18 a 70 años con difentente oficios y habilidades técnicas. A demás de los miembros del grupo 5.
 
-El objetivo principal de estos usuarios es la utilizar la aplicación, dar a conocer sus opiniones y detectar posibles errores.
+El objetivo principal de estos usuarios es utilizar la aplicación, dar a conocer sus opiniones y detectar posibles errores.
 
 Los usuarios han seleccionado porque son personas que emplean mucho el vehículo en su día a día, ya sea para ir al trabajo o a los estudios, son personas de diferente rango de edad lo que nos da a conocer un distinto punto de vista. Y por supuesto, los usuarios seleccionados son aquello que poseen el carné de conducir.
 

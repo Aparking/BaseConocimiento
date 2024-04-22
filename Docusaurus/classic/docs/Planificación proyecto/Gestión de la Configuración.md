@@ -8,7 +8,7 @@ La intención de este documento es la de registrar todos los procedimientos de l
 
 ## Introducción a la Configuración del Proyecto
 
-AparKing es una aplicación de búsqueda de aparcamiento de manera rápida y sencilla destinada a ayudar a los conductores a estacionar su vehículo. Luego, siguiendo los requisitos establecidos por el cliente, el producto debe poseer las características de una Progressive Web App, por lo que se segmentará el código de la aplicación en frontend y backend, cada uno con tecnologías diferentes, Angular con Ionic y Django, respectivamente. Todo esto, se suma a los periodos de desarrollo ajustados. La organización ha decidido configurar el proyecto con los procedimientos descritos en los siguientes apartados del documento.
+AparKing es una aplicación de búsqueda de aparcamiento de manera rápida y sencilla destinada a ayudar a los conductores a estacionar su vehículo. Luego, siguiendo los requisitos establecidos por el cliente, el producto debe poseer las características de una Progressive Web App, por lo que se segmentará el código de la aplicación en frontend y backend, cada uno con tecnologías diferentes, Angular con Ionic y Django, respectivamente. Todo esto, se suma a los períodos de desarrollo ajustados. La organización ha decidido configurar el proyecto con los procedimientos descritos en los siguientes apartados del documento.
 
 ## Tecnologías y Convenciones Estilísticas
 
@@ -82,6 +82,7 @@ Por otro lado, las issues representan unidades de trabajo más pequeñas y espec
 - **Etiquetas:** En caso de ser una epic, se le asignará la etiqueta “epic”. En cuanto a las issues, si se tratase de una nueva funcionalidad, se asignará “feat”; si fuese arreglos, “fix”; si fuese documentación, “doc”; si fuese configuración del entorno o proyecto, “conf”; si fuese tareas de despliegue, “deploy”; y si fuese refactorización del código, “refact”.
 - **Tamaño:** Opcionalmente, a través de una etiqueta, se estimará el tamaño de la tarea
 - **Prioridad:** Opcionalmente, a través de una etiqueta, se estimará la priorización de la tarea (alta, media, baja)
+- **Estimación de tiempo:** El resultado de Planning Poker realizado durante la fase de planificación entre, o todos los participantes, o el grupo completo
 
 Como hemos visto en la gestión de tareas a través de GitHub Projects, se clasificará el estado cada épica e issue a través de la columna en la que se encuentre.
 
@@ -95,8 +96,17 @@ En caso de requerir de algún parche, ya sea por seguridad o error detectado en 
 
 El estándar a seguir para crear y nombrar las ramas será el siguiente:
 
-- Para cada épica, se creará una rama única para las tareas de dicha épica, nombrada de forma breve por lo que implique con el prefijo “epic/”
-- Para las issues, se creará una rama con el prefijo que corresponda, generalmente “feature/” para las nuevas funcionalidades, o “fix/” para arreglos. En principio, los tests se incluirán en la misma rama de feature a cargo de una persona distinta a la que realiza el código de la feature. Se incluirá al final el número identificador de la issue de la siguiente manera: “/7”.
+![Patrón de ramas](/img/patron_ramas.png)
+
+- Type hace referencia a qué tipo de rama es. Los diferentes tipos son “epic”, si es una épica, “feature” para las nuevas funcionalidades, “fix” para arreglos o “hotfix” en caso de que los arreglos sean directamente a develop o master. En principio, los tests se incluirán en la misma rama de feature a cargo de una persona distinta a la que realiza el código de la feature.
+- Name es el nombre de la tarea correspondiente. Debe ir escrito en kebab-case (minúsculas separadas con guiones).
+- Se incluirá al final el número identificador de la issue de github de la siguiente manera: “/7”
+
+_Ejemplo:_ si tengo que hacer la tarea con identificador en github #2 sobre listar usuarios, de la épica “Gestión de usuarios”, tendríamos las siguientes ramas:
+
+- epic/user-management
+
+- feature/list-users/2
 
 ## Procedimientos de Revisión de Código
 
@@ -117,11 +127,11 @@ Cada commit deberá indicar el tipo de cambio aplicado, siendo este atómico, de
 
 Los tipos son:
 
-- _Feat:_ se refiere a una nueva característica del sistema.
-- _Test:_ el código es de pruebas de una característica del sistema.
-- _Fix:_ arregla una funcionalidad, bug, etc.
-- _Config:_ modifica el código de los archivos de configuración.
-- _Refact:_ Se realiza una alteración del código con el objetivo de aumentar la calidad de este.
+- _feat:_ se refiere a una nueva característica del sistema.
+- _test:_ el código es de pruebas de una característica del sistema. (aplicable en casos excepcionales donde no se haya realizado testing en la rama de feature)
+- _fix:_ arregla una funcionalidad, bug, etc.
+- _config:_ modifica el código de los archivos de configuración.
+- _refact:_ se realiza una alteración del código con el objetivo de aumentar la calidad de este.
 
 Luego, proporcionar una breve descripción que aporte la idea fundamental del cambio y la id correspondiente de la tarea en el tablero del proyecto. Por último, las secciones body y footer son opcionales, a rellenar exclusivamente cuando haya que aclarar algo o alertar especial cuidado por cambios que hagan al sistema incompatible con versiones anteriores.
 

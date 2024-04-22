@@ -8,17 +8,17 @@ La intención de este documento es la de estudiar el coste total que abarca el p
 
 ## Introducción al Análisis de Costes
 
-En este documento se expondrá un análisis detallado de la estimación del Coste Total de la Propiedad (TCO) del servicio AparKing. Se considerarán gastos operativos (OpEx), como mensualidades, licencias, o remuneraciones, y de capital (CapEx), como el equipo o las instalaciones, conforme a las necesidades del proyecto y el equipo de desarrollo de la organización.
+En este documento se expondrá un análisis detallado de la estimación del Coste Total de la Propiedad (TCO) del servicio AparKing. Se considerarán gastos operativos (OpEx), como mensualidades o licencias, y de capital (CapEx), como el equipo o las instalaciones conforme a las necesidades del proyecto y la remuneración del equipo de desarrollo de la organización.
 
 - **TCO** (Costo Total de Propiedad): El TCO se refiere al costo total asociado con la adquisición, operación y mantenimiento de un activo o recurso durante su ciclo de vida completo. Este concepto va más allá del precio de compra inicial y considera todos los costos asociados en el tiempo, incluyendo costos de operación, mantenimiento, actualizaciones, y disposición o reemplazo.
 
-- **CapEx** (Gastos de Capital): CapEx, o Gastos de Capital, se refiere a los gastos realizados por una empresa para adquirir, mejorar o mantener activos físicos que se utilizan para generar ingresos a largo plazo. En nuestro caso están asociados con la compra de equipos tecnología y amortización.
+- **CapEx** (Gastos de Capital): CapEx, o Gastos de Capital, se refiere a los gastos realizados por una empresa para adquirir, mejorar o mantener activos físicos que se utilizan para generar ingresos a largo plazo, así como los sueldos mensuales de los trabajadores. En nuestro caso están asociados con la compra de equipos tecnología y amortización.
 
-- **OpEx** (Gastos Operativos): OpEx, o Gastos Operativos, son los gastos recurrentes y necesarios para el funcionamiento diario se incluyen salarios de empleados, mantenimiento, suscripciones, despliegue y capital reservado para contingencias.
+- **OpEx** (Gastos Operativos): OpEx, o Gastos Operativos, son los gastos recurrentes y necesarios para el funcionamiento diario se incluyen mantenimiento, suscripciones, despliegue y capital reservado para contingencias.
 
 Para calcular estos conceptos, la metodología adoptada tendrá en cuenta aspectos relacionados con el desarrollo, desde una fase inicial, hasta la etapa de mantenimiento del sistema. Todo ello, considerando tanto los costos directos, como los indirectos que puedan surgir a lo largo del ciclo de vida del producto. Además, se tendrán en cuenta las posibles variables que puedan influir en el TCO, como los costos de integración, personal necesario para la gestión, o actualizaciones tecnológicas, entre otros factores relevantes.
 
-Por último, con el fin de facilitar el entendimiento de este análisis, se desglosarán los costes en los apartados mencionados anteriormente. Luego, se aunarán en un análisis comparativo, explicando las diferentes alternativas y argumentando la estrategia tomada por la organización.
+Para facilitar el entendimiento de este análisis, se desglosarán los costes en los apartados mencionados. Luego, se aunarán en un análisis comparativo, explicando las diferentes alternativas y argumentando la estrategia tomada por la organización.
 
 ## Desglose del CapEx
 
@@ -30,9 +30,10 @@ Por último, se cuenta con la capacitación y formación del equipo de desarroll
 |Gastos de capital (CapEx)| Descripción |Coste |
 |--|--|--|
 |Costes de instalación | Esta sección considera las horas invertidas en instalar todas las herramientas y tecnologías necesarias para poder ejecutar el proyecto. Como la instalación ya está incluida en las 150 horas totales que va a invertir cada usuario, se asume que el coste es nulo. |0,00€|
-|Costes de instalación | Para poder ejecutar el proyecto, el equipo necesita el equipamiento necesario. Se entiende por equipamiento el conjunto de ordenadores o portátiles perfectamente funcionales, teclado y ratón. Se tiene un precio medio del hardware de cada miembro es de 1.000€. Utilizando un método de amortización lineal en 3 años se tiene un porcentaje de amortización del 11%. (Amortización lineal = Valor inicial / Vida útil estimada= 4/36 = 0,11; en meses). Entonces el coste de amortización del equipo es: Coste de amortización = Costo de los equipos x porcentaje de amortización = (14x1.000)x\* 0,11 = 1.540€ |1.540,00€|
+|Costes de instalación | Para poder ejecutar el proyecto, el equipo necesita el equipamiento necesario. Se entiende por equipamiento el conjunto de ordenadores o portátiles perfectamente funcionales, teclado y ratón. Se tiene un precio medio del hardware de cada miembro es de 1.000€. Utilizando un método de amortización lineal en 3 años se tiene un porcentaje de amortización del 11%. (Amortización lineal = Valor inicial / Vida útil estimada= 4/36 = 0,11; en meses). Entonces el coste de amortización del equipo es: Coste de amortización = Costo de los equipos * porcentaje de amortización = (14*1.000) \* 0,11 = 1.540€ |1.540,00€|
 |Costes de instalación | Las licencias vienen instaladas previamente en los equipos que poseen los distintos miembros, por tanto, este coste se considera nulo. |0,00€|
-|**Total** | | 1540,00€ |
+|Mano de obra para el desarrollo|Calculado en base a las horas dedicadas al proyecto (150 horas por 14 integrantes), por el coste por hora por cada rol que se desempeña en el proyecto: Programador Web: 16,96€/horas. Analista: 21,83€/horas. Tester: 16,37 €/horas. Coordinador/Jefe de proyecto/Scrum Master: 22,50€/horas. Se estima un 70% como programador y un 30% del rol secundario si hay dos roles solo. | 37.325,55 € |
+|**Total** | | 38.865,55 € / 4 meses desarrollo = 9.716,38 € |
 
 ## Desglose del OpEx
 
@@ -40,7 +41,7 @@ En primer lugar, se obtienen los costes de desarrollo, presupuesto que va destin
 
 En segundo lugar, se encuentran los costes de despliegue y suscripciones a APIs y otras herramientas. Comenzando por App Engine, se ha elegido el plan B1 para el despliegue, ya que, durante los 4 meses principales de ejecución del proyecto, el tráfico va a ser bastante reducido, ya que se cuenta con que lo usen el conjunto de usuarios pilotos y los mismos desarrolladores para probar el servicio.
 
-Como suscripción a API tenemos planeado usar Mapbox, una API que permite crear mapas interactivos y aplicaciones de geolocalización, pero, debido al tamaño de nuestra aplicación que no resulta demasiado grande, el coste se mantiene nulo, según su estimación. Cabe destacar que esta herramienta es gratuita siempre y cuando se utilice para la ejecución de la página y que cuando se lanza al mercado dejará de serlo.
+Otras herramientas también usadas son: Atlassian a nivel de organización, la cual permite aplicar Single Sign-On (SSO) así como funciones de seguridad adicionales, GitHub como repositorio común para almacenar los avances del proyecto y herramienta de gestión de versiones del código realizado también GitHub Actions, para poder automatizar y agilizar algunas tareas que se realizan constantemente y que consumen mucho tiempo a los programadores y ChatGPT Pro como inteligencia artificial que ayuda al equipo a realizar su función, aportando ideas y facilitando las tareas que deben realizar. Más abajo se especifican sus correspondientes planes de precio.
 
 Otras herramientas también usadas son: Atlassian a nivel de organización, la cual permite aplicar Single Sign-On (SSO) así como funciones de seguridad adicionales, GitHub como repositorio común para almacenar los avances del proyecto y herramienta de gestión de versiones del código realizado también GitHub Actions, para poder automatizar y agilizar algunas tareas que se realizan constantemente y que consumen mucho tiempo a los programadores y ChatGPT Pro como inteligencia artificial que ayuda al equipo a realizar su función, aportando ideas y facilitando las tareas que deben realizar. Más abajo se especifican sus correspondientes planes de precio.
 
@@ -77,14 +78,26 @@ Otras herramientas también usadas son: Atlassian a nivel de organización, la c
 
 ## Desglose del mantenimiento y planes de contingencia
 
-Tras terminar la ejecución de la aplicación web, esta debe ser mantenida para asegurar su correcto funcionamiento y el control de incidencias. Para contabilizar estos gastos, se ha designado a un desarrollador cuya tarea es mantener la aplicación durante un año, invirtiendo 100 horas al mes remuneradas con un perfil de desarrollador web. Adicionalmente, se necesita seguir pagando la mensualidad del App Engine durante ese año, para la cual se seguirá usando el plan B1 debido a que la cantidad de memoria y CPU usada en cada instancia no será muy elevada. Se muestra a continuación los cálculos con detalles:
+Tras terminar la ejecución de la aplicación web, esta debe ser mantenida para asegurar su correcto funcionamiento y el control de incidencias. Para contabilizar estos gastos, se ha designado a un desarrollador cuya tarea es mantener la aplicación durante un año, invirtiendo 100 horas al mes remuneradas con un perfil de desarrollador web. Adicionalmente, se necesita seguir pagando la mensualidad del App Engine durante ese año, para la cual se seguirá usando el plan B1 debido a que la cantidad de memoria y CPU usada en cada instancia no será muy elevada. Estos costes pertenecen a lo que se denominarían gastos operacionales (OpEx). Se muestra a continuación los cálculos con detalles:
 
-| Gastos de mantenimiento (€/año) | Descripción                                                                                                                                                                                                                                                                                                       | Coste      |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| App Engine                      | Para seguir manteniendo activa la aplicación usando App Engine, se seguirá usando el plan B1 con 50 instancias al día y con un tiempo por instancia de 1.521 cada mes, ya que al haber sido lanzada al mercado la aplicación, tendrá un mayor uso que en su fase de ejecución. En total se suma 1.673,74€ al mes. | 20.084,88€ |
-| Mapbox                          | Se hace uso del plan Essential el cual además de los beneficios del plan gratuito y algunos puntos extras, permite que se pueda seguir utilizando la aplicación tras haberla lanzado al mercado. Este plan cuesta 50€ al mes.                                                                                     | 600,00€    |
-| Mano de obra                    | El total del coste del mantenimiento de la aplicación al año según la mano de obra. Horas de mantenimiento al mes esperadas (100 horas, 5 horas al día por 5 días), por el salario mensual del desarrollador (16,96€). Resulta 1.696€ al mes.                                                                     | 20.352,00€ |
-| **Total**                       |                                                                                                                                                                                                                                                                                                                   | 41,036,88€ |
+| Gastos de mantenimiento (€/año) | Descripción                                                                                                                                                                                                                                   | Coste                                 |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| App Engine                      | Para seguir manteniendo activa la aplicación usando App Engine, se seguirá usando el plan B1. En la capacidad nominal del sistema se describe con mayor nivel de detalle cómo se consumirá este recurso.                                      | 0,0576 € por instancia por hora       |
+| Mano de obra                    | El total del coste del mantenimiento de la aplicación al año según la mano de obra. Horas de mantenimiento al mes esperadas (100 horas, 5 horas al día por 5 días), por el salario mensual del desarrollador (16,96€). Resulta 1.696€ al mes. | 1.696,00€ al mes                      |
+| **Total**                       |                                                                                                                                                                                                                                               | 1.696,06€ + uso mensual de App Engine |
+
+### Capacidad nominal del sistema
+
+Es importante preparar un presupuesto detallado que incluya todos los gastos operativos estimados en relación con la capacidad o el nivel de servicio que se espera mantener. En AparKing hemos elegido gestionar estos costes de la siguiente forma:
+
+1. La mano de obra seguirá siendo la misma sin importar el número de usuarios a los que se dé cabida. Por tanto, el coste no se verá modificado.
+
+2. En cuanto a los costes de App Engine, se ha decidido la siguiente configuración.
+   - Se utilizará la instancia del tipo B1, que tiene un coste de 0.0579€ por hora e instancia.
+   - Cada usuario que se conecte al sistema equivaldrá a una instancia.
+   - Un usuario tardará, en el peor de los casos, 10 minutos en encontrar aparcamiento.
+
+Finalmente, se puede estimar el coste total mensual de operación teniendo en cuenta las circunstancias descritas del comportamiento de los usuarios del sistema y los desgloses de precio descritos.
 
 Por último, el presupuesto reservado para contingencias se desglosa en estos casos:
 
@@ -92,23 +105,28 @@ Por último, el presupuesto reservado para contingencias se desglosa en estos ca
 - **Cambio en tecnologías o herramientas usadas:** Puede que, por un cambio de políticas de software usado, actualizaciones o presentaciones de incompatibilidades, se requiera migrar a otras herramientas. Como las nuevas herramientas pueden ser de pago, se tiene esta sección para intentar mitigar los costes de estas. Como la probabilidad es baja, no se ha reservado una gran cantidad de dinero.
 - **Ausencia de recursos:** Este coste se considera en el caso de que a algún integrante deje de tener un equipo funcional para seguir llevando adelante el proyecto. Como la probabilidad de que suceda algo así es baja, se ha estimado a lo bajo, es decir, que, de los 14 miembros, solo se rompan 2 portátiles.
 
-| Plan de contingencia                 | Descripción                                                                                                                                                                                                                                                                                       | Coste     |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Superación de horas estimadas        | Se establece una reserva equivalente pesimista, en el caso de que los 14 integrantes del equipo superen el tiempo del proyecto en 10 horas adicionales a las 150 horas previstas, donde el 70% del tiempo va destinado al rol de desarrollador web y el 30% al rol secundario que tenga cada uno. | 2.451,44€ |
-| Cambio de tecnologías o herramientas | Se reservan 500,00€ para el cambio de cualquier tecnología durante los 4 meses de ejecución del proyecto.                                                                                                                                                                                         | 500,00€   |
-| Ausencia de recursos                 | El coste medio de todo el material hardware que requiere un usuario para poder llevar a cabo el proyecto se estima de media 1.000€. Se supone que solo va a hacer falta 1 conjunto nuevo en toda la duración del proyecto.                                                                        | 1000,00€  |
-| **Total**                            |                                                                                                                                                                                                                                                                                                   | 3.951,44€ |
+| Plan de contingencia                 | Descripción                                                                                                                                                                                                                                                  | Coste     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| Superación de horas estimadas        | Se establece una reserva equivalente pesimista, si los 14 integrantes del equipo superan el tiempo del proyecto en 10 horas adicionales a las 150 horas previstas, donde el 70% del tiempo va destinado al desarrollador web y el 30% al secundario cada uno | 2.451,44€ |
+| Cambio de tecnologías o herramientas | Se reservan 500,00€ para el cambio de cualquier tecnología durante los 4 meses de ejecución del proyecto.                                                                                                                                                    | 500,00€   |
+| Ausencia de recursos                 | El coste medio de todo el material hardware que requiere un usuario para poder llevar a cabo el proyecto se estima de media 1.000€. Se supone que solo va a hacer falta 1 conjunto nuevo en toda la duración del proyecto.                                   | 1000,00€  |
+| **Total**                            |                                                                                                                                                                                                                                                              | 3.951,44€ |
 
 De esta manera, se obtiene el coste final del proyecto:
 |CapEx | OpEx |Contingencia |Mantenimiento| Total TCO|
 |--|--|--|--|--|
+<<<<<<< HEAD
 | € 38.052,50 | € 6.450,56 |3.951,44€| 41.036,88€ (3.419,74€/mes) | € 44.503,06 (+3.419,74€/mes) |
+=======
+| 38.865,55 € | 6.450,56 € |3.951,44€| 1.696,06€ + uso mensual de App Engine | 49.267,55€ (+3.419,74€/mes) |
+
+> > > > > > > main
 
 ## Planes de pago y Balance de Cuentas
 
 Primero, hace falta dejar claro que para realizar las siguientes estimaciones se ha seguido un modelo logístico para representar crecimiento de poblaciones con un límite superior conocido como capacidad de carga. Estos modelos se basan en la siguiente expresión:
 
-![Formula planes de pago](/img/formula_costes.png)
+![Fórmula planes de pago](/img/formula_costes.png)
 
 Donde:
 
@@ -154,11 +172,33 @@ Representando el incremento de ganancias a lo largo del tiempo de la siguiente f
 
 ![Beneficios brutos](/img/beneficios_brutos.png)
 
-Por tanto, haciendo balance de cuentas teniendo en cuenta el periodo necesario para obtener beneficios brutos del sistema, es decir, reponer todo el gasto empleado en el desarrollo. Obtenemos el siguiente resultado:
+Por tanto, haciendo balance de cuentas teniendo en cuenta el periodo necesario para obtener beneficios brutos del sistema, es decir, reponer todo el
+gasto empleado en el desarrollo. Obtenemos el siguiente resultado:
 
-![Comparacion entre beneficios y costes](/img/comparacion_beneficios_costes.png)
+![Costes pesimistas y optimistas](/img/pessimism_optimist_costs.png)
 
-Podemos comprobar que a los 6 meses y medio de lanzar la aplicación alcanzamos el punto de equilibrio. Luego, tras 8 meses después del lanzamiento, recuperamos todo el dinero invertido y empezamos a generar más valor. La cifra constante a partir de los 8 meses equivale a los costes de mantenimiento del sistema.
+![Comparación entre beneficios y costes](/img/comparacion_beneficios_costes.png)
+
+Podemos comprobar que a los 6 meses y medio de lanzar la aplicación alcanzamos el punto de equilibrio. Luego, tras 8 meses después del lanzamiento, recuperamos todo el dinero invertido y empezamos a generar más valor. A partir de los 8 meses, se puede comprobar cómo aumenta poco a poco el coste de mantenimiento debido al incremento de usuarios.
+
+La justificación para el precio de los diferentes planes consiste en sacar el mayor partido a la encuesta realizada a diferentes usuarios. En los resultados se mostraba que los usuarios estaban dispuestos a pagar desde 2 hasta 5 euros. Por lo tanto, los planes de precios se han ajustado siguiendo este criterio.
+
+## Marco Temporal
+
+Se establece un marco temporal del proyecto siguiendo las diferentes etapas:
+
+1. Desarrollo: periodo en el que se desarrollará el sistema.
+
+   - Duración estimada: 4 meses
+   - Fecha inicio: 27/01/2024
+   - Fecha fin: 21/05/2024
+   - Coste total: 49.267,55 €
+   - Coste mensual: 12.316,89 €
+
+2. Lanzamiento y mantenimiento: periodo en el que se despliega el sistema en un entorno de producción y comienza a generar beneficios.
+   - Fecha inicio: 21/05/2024
+   - Fecha fin: indeterminada.
+   - Coste mensual: 1.696,06€ + uso mensual App Engine.
 
 ## Webgrafía
 
