@@ -18,15 +18,15 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 |                                | Evaluación del rendimiento individual acordada |         |           |         |      |      |       |      |
 | ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | ---- | ---- | ----- | ---- |
 | Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL | #WPL | Total | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 7       |      |      |       |      |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       |      |      |       |      |
 | Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       |      |      |       |      |
 | Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       |      |      |       |      |
 | Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 6       |      |      |       |      |
 | Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       |      |      |       |      |
 | Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10      |      |      |       |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 9,5     |      |      |       |      |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10     |      |      |       |      |
 | Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       |      |      |       |      |
-| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8       |      |      |       |      |
+| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5       |      |      |       |      |
 | Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       |      |      |       |      |
 | Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     |      |      |       |      |
 | Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       |      |      |       |      |
