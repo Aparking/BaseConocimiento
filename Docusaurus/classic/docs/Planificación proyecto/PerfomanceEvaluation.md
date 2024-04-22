@@ -895,8 +895,18 @@ Contribución del estudiante:
 **Pérez Vázquez, Alejandro** 
 
 Contribución del estudiante:
-  - Primera semana (02/04): 
+  - Primera semana (02/04):
+    - Asistencia a clases y a todas las reuniones grupales realizadas. 
+    - Visualización de videos de píldora teórica. 
+    - Arreglo actions para el análisis del Codacy.
+    - Desarrollo de un plan de pruebas. 
+    - Mejoras implementación pasarela de pago.    
   - Segunda semana (09/04):
+    - Asistencia a clases y a todas las reuniones grupales realizadas. 
+    - Visualización de videos de píldora teórica. 
+    - Mejoras implementación pasarela de pago.
+    - Desarrollo de un mecanismo de cesión de hueco de aparcamiento.
+    - Desarrollo de un mecanismo de registro de vehículos.
 
 **Ramírez López, Juan Carlos** 
 
