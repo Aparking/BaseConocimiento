@@ -44,5 +44,5 @@ La encuesta que los usuarios de NexONG debían rellenar originalmente es la sigu
    - Considerar la implementación de funciones de ayuda contextual para mejorar la experiencia del usuario.
 
 ## Seguimiento
-s
+
 El equipo de desarrollo de AparKing se compromete a abordar las áreas de mejora identificadas en el feedback de los usuarios piloto. Se establecerá un plan de acción para implementar las recomendaciones propuestas y se realizará un seguimiento continuo para garantizar que la aplicación cumpla con las expectativas de los usuarios.
