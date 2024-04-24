@@ -13,7 +13,7 @@ $$
 | Jose Javier Alcobendas Santos | 1               | 0,5             | 2                             | 2                            |              |              | 15          |
 | Mario Aroca Páez              | 10              | 10              | 3                             | 4                            |              |              | 8,75        |
 | Enrique Caballero Muñoz       | 7               | 7               | 3                             | 4                            | 1            |              | 7,75        |
-| Virgilio Oliva Alonso         | 7               | 6               | 4                             | 6                            |              |              | 9,166666667 |
+| Virgilio Oliva Alonso         | 5               | 6               | 1                             | 3                            |              |              | 5,84        |
 | Alberto Perea León            | 10              | 10              | 3                             | 3                            | 1            |              | 9           |
 | Alejandro Pérez Vázquez       | 6               | 7               | 2                             | 2                            |              |              | 9,285714286 |
 | Juan Carlos Ramírez López     | 10              | 10              | 6                             | 6                            |              |              | 10          |
@@ -36,7 +36,7 @@ $$
 | José Javier Alcobendas Santos | 6               | 7,5             | 4                             | 4                            | 0            | 0            | 9           |
 | Mario Aroca Páez              | 10              | 12              | 4                             | 5                            |              |              | 8,166666667 |
 | Enrique Caballero Muñoz       | 6               | 6               | 5                             | 5                            |              |              | 10          |
-| Virgilio Oliva Alonso         | 7               | 6               | 7                             | 11                           |              |              | 9,015151515 |
+| Virgilio Oliva Alonso         | 6               | 8,5             | 3                             | 6                            | 1            |              | 5,03        |
 | Alberto Perea León            | 6               | 6               | 6                             | 6                            |              |              | 10          |
 | Alejandro Pérez Vázquez       | 7               | 8               | 2                             | 2                            |              |              | 9,375       |
 | Juan Carlos Ramírez López     | 6               | 6               | 4                             | 4                            | 0            | 0            | 10          |
