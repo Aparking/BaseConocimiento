@@ -406,6 +406,53 @@ La intención de este documento es mostrar cómo se han organizado los conocimie
 
 - Para la información extra añadirlas a diapositivas finales después de todo por si preguntan por esa información.
 
-## Acciones de consolidación
+## Semana 10
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- Hacer la gráfica de Proyect state más grande para que se aprecia mejor los datos.
+- Añadir apoyo visual para el killer opener
+- Explicar antes de mostrar la demo que se va a mostrar.
+- Mejorar la performance-time matrix.
+
+**Riesgos**
+
+- Si un riesgo ocurre, es un problema --> PROBLEM MONITORING
+- Especificar mejor las soluciones que se toman para solucionar los riesgos.
+- Establecer un umbral para comprobar la eficacia de la solución al problema.
+
+### Feedback común
+
+**Análisis de costes**
+
+- Usar la palabra Incomes en vez de Benefits
+
+**Marketing**
+
+- Indicar un calendario de cuando se va a subir contenido a las rrss y de que tipo.
+- Buscar la forma de captar la atención en el mercado, comprobar quiénes van a usar la app y eforcar el marketing en ese sentido.
+
+**Presentación**
+
+- Poner información en las diapositivas que concuerde con lo que se dice en la presentación. Sincronía.
+- Evitar poner mucho texto.
+- No meter política/religión en presentaciones técnicas.
+- Seguir una historia a lo largo de toda la presetación.
+
+**Usuarios pilotos**
+
+- Hacer una encuesta a los usuarios pilotos para saber si pagaria o no por usar la app y cuánto.
+
+### Accciones de consolidacion
+
+- Se han añadido un par de diapositivas al principio que darán un poco de contexto durante el killer opener.
+- Se ha añadido una diapositiva antes de la demos que muestra que vamos a enseñar en la demo.
+- Se ha cambiado la forma de representar la matriz de tiempo esfuerzo usando el mimo tipo de gráfica que usa el grupo 7.
+- Se ha cambiado el titulo de la diapositiva de risk monitoring a problem monitoring.
+- Se han añadido unas diapositivas que explican el plan de marketing que se está siguiendo.
+
+## Plan de consolidación
 
 Después de la presentación, nos hemos reunido todas las semanas para comentar el feedback recibido y establecer soluciones para mejorar lo comentado por los profesores tanto a nosotros como los compañeros. Se ha reforzado y animado a los compañeros a seguir con el trabajo que ha sido alabado en el feedback y se han compartido nuevas estrategias para mejorar el producto mostrado.
