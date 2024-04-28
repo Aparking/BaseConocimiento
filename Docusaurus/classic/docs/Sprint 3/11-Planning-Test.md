@@ -1,4 +1,3 @@
-+++markdown
 # Plan de pruebas
 
 ## Universidad de Sevilla - Escuela Técnica Superior de Ingeniería Informática
@@ -199,5 +198,5 @@ Consiste en identificar los riesgos potenciales y tener planes de contingencia p
 
 - **Riesgo**: Baja cobertura de pruebas debido a la limitación de recursos.
   - **Contingencia**: Utilizar técnicas de pruebas basadas en riesgos para enfocarse en las áreas más críticas de la aplicación, asegurando que los recursos de pruebas se utilicen de manera eficiente.
-+++
+
 

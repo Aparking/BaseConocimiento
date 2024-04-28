@@ -59,5 +59,7 @@ sidebar_position: 1
 | Mario Aroca Páez         | 06-03-2024 | [Prompt contexto proyecto para la IA](https://chat.openai.com/share/9228d90b-5b73-468d-9a6a-961b221ab2d4)          |
 | Mario Aroca Páez       | 20-04-2024 | [Traer cambios de Main a una rama](https://chat.openai.com/share/c4b89f77-a9e9-4071-95f4-e8af1b3b412b)                |
 | Carmen Ruiz Porcel       | 20-04-2024 | [Excel a Markdown](https://chat.openai.com/share/a133060e-2bbb-470e-8f00-0cae75cbdf01)                             |
+| Laura Roldán Merat    | 27-04-2024 | [Segmentación de mercado](https://chat.openai.com/share/21136fff-4ee1-4d7b-a48b-6c867e9ee7d8)                             |
+| Virgilio Oliva Alonso       | 20-04-2024 | [Ayudas para generación de código](https://chat.openai.com/share/076f4544-5e8d-498a-b375-a8748307c1a5) |
 
 >>>>>>> b8a9115d5080eb06115eb419e1ba69385b47f237:Docusaurus/classic/docs/AI-usage/ChatGPT.md
