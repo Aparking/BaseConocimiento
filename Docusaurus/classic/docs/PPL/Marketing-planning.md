@@ -59,4 +59,33 @@ Debido a que en TikTok es muy difícil crear una comunidad ya que la mayoría de
 
 ## Medición y Evaluación
 
-Para medir el impacto de la campaña de marketing se usarán ##las herramientas de creador que ofrecen tanto Instagram y TikTok para ver las estadísticas de las interacciones con los perfiles y las publicaciones.
+Para medir el impacto de la campaña de marketing se usarán las herramientas de creador que ofrecen tanto Instagram y TikTok para ver las estadísticas de las interacciones con los perfiles y las publicaciones.
+
+## Presupuesto
+
+Planificación y gestión de redes sociales:
+
+- Community manager: 18,5€/h
+
+Creación de contenido:
+
+- Editores de video: 11,79€/h
+- Diseñadores gráfico: 10,56€/h
+- Productora: 1000€ por anuncio
+
+Anuncios físicos:
+
+- Panfletos y carteles: 60€ 4000 panfletos A4
+
+**Total campaña inicial: 7596,00€**
+
+### Desglose
+
+| ROL/ENTIDAD       | €/HORA  | HORAS CONTRATADAS | COSTES         |
+| ----------------- | ------- | ----------------- | -------------- |
+| Community Manager | € 18,50 | 160               | € 2.960,00     |
+| Editor de video   | € 11,79 | 160               | € 1.886,40     |
+| Diseñador gráfico | € 10,56 | 160               | € 1.689,60     |
+| Productora        | € -     | 0                 | € 1.000,00     |
+| Imprenta          | 0       | 0                 | € 60,00        |
+| TOTAL             |         |                   | **€ 7.596,00** |
