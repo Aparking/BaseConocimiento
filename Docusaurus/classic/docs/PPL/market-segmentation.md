@@ -26,7 +26,7 @@ En el caso de AparKing, está orientado a ser utilizado en **todos los países d
 
 ### 1.2. Segmentación demográfica.
 Esta segmentación se basa en el estudio de dividir el mercado en grupos más pequeños, tomando en cuenta variables como la edad, ingresos, grado de estudios, nacionalidad, raza, religión, ocupación, etc.
-    - **Zonas de ocio y eventos.** La edad puede escalar de un rango de entre 18 a mayores de 60 años. Las necesidades pueden variar mucho según la persona o edad, pero normalmente las necesidades serán para ir a trabajar, ir a algún lugar de ocio, viajar, entre otras.
+    - **Edad.** La edad puede escalar de un rango de entre 18 a mayores de 60 años. Las necesidades pueden variar mucho según la persona o edad, pero normalmente las necesidades serán para ir a trabajar, ir a algún lugar de ocio, viajar, entre otras.
     - **Sexo.** No hay restricciones de género específicas, ya que la necesidad de encontrar aparcamiento afecta a personas de todos los géneros por igual.
     - **Nivel de ingresos.** Personas con ingresos medios y altos pueden estar dispuestos a pagar por servicios premium dentro de la aplicación para aprovechar al máximo la funcionalidad que esta puede ofrecer. No obstante, personas con ingresos bajos también pueden pagarlo. En cuanto al uso base de la web, cualquier usuario sin importar sus ingresos, puede tener la necesidad de buscar hueco para aparcar o alquilar su garaje. 
     - **Ocupación.** Los profesionales urbanos pueden utilizar la aplicación para encontrar aparcamiento durante las horas laborales. Los estudiantes pueden necesitar aparcamiento cerca de campus universitarios o áreas de estudio.
