@@ -1,40 +1,15 @@
 # Segmentación de mercado
 
-## Universidad de Sevilla - Escuela Técnica Superior de Ingeniería Informática
-
-### Ingeniería del Software y Práctica Profesional – Curso 2023/2024
-
-#### Grupo y nombre
-G.11 - AparKing
-
-
-#### Repositorio
-[https://github.com/Aparking](https://github.com/Aparking)
-
-
-#### Miembros del Equipo
-- JOSE JAVIER ALCOBENDAS SANTOS [josalcsan1@alum.us.es](mailto:josalcsan1@alum.us.es)
-- MARIO AROCA PÁEZ [mararopae@alum.us.es](mailto:mararopae@alum.us.es)
-- ENRIQUE CABALLERO MUÑOZ [enrcabmun@alum.us.es](mailto:enrcabmun@alum.us.es)
-- VIRGILIO OLIVA ALONSO [virolialo@alum.us.es](mailto:virolialo@alum.us.es)
-- ALBERTO PEREA LEÓN [albperleo@alum.us.es](mailto:albperleo@alum.us.es)
-- ALEJANDRO PÉREZ VÁZQUEZ [alepervaz@alum.us.es](mailto:alepervaz@alum.us.es)
-- JUAN CARLOS RAMÍREZ LÓPEZ [juaramlop2@alum.us.es](mailto:juaramlop2@alum.us.es)
-- LAURA ROLDÁN MERAT [laurolmer@alum.us.es](mailto:laurolmer@alum.us.es)
-- PEDRO JESÚS RUIZ AGUILAR [pedruiagu1@alum.us.es](mailto:pedruiagu1@alum.us.es)
-- ISMAEL RUIZ JURADO [ismruijur@alum.us.es](mailto:ismruijur@alum.us.es)
-- CARMEN RUIZ PORCEL [carruipor@alum.us.es](mailto:carruipor@alum.us.es)
-- IVÁN SÁNCHEZ SAN JOSÉ [ivasansan1@alum.us.es](mailto:ivasansan1@alum.us.es)
-- SERGIO SANTIAGO SÁNCHEZ [sersansan2@alum.us.es](mailto:sersansan2@alum.us.es)
-- MARÍA VICO MARTÍN [marvicmar@alum.us.es](mailto:marvicmar@alum.us.es)
-
-
 ### Índice del documento.
 1. Análisis de segmentación del mercado. 
     1.1. Segmentación Geográfica.
+
     1.2. Segmentación demográfica.
+
     1.3. Segmentación psicográfica.
+
     1.4. Segmentación de comportamiento.
+    
     1.5. Segmentación firmográfico.
 2. Validación de asunciones.
 3. Segmento objetivo potencial.
