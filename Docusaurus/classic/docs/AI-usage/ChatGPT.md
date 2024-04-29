@@ -34,3 +34,4 @@ sidebar_position: 1
 | Mario Aroca Páez         | 21-04-2024 | [Resolución Problemas Git](https://chat.openai.com/share/c322e648-7bd2-44ce-917c-091e15574939)                             |
 | Laura Roldán Merat       | 27-04-2024 | [Segmentación de mercado](https://chat.openai.com/share/21136fff-4ee1-4d7b-a48b-6c867e9ee7d8)                              |
 | Carmen Ruiz Porcel       | 28-04-2024 | [Plantilla Plan marketing](https://chat.openai.com/share/2c8f5f78-74e1-4525-b745-7027b238a67f)                             |
+| Virgilio Oliva Alonso     | 29-04-2024 | [Error npm y node](https://chat.openai.com/share/b6b3537c-01d9-4986-9f26-b8cb93bd5de9)                             |
