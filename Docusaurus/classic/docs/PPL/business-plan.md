@@ -29,8 +29,10 @@ Con todos estos datos, es evidente que la falta de aparcamiento es un problema c
 **Tendencias del mercado**: Las causas que provocan el problema de la búsqueda de aparcamiento en un futuro seguirán sucediendo, incluso con mayor frecuencia. La creciente urbanización de las ciudades, el aumento del número de vehículos en circulación (que ha pasado de ser 1 por familia a mínimo 2 para una familia), el aumento del tamaño de los vehículos, los cuales son más grandes que los que circulaban por las calles años atrás, sumado con que los huecos de aparcamiento no estaban hechos para que estos coches actuales puedan aparcar apropiadamente y la problemática de que muchos conductores no saben colocar su vehículo apropiadamente, son varias de esas causas. Los estudios apuntan que a que estos problemas van a seguir ocurriendo al menos por un tiempo e incluso algunos pueden agravarse, por tanto, la tendencia del mercado tiene altas probabilidades de aumentar tanto la oferta como la demanda para cubrir esta necesidad.
 **Barreras de entrada y salida**: El principal obstáculo es el poder superar a la competencia que ya estaba asentada en el mercado y ofrecerles a los usuarios un producto que guste más o que se diferencie de estos. Si se consigue, habría que luchar por mantenerse en el mercado y que las ventas aumentasen. Luego, la barrera principal que quedaría sería echar un ojo a nueva competencia y luchar porque los usuarios no se cambien a otra aplicación.
 **Evolución y crecimiento natural**: Para realizar esta estimación, se obtienen los datos según un caso optimista y un caso pesimista de usuarios visitando la aplicación. Por las razones mencionadas previamente, se espera que incluso en el caso pesimista, haya una cantidad considerable de usuarios.
+
 ![Costes pesimistas y optimistas](/img/pessimism_optimist_costs.png)
 ![Comparación entre beneficios y costes](/img/comparacion_beneficios_costes.png)
+
 Se comprueba que a los 6 meses y medio de lanzar la aplicación se alcanza el punto de equilibrio. Luego, tras 8 meses después del lanzamiento, se recuperaría todo el dinero invertido y se comienza a generar más valor. A partir de los 8 meses, se puede comprobar cómo aumenta poco a poco el coste de mantenimiento debido al incremento de usuarios. La justificación para el precio de los diferentes planes consiste en sacar el mayor partido a una encuesta realizada a diferentes usuarios con demografías variadas. En los resultados se mostraba que varios usuarios estaban dispuestos a pagar desde 2 hasta 5 euros. Por lo tanto, los planes de precios se han ajustado siguiendo este criterio.
 
 
@@ -44,7 +46,8 @@ La segunda fuente de ingresos de la organización consiste en la oferta de difer
 Para todos los planes, una vez consumidos los créditos mensuales, podrán comprar créditos adicionales mediante transacciones, donde 10 créditos son 0,49€.
 Por último, la empresa genera dinero mediante anuncios de Google Ads, los cuales, de media generan entre 0,5€ y 1,50€ por cada 1.000 visitas.
 **Costos y gastos**: Los costes se desglosan como se muestra en la siguiente tabla, la cual enseña el tiempo total destinado al desarrollo del sistema, el CapEx, el OpEx y la suma destinada a los planes de contingencia durante el periodo de desarrollo. Finalmente se consideran los gastos de mantenimiento una vez salga la aplicación al mercado y según los usuarios que utilicen la aplicación.
-![Recopilación costes](/img/recopilacion_costes.png)
+
+![Recopilación costes](/img/gastostotales.png)
 
 
 ## 5. Estrategia de Desarrollo.
@@ -53,7 +56,7 @@ Por último, la empresa genera dinero mediante anuncios de Google Ads, los cuale
 **Colaboraciones estratégicas**: Establecer asociaciones con municipios, empresas de estacionamiento y otras organizaciones para acceder a datos de estacionamiento y mejorar la precisión de la información.
 
 
-## 6. Oportunidades de Inversión:
+## 6. Oportunidades de inversión.
 **Inversión financiera directa:**
 Invitamos a los inversores a proporcionar fondos directamente al proyecto para financiar diversas áreas clave del negocio, como desarrollo tecnológico, expansión internacional, marketing y adquisición de usuarios. Los fondos se utilizarán para impulsar el crecimiento y la escalabilidad de AparKing. A cambio, los inversores recibirán una participación en la empresa, ya sea en forma de acciones o de un porcentaje de los ingresos y ganancias generados por la plataforma.
 
