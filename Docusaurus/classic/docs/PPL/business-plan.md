@@ -52,10 +52,8 @@ Por último, la empresa genera dinero mediante anuncios de Google Ads, los cuale
 **Expansión de mercado**: Ampliar la cobertura geográfica de la aplicación a nuevas ciudades y regiones, habilitar que la aplicación soporte mayor cantidad de usuarios.
 **Colaboraciones estratégicas**: Establecer asociaciones con municipios, empresas de estacionamiento y otras organizaciones para acceder a datos de estacionamiento y mejorar la precisión de la información.
 
-Claro, puedo desarrollar esos puntos para que los incluyas en tu documento:
 
 ## 6. Oportunidades de Inversión:
-
 **Inversión financiera directa:**
 Invitamos a los inversores a proporcionar fondos directamente al proyecto para financiar diversas áreas clave del negocio, como desarrollo tecnológico, expansión internacional, marketing y adquisición de usuarios. Los fondos se utilizarán para impulsar el crecimiento y la escalabilidad de AparKing. A cambio, los inversores recibirán una participación en la empresa, ya sea en forma de acciones o de un porcentaje de los ingresos y ganancias generados por la plataforma.
 
@@ -68,11 +66,10 @@ Invitamos a los inversores a financiar el desarrollo continuo de la plataforma t
 **Inversión en asociaciones estratégicas:**
 Buscamos inversores interesados en financiar el desarrollo de asociaciones estratégicas con municipios, empresas de estacionamiento y otras organizaciones relevantes. Estas asociaciones ayudarán a mejorar la precisión de la información de estacionamiento y ampliar la disponibilidad de espacios de estacionamiento para los usuarios de AparKing. Los inversores podrán participar en la negociación y establecimiento de estas asociaciones, podríamos hacer una distinción entre dos tipos de inversioines en este ámbito. 
 
-En el caso de ayuntamientos u otras entidades gubernamentales, la inversión implicaría la implementación de la aplicación en su municipio, para la mejora del estacionamiento en la zona, lo que contribuiría a una mejor movilidad urbana. Además, podrían beneficiarse de una colaboración estratégica con AparKing para mejorar la gestión del estacionamiento en la ciudad y obtener datos valiosos sobre los patrones de movilidad de los usuarios.
+En el caso de ayuntamientos u otras entidades gubernamentales, la inversión implicaría la implementación de la aplicación en su municipio, para la mejora del estacionamiento en la zona utilizando sensores en la ciudad, lo que contribuiría a una mejor movilidad urbana. Además, podrían beneficiarse de una colaboración estratégica con AparKing para mejorar la gestión del estacionamiento en la ciudad y obtener datos valiosos sobre los patrones de movilidad de los usuarios.
 
-Por otro lado, en el caso de empresas externas, podrñian obtener una participación de los ingresos generados por la aplicación en esa área, o incluso tener la exclusividad de ciertas funciones o servicios dentro de la aplicación en esa zona.
+Por otro lado, en el caso de empresas externas, podrían obtener una participación de los ingresos generados por la aplicación en esa área, o incluso tener la exclusividad de ciertas funciones o servicios dentro de la aplicación en esa zona.
 
 En ambos casos, los inversores obtendrían beneficios tanto en términos de mejora del servicio y la movilidad en la zona como en términos de retorno financiero a través de los ingresos generados por la aplicación en esa área específica.
-
 
 Estas oportunidades de inversión son fundamentales para el crecimiento y el éxito continuo de AparKing. Al colaborar con inversores, podremos expandir nuestra plataforma, mejorar la experiencia del usuario y seguir innovando en el sector de la movilidad urbana.
