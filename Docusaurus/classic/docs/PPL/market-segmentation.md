@@ -26,7 +26,7 @@ En el caso de AparKing, está orientado a ser utilizado en **todos los países d
 
 ### 1.2. Segmentación demográfica.
 Esta segmentación se basa en el estudio de dividir el mercado en grupos más pequeños, tomando en cuenta variables como la edad, ingresos, grado de estudios, nacionalidad, raza, religión, ocupación, etc.
-    - **Zonas de ocio y eventos.** La edad puede escalar de un rango de entre 18 a mayores de 60 años. Las necesidades pueden variar mucho según la persona o edad, pero normalmente las necesidades serán para ir a trabajar, ir a algún lugar de ocio, viajar, entre otras.
+    - **Edad.** La edad puede escalar de un rango de entre 18 a mayores de 60 años. Las necesidades pueden variar mucho según la persona o edad, pero normalmente las necesidades serán para ir a trabajar, ir a algún lugar de ocio, viajar, entre otras.
     - **Sexo.** No hay restricciones de género específicas, ya que la necesidad de encontrar aparcamiento afecta a personas de todos los géneros por igual.
     - **Nivel de ingresos.** Personas con ingresos medios y altos pueden estar dispuestos a pagar por servicios premium dentro de la aplicación para aprovechar al máximo la funcionalidad que esta puede ofrecer. No obstante, personas con ingresos bajos también pueden pagarlo. En cuanto al uso base de la web, cualquier usuario sin importar sus ingresos, puede tener la necesidad de buscar hueco para aparcar o alquilar su garaje. 
     - **Ocupación.** Los profesionales urbanos pueden utilizar la aplicación para encontrar aparcamiento durante las horas laborales. Los estudiantes pueden necesitar aparcamiento cerca de campus universitarios o áreas de estudio.
@@ -43,10 +43,10 @@ La segmentación psicográfica es una forma de seccionar a tu grupo de consumido
 
 ### 1.4. Segmentación de comportamiento.
 La segmentación por comportamiento es un método de segmentación basado en la conducta de los clientes o prospectos. Puede estar relacionada, entre otras cosas, con: modos de compra (ubicación, embalaje, etc.), volúmenes de compra, patrones de consumo, canales utilizados, comportamiento de visita al sitio web o de uso de la aplicación, reacciones a la recepción de correos electrónicos.
-    **Usuarios activos en la ciudad.** Este segmento incluiría a aquellos conductores que pasan mucho tiempo en áreas urbanas y necesitan encontrar aparcamiento regularmente. Son usuarios que utilizan la aplicación con frecuencia durante el día.
-    **Usuarios viajeros.** Este grupo está formado por conductores que viajan con regularidad, ya sea por motivos de trabajo o por placer. Utilizan la aplicación para encontrar aparcamiento en lugares desconocidos o en ciudades que no conocen bien.
-    **Usuarios recurrentes en áreas específicas.** Estos son conductores que frecuentan ciertas áreas, como el trabajo, la universidad o el gimnasio. Utilizan la aplicación para encontrar aparcamiento en las mismas ubicaciones con regularidad.
-    **Usuarios de eventos.** Este segmento se compone de personas que asisten a eventos con regularidad, como partidos deportivos, conciertos o ferias. Utilizan la aplicación para encontrar aparcamiento cerca de los lugares donde se celebran estos eventos.
+    **Conductores sociales**: Individuos que disfrutan compartiendo información y colaborando con otros conductores al alertar sobre la disponibilidad de aparcamiento a través de la aplicación.
+    **Usuarios frecuentes de la ciudad**: Aquellos conductores que se desplazan regularmente por áreas urbanas y necesitan encontrar aparcamiento de manera consistente.
+    **Viajeros organizados**: Aquellos que prefieren planificar con anticipación y desean reservar un lugar de estacionamiento con antelación, especialmente cuando viajan a nuevas ciudades o lugares turísticos.
+    **Usuarios de retroalimentación**: Este grupo proporciona comentarios y reseñas sobre la calidad de los espacios de aparcamiento que encuentran a través de la aplicación. Son activos en la comunidad de usuarios y contribuyen a mejorar la experiencia general de la aplicación.
 
 ### 1.5. Segmentación firmográfico.
 La segmentación firmográfica es una herramienta poderosa que permite a las empresas categorizar a sus clientes B2B en función de varios atributos firmográficos. La firmografía se refiere a las características de una empresa, como su industria, tamaño de la empresa, ubicación e ingresos.
