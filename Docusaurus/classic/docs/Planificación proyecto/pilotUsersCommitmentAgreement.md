@@ -69,13 +69,6 @@ El Cliente reconoce y acepta que el cumplimiento de estas obligaciones es esenci
 
 Nuestra Política de Privacidad describe nuestras prácticas de manejo de datos, subrayando nuestro compromiso con la protección de la privacidad del cliente.
 
-
-**Consentimiento para el Uso de Datos de Forma Anónima**
-
-Al aceptar estos términos y condiciones, el Cliente otorga su consentimiento para que Aparking recopile y utilice de forma anónima los datos generados por su uso de la aplicación y el sitio web de búsqueda de aparcamiento. Estos datos serán utilizados con el propósito de generar estadísticas, análisis de rendimiento y mejorar la calidad de nuestros servicios. Aparking se compromete a no revelar información personal identificable del Cliente a terceros en ningún momento durante este proceso. El Cliente reconoce y acepta que los datos anónimos recopilados podrán ser compartidos con terceros con el objetivo de mejorar la experiencia del usuario y la funcionalidad de la aplicación y el sitio web de Aparking, siempre garantizando la confidencialidad y seguridad de la información del Cliente.
-
-Esta cláusula es esencial para asegurar una mejora continua de nuestros servicios, así como para mantener la calidad y eficiencia en la prestación de los mismos. Si el Cliente tiene alguna pregunta o inquietud sobre el uso de sus datos de forma anónima, puede comunicarse con Aparking a través de la información de contacto proporcionada en este Acuerdo.
-
 # Políticas de facturación y pagos
 
 Esta sección incluye los costos asociados con nuestros servicios/productos, el calendario de pagos, los métodos de pago aceptados, los procedimientos de facturación y las implicaciones de los pagos atrasados.
