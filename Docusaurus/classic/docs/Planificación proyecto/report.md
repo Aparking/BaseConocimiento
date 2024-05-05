@@ -453,6 +453,80 @@ La intención de este documento es mostrar cómo se han organizado los conocimie
 - Se ha cambiado el titulo de la diapositiva de risk monitoring a problem monitoring.
 - Se han añadido unas diapositivas que explican el plan de marketing que se está siguiendo.
 
+## Semana 11
+
+### Feedback específico del grupo
+
+**Anuncio**
+
+- Acortar el anuncio.
+- No usar terminos de ingenieros en la presentación, por ejemplo C2C.
+- Usar datos para convencer a los inversores, datos que llamen la atención.
+- No comentar cosas irreales, aunque sea para un chiste.
+- Centrarse en la funcionalidad de ceder aparcamiento.
+
+**Demo**
+
+- No incluir la introducción de datos en los formulacios (registrarse, inicio de sesión, etc.)
+- Centrarse en la cesión de aparcamiento.
+
+**Presentación**
+
+- Mejorar la narrativa con la que se cuenta los competidores. Llamar más la atención a los oyentes para vender que lo nuestro es mejor.
+- No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
+- No poner el título de Elevator pitch.
+- Hacer un Elevator pitch más impovisado, que no quede muy enconsetado y planeado.
+- La parte de key aspect no es nada específica, vende humo.
+
+**Marketing**
+
+- Goals del plan de marketing muy genérico.
+- Presentar el calendario de marketing y un ejemplo de flyer.
+
+**Segmentación**
+
+- Segmentación muy genérica. No vale decir que todos valen.
+- Crear una persona para mostrar cual es el público objetivo.
+
+### Feedback común
+
+**Anuncios**
+
+- Anuncios cortos, máximo 25 segundos.
+
+**Demos**
+
+- Hacer demos directas, enseñando la parte nuclear de la aplicación y saltando elementos que son irelevantes.
+
+**Marketing**
+
+- Presentar planes de marketing específicos, a donde se quiere llegar y como.
+
+**Presentación**
+
+- No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
+- Añadir apoyo visual en el killer opener.
+- El planteamiento de esta presentación tiene que ir enfocada al evento de salir al mercado, esto significa que no se puede hacer referencia a cosas anteriores, no hablar con técnicismo, ni en el contexto de la asginatura.
+
+**Presentadores**
+
+- No usar vocabulario de la asigntura o de ingenieros. Todo el mundo debe entender de hablas en la presentación.
+
+**Segmentación del mercado**
+
+- Usar herramientas para la búsqueda de palabras claves.
+
+### Accciones de consolidacion
+
+- Se ha creado un anuncio un poco más corto y directo que además presenta la funcionalidad de ceder aparcamiento.
+- Se ha cambiado el anuncio de inversores usando un vocabulario más accesible y usando datos para atraer la atención de inversores.
+- Se ha recortado de la demo la parte de rellenar datos.
+- Se ha modificado la dispositiva de key aspect, mostrando las funcionalidades realistas.
+- Se ha borrado el título de la dispositiva elevator pitch para hacerlo más natural.
+- Se han concretado los objetivos del plan de marketing además de añadir un calendario de los posts.
+- Se han creado flyers para anunciar aparking y se han añadido a la presentación.
+- Se han creado dos perfiles para mostrar mejor la segmentación de mercado.
+
 ## Plan de consolidación
 
 Después de la presentación, nos hemos reunido todas las semanas para comentar el feedback recibido y establecer soluciones para mejorar lo comentado por los profesores tanto a nosotros como los compañeros. Se ha reforzado y animado a los compañeros a seguir con el trabajo que ha sido alabado en el feedback y se han compartido nuevas estrategias para mejorar el producto mostrado.
