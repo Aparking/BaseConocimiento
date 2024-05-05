@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Segmentación, Tracción y Community Management
@@ -85,6 +85,7 @@ Gestión y desarrollo de una comunidad online de una marca.
 ![Pasos para ser un buen creador de contenido](/img/steps_content_creator.png)
 
 **Identifica a la audiencia**: Decidir cuál es la audiencia objetivo para mantener en las redes sociales y tomar acciones acorde a ello.
+
 **Diseñar plan de contenido**: Calendario de que acciones se van a hacer en que red social y con qué objetivo.
 ![Ejemplo plan de contenido](/img/plan_social_media.png)
 
