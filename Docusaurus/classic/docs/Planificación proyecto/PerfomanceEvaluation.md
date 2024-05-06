@@ -15,24 +15,24 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 
 **Fecha:** 11/03/2024
 
-|                                | Evaluación del rendimiento individual acordada |         |           |         |      |      |       |      |
-| ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | ---- | ---- | ----- | ---- |
-| Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL | #WPL | Total | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7    |      |       |      |
-| Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       |      |      |       |      |
-| Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       |      |      |       |      |
-| Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       |      |      |       |      |
-| Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       |      |      |       |      |
-| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10      | 9,5  |      |       |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9    |      |       |      |
-| Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       |      |      |       |      |
-| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     |      |      |       |      |
-| Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       |      |      |       |      |
-| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9    |      |       |      |
-| Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       |      |      |       |      |
-| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5  |      |       |      |
-| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9    |      |       |      |
-| **Total**                      | **132,5**                                      | **125** | **119,5** | **121** |      |      |       |      |
+|                                | Evaluación del rendimiento individual acordada |         |           |         |           |      |       |      |
+| ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | --------- | ---- | ----- | ---- |
+| Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL      | #WPL | Total | Peso |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         |      |       |      |
+| Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       | 9         |      |       |      |
+| Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       | 9         |      |       |      |
+| Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       | 7         |      |       |      |
+| Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       | 9         |      |       |      |
+| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10      | 9,5       |      |       |      |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         |      |       |      |
+| Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       | 9         |      |       |      |
+| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       |      |       |      |
+| Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       | 9         |      |       |      |
+| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         |      |       |      |
+| Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       | 9         |      |       |      |
+| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       |      |       |      |
+| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9         |      |       |      |
+| **Total**                      | **132,5**                                      | **125** | **119,5** | **121** | **121,5** |      |       |      |
 
 ### 3.2. Resumen de la contribución individual
 
@@ -1027,7 +1027,17 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
+
+  - #199 Usuarios piloto: revisión, gestión y elaboración de contenido para la presentación
+  - #191 Customer Agreement
+  - #208 Permisos para los alquileres y disponibilidades
+  - #209 watch_theory_pill_on_GDPR_and_UX
+  - Asistir a clase
+
 - Segunda semana (09/04):
+  - #224 Hacer de Usuarios Piloto para el grupo 5
+  - Píldora teórica
+  - Reunión
 
 **Santiago Sánchez, Sergio**
 
@@ -1086,46 +1096,40 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
-- Primera semana (23/04):
-
-- Segunda semana (30/04):
-
 - Primera Semana (23/04-29/04):
-  - Gestión Usuarios Piloto 
-  - Píldora teórica  
-  - Anuncio de Inversores 
-  - Anuncio para clientes 
-  - Demo 
-  - Presentación (Presentador presentación corta) 
+
+  - Gestión Usuarios Piloto
+  - Píldora teórica
+  - Anuncio de Inversores
+  - Anuncio para clientes
+  - Demo
+  - Presentación (Presentador presentación corta)
 
 - Segunda Semana (30/04-06/05):
-  - Gestión Usuarios Piloto 
-  - Anuncio de Inversores 
-  - Anuncio para clientes 
-  - Demo 
-  - Ayuda presentación 
+  - Gestión Usuarios Piloto
+  - Anuncio de Inversores
+  - Anuncio para clientes
+  - Demo
+  - Ayuda presentación
 
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
 
-- Primera semana (23/04):
+- Primera Semana (23/04-29/04)
 
-- Segunda semana (30/04):
+  - Asistencia a clases
+  - Ayuda presentación
+  - Frontend fix de botones intuitivos
+  - Marketing
+  - Organización Discord
+  - Branding
+  - Post Instagram
 
-- Primera Semana (23/04-29/04) 
-  - Asistencia a clases 
-  - Ayuda presentación 
-  - Frontend fix de botones intuitivos 
-  - Marketing 
-  - Organización Discord 
-  - Branding 
-  - Post Instagram 
-
-- Segunda Semana (30/04-06/05) 
-  - Asistencia a clases 
-  - Píldora teórica 
-  - Marketing: Folletos 
+- Segunda Semana (30/04-06/05)
+  - Asistencia a clases
+  - Píldora teórica
+  - Marketing: Folletos
 
 **Oliva Alonso, Virgilio**
 
@@ -1152,7 +1156,16 @@ Contribución del estudiante:
 
 - Primera semana (23/04):
 
+  - Asistencia a clases
+  - Creación de diapositivas de killer opener, elevator pitch, revisión y exposición de la presentación
+  - Planificación de tareas semanal
+
 - Segunda semana (30/04):
+
+  - Asistencia a clases
+  - Actualización de la presentación con el feedback semanal
+  - Fix acceso a detalle de garaje con la información del usuario
+  - Fix checkear plan de precios al crear un garaje
 
 **Pérez Vázquez, Alejandro**
 
@@ -1191,20 +1204,17 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
-- Primera semana (23/04):
+- Primera Semana (23/04-29/04)
 
-- Segunda semana (30/04):
+  - Píldora teórica
+  - Segmentación de mercado
+  - Planes de negocio
+  - Diapositivas de segmentación de mercado y planes de negocio
 
-- Primera Semana (23/04-29/04) 
-  - Píldora teórica  
-  - Segmentación de mercado 
-  - Planes de negocio 
-  - Diapositivas de segmentación de mercado y planes de negocio 
-
-- Segunda Semana (30/04-06/05) 
-  - Arreglo de la documentación de los planes de negocio 
-  - Arreglo de la diapositiva de plan de negocio 
-  - Arreglo de la diapositiva de segmentación de mercado 
+- Segunda Semana (30/04-06/05)
+  - Arreglo de la documentación de los planes de negocio
+  - Arreglo de la diapositiva de plan de negocio
+  - Arreglo de la diapositiva de segmentación de mercado
 
 **Ruiz Aguilar, Pedro Jesús**
 
@@ -1304,7 +1314,6 @@ Contribución del estudiante:
   - Fix invesores del plan de negocio.
   - Fix URLs del docusaurus.
   - Ayuda con la realización de la presentación.
-
 
 ##### World Project Launch (#WPL)
 
