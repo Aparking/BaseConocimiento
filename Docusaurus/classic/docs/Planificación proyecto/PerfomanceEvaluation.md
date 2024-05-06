@@ -1090,6 +1090,21 @@ Contribución del estudiante:
 
 - Segunda semana (30/04):
 
+- Primera Semana (23/04-29/04):
+  - Gestión Usuarios Piloto 
+  - Píldora teórica  
+  - Anuncio de Inversores 
+  - Anuncio para clientes 
+  - Demo 
+  - Presentación (Presentador presentación corta) 
+
+- Segunda Semana (30/04-06/05):
+  - Gestión Usuarios Piloto 
+  - Anuncio de Inversores 
+  - Anuncio para clientes 
+  - Demo 
+  - Ayuda presentación 
+
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
@@ -1097,6 +1112,20 @@ Contribución del estudiante:
 - Primera semana (23/04):
 
 - Segunda semana (30/04):
+
+- Primera Semana (23/04-29/04) 
+  - Asistencia a clases 
+  - Ayuda presentación 
+  - Frontend fix de botones intuitivos 
+  - Marketing 
+  - Organización Discord 
+  - Branding 
+  - Post Instagram 
+
+- Segunda Semana (30/04-06/05) 
+  - Asistencia a clases 
+  - Píldora teórica 
+  - Marketing: Folletos 
 
 **Oliva Alonso, Virgilio**
 
@@ -1166,6 +1195,17 @@ Contribución del estudiante:
 
 - Segunda semana (30/04):
 
+- Primera Semana (23/04-29/04) 
+  - Píldora teórica  
+  - Segmentación de mercado 
+  - Planes de negocio 
+  - Diapositivas de segmentación de mercado y planes de negocio 
+
+- Segunda Semana (30/04-06/05) 
+  - Arreglo de la documentación de los planes de negocio 
+  - Arreglo de la diapositiva de plan de negocio 
+  - Arreglo de la diapositiva de segmentación de mercado 
+
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
@@ -1186,8 +1226,14 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (23/04):
-
+  - Asistencia a clase
+  - Visualizacion de las pildoras teoricas
+  - Diapositivas de campaña de marketing #283
+  - Ayuda en las presentaciones
 - Segunda semana (30/04):
+  - Asistencia a clase
+  - Ayuda en las presentaciones
+  - Rehacer Software Review #271
 
 **Ruiz Porcel, Carmen**
 
@@ -1258,6 +1304,7 @@ Contribución del estudiante:
   - Fix invesores del plan de negocio.
   - Fix URLs del docusaurus.
   - Ayuda con la realización de la presentación.
+
 
 ##### World Project Launch (#WPL)
 
