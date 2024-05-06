@@ -1071,6 +1071,19 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
+- Primera semana (23/04):
+  - Asistencia a clases
+  - Visualizacion de las pildoras teoricas
+  - Creacion de diapositivas de marketing
+  - Ayuda con la presentación
+
+- Segunda semana (30/05):
+  - Fix del boton de about us
+  - Calendario de marketing
+  - Diapositivas de marketing
+  - Ayuda con la presentación
+
+
 **Aroca Páez, Mario**
 
 Contribución del estudiante:
