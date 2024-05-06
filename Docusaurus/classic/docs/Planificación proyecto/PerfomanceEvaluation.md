@@ -18,20 +18,20 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 |                                | Evaluación del rendimiento individual acordada |         |           |         |      |      |       |      |
 | ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | ---- | ---- | ----- | ---- |
 | Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL | #WPL | Total | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       |      |      |       |      |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       |  7   |      |       |      |
 | Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       |      |      |       |      |
 | Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       |      |      |       |      |
 | Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       |      |      |       |      |
 | Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       |      |      |       |      |
-| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10      |      |      |       |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      |      |      |       |      |
+| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10      |  9,5    |      |       |      |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      |  9    |      |       |      |
 | Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       |      |      |       |      |
 | Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     |      |      |       |      |
 | Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       |      |      |       |      |
-| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     |      |      |       |      |
+| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     |  9    |      |       |      |
 | Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       |      |      |       |      |
-| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     |      |      |       |      |
-| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     |      |      |       |      |
+| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     |   8,5   |      |       |      |
+| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     |   9   |      |       |      |
 | **Total**                      | **132,5**                                      | **125** | **119,5** | **121** |      |      |       |      |
 
 ### 3.2. Resumen de la contribución individual
@@ -1034,7 +1034,6 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
-
   - Asistencia a clases.
   - Visualización de píldora teórica.
   - Desarrollo de navegación rápida a la plaza más próxima.
@@ -1051,7 +1050,6 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (02/04):
-
   - Sprint planning S3.
   - Inicio frontend del buscador.
   - Ver píldoras teóricas
@@ -1076,17 +1074,18 @@ Contribución del estudiante:
   - Visualizacion de las pildoras teoricas
   - Creacion de diapositivas de marketing
   - Ayuda con la presentación
-
 - Segunda semana (30/05):
   - Fix del boton de about us
   - Calendario de marketing
   - Diapositivas de marketing
   - Ayuda con la presentación
 
-
 **Aroca Páez, Mario**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+
+- Segunda semana (30/04):
 
 - Primera Semana (23/04-29/04):
   - Gestión Usuarios Piloto 
@@ -1106,6 +1105,9 @@ Contribución del estudiante:
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+
+- Segunda semana (30/04):
 
 - Primera Semana (23/04-29/04) 
   - Asistencia a clases 
@@ -1124,22 +1126,62 @@ Contribución del estudiante:
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a clases
+  - Creacion de diapositivas de reporte de IA
+  - Organización del docusaurus
+  - Ayuda general con la presentación
+
+- Segunda semana (30/05):
+  - Diseños de promoción
+  - Visualizacion de las pildoras teoricas
+  - Diapositivas de reporte de IA
+  - Sección reporte de IA del Docusaurus
+  - Test de CRUD del administrador
+  - Ayuda general con la presentación
 
 **Perea León, Alberto**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+
+- Segunda semana (30/04):
 
 **Pérez Vázquez, Alejandro**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a clases. 
+  - Visualización de vídeos de píldora teórica.
+  - Desarrollo mecanismo de cesión de aparcamientos.
+  - Registro de vehículos.
+
+- Segunda semana (30/04):
+  - Asistencia a reuniones grupales. 
+  - Visualización de vídeos de píldora teórica.
+  - Arreglos de la pasarela de pago para el método rental.
+  - Mejoras en el mecanismo de cesión de huecos de aparcamiento.
+  - Arreglo de selección método de pago en reserva.
 
 **Ramírez López, Juan Carlos**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a la clase de evaluación del S3
+  - Configuración HTTPS en App Engine
+  - Vídeos de teoría
+
+- Segunda semana (30/04):
+  - Asistencia a clase.
+  - Despliegue en App Engine con HTTPS.
+  - Vídeos de teoría.  
 
 **Merat Roldán, Laura**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+
+- Segunda semana (30/04):
 
 - Primera Semana (23/04-29/04) 
   - Píldora teórica  
@@ -1155,26 +1197,73 @@ Contribución del estudiante:
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a clases
+  - Visualizacion de las pildoras teoricas
+  - Creacion de videos de TikTok para marketing
+  - Ayuda con la presentación
+
+- Segunda semana (30/04):
+  - Videos TikTok marketing 
+  - Calendario de marketing
 
 **Ruiz Jurado, Ismael**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+
+- Segunda semana (30/04):
 
 **Ruiz Porcel, Carmen**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+
+- Segunda semana (30/04):
 
 **Sánchez San José, Iván**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+	- Asistir a clase
+ 	- #287 Presentación 5 min 30/04
+  	- Solucionar error entre backend y frontend
+  	- #284 watch_theory_pill_on_market_segmentation,_traction,_and_community_management	 
+
+- Segunda semana (30/04):
+  	- Asistir a clase	
+	- #264 Refactor atributo IBAN en perfil usuario
+ 	- #258 Refactor precio reserva
+  	- #263 Fix filtrar por "Mis garajes"
+  	- #76 Añadir nueva clausula al Customer agreement sobre el uso de información por terceros
 
 **Santiago Sánchez, Sergio**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a clases.
+	- Visualización de píldora teórica.
+	- Solución de algunos bugs.
+
+- Segunda semana (30/04):
+  - Solucionar errores en el frontend.
+	- Despliegue del S4.
+	- Creación de APK.
 
 **Vico Martín, María**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a clases.
+  - Visualización de la píldora teórica.
+  - Elaborar parte de inversiones del plan de negocio.
+  - Planificación y asignacios de las tareas del PPL.
+
+- Segunda semana (30/04):
+  - Asistencia a clases.
+  - Fix invesores del plan de negocio.
+  - Fix URLs del docusaurus.
+  - Ayuda con la realización de la presentación.
 
 
 ##### World Project Launch (#WPL)

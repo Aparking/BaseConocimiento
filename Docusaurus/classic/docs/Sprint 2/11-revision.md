@@ -39,6 +39,6 @@ Finalmente, se expone todos los enlaces ya mencionados para dejarlos más accesi
   - Backend: [Backend aparking](https://github.com/Aparking/AparKing_Backend)
   - Frontend: [Frontend aparking](https://github.com/Aparking/AparKing_Frontend)
   - Base del conocimiento: [Base de conocimiento Aparking](https://github.com/Aparking/BaseConocimiento)
-- URL Clockify: [Clockify](https://app.clockify.me/shared/65e4d112997a62586a5562e2)
+- URL Clockify: [Clockify](https://app.clockify.me/shared/662943c7bd66e43d94a69154)
 
 Las credenciales necesarias para probar la aplicación correctamente han sido enviadas al profesor que evalúa nuestro proyecto, con el fin de mantener la privacidad y seguridad de nuestro sistema.
