@@ -1185,8 +1185,17 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 - Primera semana (23/04):
+	- Asistir a clase
+ 	- #287 Presentación 5 min 30/04
+  	- Solucionar error entre backend y frontend
+  	- #284 watch_theory_pill_on_market_segmentation,_traction,_and_community_management	 
 
 - Segunda semana (30/04):
+  	- Asistir a clase	
+	- #264 Refactor atributo IBAN en perfil usuario
+ 	- #258 Refactor precio reserva
+  	- #263 Fix filtrar por "Mis garajes"
+  	- #76 Añadir nueva clausula al Customer agreement sobre el uso de información por terceros
 
 **Santiago Sánchez, Sergio**
 
