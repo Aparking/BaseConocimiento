@@ -1195,7 +1195,20 @@ Contribución del estudiante:
 
 - Primera semana (23/04):
 
+  - Asistencia a clase y apuntar feedback.
+  - Ver pildoras teóricas y hacer apuntes para subirlos a la base de conocimiento.
+  - Crear el plan de marketing.
+  - Actualizar la base de conocimieto común y hacer el informe.
+  - Crear contenido para las redes sociales.
+  - Hacer la grafica de esfuerzo-tiempo del equipo.
+
 - Segunda semana (30/04):
+  - Asistencia a clase y apuntar feedback.
+  - Crear contenido para las redes sociales.
+  - Fix de la funcionalidad de pagar un garaje con tarjeta o ejectivo.
+  - Actualizar la base de conocimieto común y hacer el informe.
+  - Crear calendario de marketing.
+  - Hacer la grafica de esfuerzo-tiempo del equipo.
 
 **Sánchez San José, Iván**
 
