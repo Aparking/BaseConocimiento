@@ -17,3 +17,8 @@
 
 - **GitHub Copilot**:
   GitHub Copilot ha sido una herramienta clave en el desarrollo del código, ofreciendo sugerencias inteligentes y acelerando el proceso de codificación. Permite a los desarrolladores ser más productivos al proponer código y funciones basadas en el contexto del proyecto en desarrollo. [Copilot](https://github.com/features/copilot)
+
+## Voz
+- **Eleven Labs**: IA usada para crear voces para personajes de las demos y anuncios creados.
+
+- **Suno**: IA usada para generar canciones. En nuestro caso, ha sido para crear una canción relacionada con la aplicación.
