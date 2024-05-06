@@ -1088,9 +1088,38 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
+- Primera Semana (23/04-29/04):
+  - Gestión Usuarios Piloto 
+  - Píldora teórica  
+  - Anuncio de Inversores 
+  - Anuncio para clientes 
+  - Demo 
+  - Presentación (Presentador presentación corta) 
+
+- Segunda Semana (30/04-06/05):
+  - Gestión Usuarios Piloto 
+  - Anuncio de Inversores 
+  - Anuncio para clientes 
+  - Demo 
+  - Ayuda presentación 
+
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
+
+- Primera Semana (23/04-29/04) 
+  - Asistencia a clases 
+  - Ayuda presentación 
+  - Frontend fix de botones intuitivos 
+  - Marketing 
+  - Organización Discord 
+  - Branding 
+  - Post Instagram 
+
+- Segunda Semana (30/04-06/05) 
+  - Asistencia a clases 
+  - Píldora teórica 
+  - Marketing: Folletos 
 
 **Oliva Alonso, Virgilio**
 
@@ -1111,6 +1140,17 @@ Contribución del estudiante:
 **Merat Roldán, Laura**
 
 Contribución del estudiante:
+
+- Primera Semana (23/04-29/04) 
+  - Píldora teórica  
+  - Segmentación de mercado 
+  - Planes de negocio 
+  - Diapositivas de segmentación de mercado y planes de negocio 
+
+- Segunda Semana (30/04-06/05) 
+  - Arreglo de la documentación de los planes de negocio 
+  - Arreglo de la diapositiva de plan de negocio 
+  - Arreglo de la diapositiva de segmentación de mercado 
 
 **Ruiz Aguilar, Pedro Jesús**
 
@@ -1135,6 +1175,7 @@ Contribución del estudiante:
 **Vico Martín, María**
 
 Contribución del estudiante:
+
 
 ##### World Project Launch (#WPL)
 
