@@ -1095,6 +1095,19 @@ Contribución del estudiante:
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+- Primera semana (23/04):
+  - Asistencia a clases
+  - Creacion de diapositivas de reporte de IA
+  - Organización del docusaurus
+  - Ayuda general con la presentación
+
+- Segunda semana (30/05):
+  - Diseños de promoción
+  - Visualizacion de las pildoras teoricas
+  - Diapositivas de reporte de IA
+  - Sección reporte de IA del Docusaurus
+  - Test de CRUD del administrador
+  - Ayuda general con la presentación
 
 **Perea León, Alberto**
 
