@@ -7,7 +7,7 @@
 
 ## Condiciones de Fallo de Equipo:
 
-- **Notificación de Ausencia**: Todo el mundo estará presente.
+- **Notificación de Ausencia**: 1 falta ya hablada y justificada con los profesores.
 - **Gestión del Tiempo de Presentación**: No Aplica.
 - **Consistencia del Contenido de la Presentación**: [Presentación](https://www.canva.com/design/DAGDmNAEqZQ/CmtGamL7eRArekc7QS4XOQ/edit?utm_content=DAGDmNAEqZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Gestión del Feedback**: [Feedback](https://base-conocimiento-g11.vercel.app/docs/category/feedback)
