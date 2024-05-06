@@ -1211,8 +1211,14 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 - Primera semana (23/04):
-
+  - Asistencia a clase
+  - Visualizacion de las pildoras teoricas
+  - Diapositivas de campaña de marketing #283
+  - Ayuda en las presentaciones
 - Segunda semana (30/04):
+  - Asistencia a clase
+  - Ayuda en las presentaciones
+  - Rehacer Software Review #271
 
 **Ruiz Porcel, Carmen**
 
