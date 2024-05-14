@@ -35,3 +35,5 @@ sidebar_position: 1
 | Laura Roldán Merat       | 27-04-2024 | [Segmentación de mercado](https://chat.openai.com/share/21136fff-4ee1-4d7b-a48b-6c867e9ee7d8)                              |
 | Carmen Ruiz Porcel       | 28-04-2024 | [Plantilla Plan marketing](https://chat.openai.com/share/2c8f5f78-74e1-4525-b745-7027b238a67f)                             |
 | Virgilio Oliva Alonso     | 29-04-2024 | [Error npm y node](https://chat.openai.com/share/b6b3537c-01d9-4986-9f26-b8cb93bd5de9)                             |
+| Virgilio Oliva Alonso     | 10-05-2024 | [Solventación de errores en WSL](https://chat.openai.com/share/82e2079a-59fe-4b7d-9aa7-28e2d718376b)                             |
+| Virgilio Oliva Alonso     | 14-05-2024 | [Interpretación de bugs en Codacy](https://chat.openai.com/share/c05f4cf9-d912-4989-ac11-6542c96b6678)                             |
