@@ -40,3 +40,4 @@ sidebar_position: 1
 | María Vico Martín     | 30-04-2024 | [Opciones de inversión para AparKing](https://chat.openai.com/c/3c111935-9fb0-40ef-8347-ca757265e83e)                             |
 | Mario Aroca Páez     | 02-05-2024 | [Problemas git pull](https://chat.openai.com/share/d18e09c2-0f01-4bda-8182-b12d1762f026)                             |
 | Mario Aroca Páez     | 02-05-2024 | [Feedback a Markdown](https://chat.openai.com/share/c4db9bb8-3ae7-46e6-bec8-06abacda80ca)                             |
+| Pedro Jesus Ruiz Aguilar   | 05-05-2024 | [Pasos para usar Admob](https://chat.openai.com/share/27482418-ab6a-433a-a10e-7bc3c78418ed)                             |
