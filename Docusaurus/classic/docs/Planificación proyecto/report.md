@@ -527,6 +527,64 @@ La intención de este documento es mostrar cómo se han organizado los conocimie
 - Se han creado flyers para anunciar aparking y se han añadido a la presentación.
 - Se han creado dos perfiles para mostrar mejor la segmentación de mercado.
 
+## Semana 12
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- No hace falta un índice que vaya siguiendo, simplemente la presentación debe seguir un hilo argumental bueno.
+- Presentarse al inicio de la presentación.
+- Hacer el inicio efectivo más visual, usar varias fotos que sigan la historia.
+- Recortar la tabla de competidores, dejar los más relvantes o marcarlos para que destaquen.
+- No usar terminos de la asignatura (CapEX, OpEX, TCO).
+- Redondear los números.
+
+**Anuncio Inversores**
+
+- Añadir lo de los tipos de inversión en el anuncio de inversores y quitarlos de la presenatción.
+- Dar datos reales que inciten a los usuario a invertir en la aplicación.
+
+**Demo**
+
+- Que la demo sea más como una historia, más fluido todo. Que siga el contexto del anuncio.
+
+**Presentadores**
+
+- Dar toda la energía posible para la presentación.
+- Hacer una conexión fluida de los apartados.
+
+**Segmentación del mercado**
+
+- Abarcar a un rango de edad diferente o justificarlo mejor.
+- Enfocar la publicidad segun al sector al que nos queremos centrar. Anucios televisión, baners, ... .
+
+### Feedback común
+
+**Anuncios**
+
+- En el anuncio de inversores añadir datos reales que llame la atencio de los inversores. Datos que respanden que la aplicación es ecalable.
+
+**Demos**
+
+- Que la demo sea fluida, como una historia siguiendo una narrativa planteada en el anuncio por ejemplo. No debe ser un listado de funcionalidades que se van probando de una en una.
+
+**Presentación**
+
+- No usar tecnicismos de la asignatura como CapEX, OpEX.
+- No poner elementos que no se van a explicar. Por ejemplo una formula de la que no se va a hablar en detaller.
+
+### Accciones de consolidacion
+
+- Se ha eliminado el indice de las diapositivas.
+- Se ha modificado el inicio efectivo para la última presentación.
+- En la tabla de competidores solo se ha dejado los dos más importantes. Telpark y Parkclick.
+- Se ha eliminado los termino tecnicos. CapEX -> Costes de capital. OpEX -> Costes Operacionales.
+- Se han cambiado el anuncio de inversores, añadiendo los tipos de inversores.
+- Se ha dado más fluidez a la demo de modo que siga una historia más narrativa.
+- Ensayaremos la presentacion delante de los demás integrantes del grupo para mejorar la narrativa y obtener feedback antes de la presentación final.
+- Se ha cambido el plan de marketing para que también se tenga en cuenta un rango de edad más amplio, anuncios de TV, banners,... .
+
 ## Plan de consolidación
 
 Después de la presentación, nos hemos reunido todas las semanas para comentar el feedback recibido y establecer soluciones para mejorar lo comentado por los profesores tanto a nosotros como los compañeros. Se ha reforzado y animado a los compañeros a seguir con el trabajo que ha sido alabado en el feedback y se han compartido nuevas estrategias para mejorar el producto mostrado.
