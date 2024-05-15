@@ -55,7 +55,12 @@ Debido a que en TikTok es muy difícil crear una comunidad ya que la mayoría de
 ## Plan de ejecución
 
 **Calendario de contenido**: Se publicará contenido diario en ambas redes sociales en horas de mayor engagemet. Se seguirá un planning donde se indicará a que hora se sube el contenido cada día y en que red social ya que dependiendo de la aplicación las horas de mayor engagement varían.
+![Calendario marketing](/img/calendario_marketing.png)
+Plan de publicaciones: [Office planner Marketing](https://tasks.office.com/uses0.onmicrosoft.com/Home/PlanViews/uF8w2AgxvUWQIe2zy07L2JYAHS6_?Type=PlanLink&Channel=Link&CreatedTime=638505846636750000)
+
 **Carteles y panfletos**: Se repartirán alrededor del campus reina mercedes varios carteles y panfletos que sean llamativos e inviten a las personas a saber más de nuestro producto.
+![Flyer parking](/img/flyer1.png)
+![Flyer semaforo us](/img/flyer2.png)
 
 ## Medición y Evaluación
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # AparKing, Grupo 11 Ingenieria del Software y Practica profesional curso 2024
 
-# Entregable Actual: Sprint 3
+# Entregable Actual: Preparing Project Launch
 
 ## ¡Bienvenido a la Base del Conocimiento de Aparking!
 En esta página se podrá encontrar toda la documentación relativa al trabajo para el proyecto de Aparking. 
@@ -34,4 +34,4 @@ En esta página se podrá encontrar toda la documentación relativa al trabajo p
 * [Landing Page](https://aparking-144153767.hubspotpagebuilder.eu/aparking)
 * [Repositorio Backend](https://github.com/Aparking/AparKing_Backend.git)
 * [Repositorio Frontend](https://github.com/Aparking/AparKing_Frontend.git)
-* [Dashboard Clockify](https://app.clockify.me/shared/66092b981e41eb36ffcf6e14)
+* [Dashboard Clockify](https://app.clockify.me/shared/662943c7bd66e43d94a69154)

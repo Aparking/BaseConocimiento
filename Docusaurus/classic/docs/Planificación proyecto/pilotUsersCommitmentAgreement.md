@@ -1,4 +1,5 @@
 # Customer Agreement
+
 # Términos de Aceptación
 
 Este acuerdo del Cliente (en adelante "Acuerdo") establece los términos y condiciones bajo los cuales Aparking ofrece sus servicios a los usuarios finales (en adelante, "Cliente") utilizando nuestra aplicación y sitio web de búsqueda de aparcamiento.
@@ -6,7 +7,6 @@ Este acuerdo del Cliente (en adelante "Acuerdo") establece los términos y condi
 # Uso del Servicio
 
 El Cliente se compromete a utilizar el Servicio únicamente para fines legales y de conformidad con este Acuerdo, asumiendo la responsabilidad total de todas las actividades realizadas bajo su cuenta.
-
 
 # Descripción de Servicios
 
@@ -29,7 +29,6 @@ Nuestra oferta, incluido el Alquiler de Garajes, Mostrar Aparcamientos Libres en
 
 El Cliente acepta que el alcance de los servicios/productos proporcionados estará sujeto a las limitaciones y restricciones mencionadas anteriormente.
 
-
 # Obligaciones de Aparking
 
 Aparking y los Clientes están sujetos a obligaciones detalladas respecto a la provisión y utilización de servicios/productos, que abarcan el pago, el uso adecuado, la precisión de la información, la cooperación para la entrega eficiente del servicio y la resolución de problemas.
@@ -49,7 +48,6 @@ Aparking y los Clientes están sujetos a obligaciones detalladas respecto a la p
 
 El Cliente confía en que Aparking cumplirá diligentemente con todas las obligaciones mencionadas anteriormente para garantizar una prestación de servicios/productos satisfactoria y de calidad.
 
-
 # Obligaciones del Cliente
 
 1. **Pago oportuno:**
@@ -67,11 +65,17 @@ El Cliente confía en que Aparking cumplirá diligentemente con todas las obliga
 
 El Cliente reconoce y acepta que el cumplimiento de estas obligaciones es esencial para la entrega eficiente de los servicios/productos por parte de Aparking.
 
-
 # Política de Privacidad
 
 Nuestra Política de Privacidad describe nuestras prácticas de manejo de datos, subrayando nuestro compromiso con la protección de la privacidad del cliente.
 
+
+
+**Consentimiento para el Uso de Datos de Forma Anónima**
+
+Al aceptar estos términos y condiciones, el Cliente otorga su consentimiento para que Aparking recopile y utilice de forma anónima los datos generados por su uso de la aplicación y el sitio web de búsqueda de aparcamiento. Estos datos serán utilizados con el propósito de generar estadísticas, análisis de rendimiento y mejorar la calidad de nuestros servicios. Aparking se compromete a no revelar información personal identificable del Cliente a terceros en ningún momento durante este proceso. El Cliente reconoce y acepta que los datos anónimos recopilados podrán ser compartidos con terceros con el objetivo de mejorar la experiencia del usuario y la funcionalidad de la aplicación y el sitio web de Aparking, siempre garantizando la confidencialidad y seguridad de la información del Cliente.
+
+Esta cláusula es esencial para asegurar una mejora continua de nuestros servicios, así como para mantener la calidad y eficiencia en la prestación de los mismos. Si el Cliente tiene alguna pregunta o inquietud sobre el uso de sus datos de forma anónima, puede comunicarse con Aparking a través de la información de contacto proporcionada en este Acuerdo.
 
 # Políticas de facturación y pagos
 
@@ -115,7 +119,6 @@ Esta sección incluye los costos asociados con nuestros servicios/productos, el 
 
 El Cliente acepta que el incumplimiento de las condiciones de pago establecidas puede resultar en la suspensión de los servicios/productos proporcionados por Aparking y en la aplicación de penalizaciones financieras adicionales.
 
-
 # Propiedad Intelectual
 
 En esta sección se establecen las disposiciones relacionadas con la propiedad intelectual en el acuerdo entre Aparking y el Cliente, incluyendo derechos de autor, marcas comerciales, derechos de autor de software y otros aspectos relevantes.
@@ -145,11 +148,9 @@ Derechos de Autor de Software:
 
 El Cliente reconoce y acepta que la violación de las disposiciones relacionadas con la propiedad intelectual puede dar lugar a la terminación del presente acuerdo y a la aplicación de medidas legales adicionales por parte de Aparking para proteger sus derechos de propiedad intelectual.
 
-
 # Confidencialidad
 
 Compromiso de ambas partes de mantener la confidencialidad de la información privilegiada intercambiada durante la duración del acuerdo
-
 
 # Terminación
 
@@ -161,7 +162,6 @@ Compromiso de ambas partes de mantener la confidencialidad de la información pr
 4. **Cancelación o Suspensión por Aparking:** Aparking se reserva el derecho de cancelar o suspender el acceso del Cliente al Servicio con un aviso previo de al menos 5 días laborales en caso de incumplimiento sustancial por parte del Cliente de cualquier disposición de este Acuerdo, y si dicho incumplimiento no es corregido dentro del plazo especificado en el aviso.Efectos de la Terminación:
 
 En caso de terminación del acuerdo por cualquier motivo, el Cliente deberá pagar a Aparking por todos los servicios/productos proporcionados hasta la fecha de terminación, y cualquier tarifa pendiente se convertirá en exigible inmediatamente. Asimismo, las disposiciones relacionadas con la confidencialidad, propiedad intelectual, indemnización y cualquier otra disposición que por su naturaleza deba sobrevivir a la terminación del acuerdo, seguirán siendo vinculantes para ambas partes después de la terminación del acuerdo.
-
 
 # Limitación de Responsabilidad
 
@@ -179,20 +179,16 @@ En caso de terminación del acuerdo por cualquier motivo, el Cliente deberá pag
 
 Cualquier modificación a este Acuerdo será comunicada a los Clientes con antelación, requiriendo su consentimiento explícito antes de su implementación. Los Clientes serán informados sobre los cambios y se les dará la opción de aceptar los términos actualizados o discontinuar el uso del Servicio, asegurando su derecho a elegir.
 
-
 # Ley Aplicable
 
 Aunque el Acuerdo está regido principalmente por las leyes de la Jurisdicción especificada para garantizar una protección legal sólida, está diseñado para no excluir la aplicación de leyes de protección al consumidor que ofrezcan protecciones más fuertes a los Clientes basadas en su país de residencia.
 
 Para cualquier consulta o información adicional sobre este Acuerdo o nuestros servicios, los Clientes están invitados a contactar directamente a Aparking a través de la información de contacto proporcionada.
 
-
 # Información de Contacto
 
 Si tiene alguna pregunta sobre este Acuerdo, no dude en ponerse en contacto con nosotros en aparking.g11@gmail.com.
 
-
 # Firma
-
 
 ![1711482702069](image/CustomerAgreement/1711482702069.png)

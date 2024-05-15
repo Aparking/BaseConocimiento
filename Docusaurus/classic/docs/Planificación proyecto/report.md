@@ -406,6 +406,185 @@ La intención de este documento es mostrar cómo se han organizado los conocimie
 
 - Para la información extra añadirlas a diapositivas finales después de todo por si preguntan por esa información.
 
-## Acciones de consolidación
+## Semana 10
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- Hacer la gráfica de Proyect state más grande para que se aprecia mejor los datos.
+- Añadir apoyo visual para el killer opener
+- Explicar antes de mostrar la demo que se va a mostrar.
+- Mejorar la performance-time matrix.
+
+**Riesgos**
+
+- Si un riesgo ocurre, es un problema --> PROBLEM MONITORING
+- Especificar mejor las soluciones que se toman para solucionar los riesgos.
+- Establecer un umbral para comprobar la eficacia de la solución al problema.
+
+### Feedback común
+
+**Análisis de costes**
+
+- Usar la palabra Incomes en vez de Benefits
+
+**Marketing**
+
+- Indicar un calendario de cuando se va a subir contenido a las rrss y de que tipo.
+- Buscar la forma de captar la atención en el mercado, comprobar quiénes van a usar la app y eforcar el marketing en ese sentido.
+
+**Presentación**
+
+- Poner información en las diapositivas que concuerde con lo que se dice en la presentación. Sincronía.
+- Evitar poner mucho texto.
+- No meter política/religión en presentaciones técnicas.
+- Seguir una historia a lo largo de toda la presetación.
+
+**Usuarios pilotos**
+
+- Hacer una encuesta a los usuarios pilotos para saber si pagaria o no por usar la app y cuánto.
+
+### Accciones de consolidacion
+
+- Se han añadido un par de diapositivas al principio que darán un poco de contexto durante el killer opener.
+- Se ha añadido una diapositiva antes de la demos que muestra que vamos a enseñar en la demo.
+- Se ha cambiado la forma de representar la matriz de tiempo esfuerzo usando el mimo tipo de gráfica que usa el grupo 7.
+- Se ha cambiado el titulo de la diapositiva de risk monitoring a problem monitoring.
+- Se han añadido unas diapositivas que explican el plan de marketing que se está siguiendo.
+
+## Semana 11
+
+### Feedback específico del grupo
+
+**Anuncio**
+
+- Acortar el anuncio.
+- No usar terminos de ingenieros en la presentación, por ejemplo C2C.
+- Usar datos para convencer a los inversores, datos que llamen la atención.
+- No comentar cosas irreales, aunque sea para un chiste.
+- Centrarse en la funcionalidad de ceder aparcamiento.
+
+**Demo**
+
+- No incluir la introducción de datos en los formulacios (registrarse, inicio de sesión, etc.)
+- Centrarse en la cesión de aparcamiento.
+
+**Presentación**
+
+- Mejorar la narrativa con la que se cuenta los competidores. Llamar más la atención a los oyentes para vender que lo nuestro es mejor.
+- No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
+- No poner el título de Elevator pitch.
+- Hacer un Elevator pitch más impovisado, que no quede muy enconsetado y planeado.
+- La parte de key aspect no es nada específica, vende humo.
+
+**Marketing**
+
+- Goals del plan de marketing muy genérico.
+- Presentar el calendario de marketing y un ejemplo de flyer.
+
+**Segmentación**
+
+- Segmentación muy genérica. No vale decir que todos valen.
+- Crear una persona para mostrar cual es el público objetivo.
+
+### Feedback común
+
+**Anuncios**
+
+- Anuncios cortos, máximo 25 segundos.
+
+**Demos**
+
+- Hacer demos directas, enseñando la parte nuclear de la aplicación y saltando elementos que son irelevantes.
+
+**Marketing**
+
+- Presentar planes de marketing específicos, a donde se quiere llegar y como.
+
+**Presentación**
+
+- No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
+- Añadir apoyo visual en el killer opener.
+- El planteamiento de esta presentación tiene que ir enfocada al evento de salir al mercado, esto significa que no se puede hacer referencia a cosas anteriores, no hablar con técnicismo, ni en el contexto de la asginatura.
+
+**Presentadores**
+
+- No usar vocabulario de la asigntura o de ingenieros. Todo el mundo debe entender de hablas en la presentación.
+
+**Segmentación del mercado**
+
+- Usar herramientas para la búsqueda de palabras claves.
+
+### Accciones de consolidacion
+
+- Se ha creado un anuncio un poco más corto y directo que además presenta la funcionalidad de ceder aparcamiento.
+- Se ha cambiado el anuncio de inversores usando un vocabulario más accesible y usando datos para atraer la atención de inversores.
+- Se ha recortado de la demo la parte de rellenar datos.
+- Se ha modificado la dispositiva de key aspect, mostrando las funcionalidades realistas.
+- Se ha borrado el título de la dispositiva elevator pitch para hacerlo más natural.
+- Se han concretado los objetivos del plan de marketing además de añadir un calendario de los posts.
+- Se han creado flyers para anunciar aparking y se han añadido a la presentación.
+- Se han creado dos perfiles para mostrar mejor la segmentación de mercado.
+
+## Semana 12
+
+### Feedback específico del grupo
+
+**Presentación**
+
+- No hace falta un índice que vaya siguiendo, simplemente la presentación debe seguir un hilo argumental bueno.
+- Presentarse al inicio de la presentación.
+- Hacer el inicio efectivo más visual, usar varias fotos que sigan la historia.
+- Recortar la tabla de competidores, dejar los más relvantes o marcarlos para que destaquen.
+- No usar terminos de la asignatura (CapEX, OpEX, TCO).
+- Redondear los números.
+
+**Anuncio Inversores**
+
+- Añadir lo de los tipos de inversión en el anuncio de inversores y quitarlos de la presenatción.
+- Dar datos reales que inciten a los usuario a invertir en la aplicación.
+
+**Demo**
+
+- Que la demo sea más como una historia, más fluido todo. Que siga el contexto del anuncio.
+
+**Presentadores**
+
+- Dar toda la energía posible para la presentación.
+- Hacer una conexión fluida de los apartados.
+
+**Segmentación del mercado**
+
+- Abarcar a un rango de edad diferente o justificarlo mejor.
+- Enfocar la publicidad segun al sector al que nos queremos centrar. Anucios televisión, baners, ... .
+
+### Feedback común
+
+**Anuncios**
+
+- En el anuncio de inversores añadir datos reales que llame la atencio de los inversores. Datos que respanden que la aplicación es ecalable.
+
+**Demos**
+
+- Que la demo sea fluida, como una historia siguiendo una narrativa planteada en el anuncio por ejemplo. No debe ser un listado de funcionalidades que se van probando de una en una.
+
+**Presentación**
+
+- No usar tecnicismos de la asignatura como CapEX, OpEX.
+- No poner elementos que no se van a explicar. Por ejemplo una formula de la que no se va a hablar en detaller.
+
+### Accciones de consolidacion
+
+- Se ha eliminado el indice de las diapositivas.
+- Se ha modificado el inicio efectivo para la última presentación.
+- En la tabla de competidores solo se ha dejado los dos más importantes. Telpark y Parkclick.
+- Se ha eliminado los termino tecnicos. CapEX -> Costes de capital. OpEX -> Costes Operacionales.
+- Se han cambiado el anuncio de inversores, añadiendo los tipos de inversores.
+- Se ha dado más fluidez a la demo de modo que siga una historia más narrativa.
+- Ensayaremos la presentacion delante de los demás integrantes del grupo para mejorar la narrativa y obtener feedback antes de la presentación final.
+- Se ha cambido el plan de marketing para que también se tenga en cuenta un rango de edad más amplio, anuncios de TV, banners,... .
+
+## Plan de consolidación
 
 Después de la presentación, nos hemos reunido todas las semanas para comentar el feedback recibido y establecer soluciones para mejorar lo comentado por los profesores tanto a nosotros como los compañeros. Se ha reforzado y animado a los compañeros a seguir con el trabajo que ha sido alabado en el feedback y se han compartido nuevas estrategias para mejorar el producto mostrado.

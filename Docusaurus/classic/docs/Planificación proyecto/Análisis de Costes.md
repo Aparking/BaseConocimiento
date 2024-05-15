@@ -151,7 +151,7 @@ Este análisis de los costes lo desglosamos en la siguiente tabla que muestra el
 
 ![Recopilación costes](/img/recopilacion_costes.png)
 
-Para el siguiente análisis de estima un crecimiento del número de usuarios de la siguiente forma:
+Para el siguiente análisis se estima un crecimiento del número de usuarios de la siguiente forma:
 
 ![Crecimiento usuarios](/img/crecimiento_usuarios.png)
 
