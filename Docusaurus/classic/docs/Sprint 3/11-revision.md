@@ -68,7 +68,7 @@ A continuación, se detallan los enlaces relevantes para un acceso rápido:
   - Backend: [Backend aparking](https://github.com/Aparking/AparKing_Backend)
   - Frontend: [Frontend aparking](https://github.com/Aparking/AparKing_Frontend)
   - Base del conocimiento: [Base de conocimiento Aparking](https://github.com/Aparking/BaseConocimiento)
-- **URL Clockify:** [Clockify](https://app.clockify.me/shared/662943c7bd66e43d94a69154)
+- **URL Clockify:** [Clockify](https://app.clockify.me/shared/6644c79d997fb4473f2197d3)
 
 `Es esencial destacar que las credenciales necesarias para probar la aplicación serán proporcionadas exclusivamente a los usuarios piloto y al profesorado evaluador, con el fin de salvaguardar la privacidad y la seguridad del proyecto. Se recomienda encarecidamente a los evaluadores utilizar la versión móvil de la aplicación, dado que su diseño ha sido especialmente optimizado para dispositivos móviles. Además, se requiere activar el servicio de ubicación al probar la aplicación para una experiencia completa y precisa.`
 
