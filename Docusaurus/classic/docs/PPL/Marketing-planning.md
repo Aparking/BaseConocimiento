@@ -27,7 +27,7 @@ Además, también nos dirigimos a usuarios que quieran ahorrar dinero alquilando
 ## Estrategia de Marketing
 
 El objetivo principal de esta campaña de marketing inicial es acercase a través de las redes sociales a un público joven, de entre 18 a 35 años, para asentar las bases de la marca y poder expandirse desde ahí.
-Por lo tanto nuestra campaña se centrará en generar contenido en Instagram y TikTok además de panfletos y carteles que serán expuestos en los alrededores del campus Reina Mercedes.
+Por lo tanto nuestra campaña se centrará en generar contenido en Instagram y TikTok además de panfletos, carteles, vallas publicitarias, anuncios de radio y televisión que serán expuestos en Sevilla nuestra base de clientes.
 
 ### Instagram
 
@@ -58,9 +58,16 @@ Debido a que en TikTok es muy difícil crear una comunidad ya que la mayoría de
 ![Calendario marketing](/img/calendario_marketing.png)
 Plan de publicaciones: [Office planner Marketing](https://tasks.office.com/uses0.onmicrosoft.com/Home/PlanViews/uF8w2AgxvUWQIe2zy07L2JYAHS6_?Type=PlanLink&Channel=Link&CreatedTime=638505846636750000)
 
-**Carteles y panfletos**: Se repartirán alrededor del campus reina mercedes varios carteles y panfletos que sean llamativos e inviten a las personas a saber más de nuestro producto.
+**Carteles y panfletos**: Alrededor de Sevilla, especialmente en zonas estratégicas para la aplicación como podrían ser parkings y otras zonas con mucho tráfico donde el aparcar se ve frustrado, como el centro, se repartirán varios carteles y panfletos que sean llamativos e inviten a las personas a saber más de nuestro producto.
 ![Flyer parking](/img/flyer1.png)
 ![Flyer semaforo us](/img/flyer2.png)
+
+**Vallas Publicitarias**:En carreteras que dirijan al centro, donde el aparcarmiento escasea,se establecerán vallas publicitarias con el mismo formato de los flyers para interesar al conductor que pase por la zona, relacionando las palabras claves del flyer con su problema actual.
+
+**Anuncio de radio**:Se pretende hacer un anuncio de radio en una emisora local, como puede ser Radio Sevilla, ya que nuestros clientes al ser conductores hay una alta probabilidad de que esten escunchando la emisora.
+
+**Anuncios de televisión**:Se pretende hacer un anuncio de televisión en una cadena local, como puede ser Tele Sevilla, para intentar abarcar más de ese público adulto que es conductor y que no sigue las redes sociales.
+
 
 ## Medición y Evaluación
 
