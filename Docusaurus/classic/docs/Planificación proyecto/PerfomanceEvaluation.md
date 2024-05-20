@@ -1323,7 +1323,19 @@ Contribución del estudiante:
 
 **Aroca Páez, Mario**
 
-Contribución del estudiante:
+Contribución del estudiante: 
+
+  - Primera Semana (07/05-13/05):
+    - Anuncio de Inversores #332 
+    - Anuncio de Clientes #365 
+    - Demo #330 
+    - Presentación Individual #336 
+
+  - Segunda Semana (14/05-20/05):
+    - Anuncio de Inversores #332 
+    - Anuncio de Clientes #365 
+    - Demo #330 
+    - Ayuda en la presentación
 
 **Caballero Muñoz, Enrique**
 
@@ -1333,7 +1345,6 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 - Primera semana (7/05):
-
   - Asistencia a clases.
   - Planificación  y creación de Issues tras el feedback recibido.
   - Creación de test para el CRUD del administrador.
@@ -1369,7 +1380,7 @@ Contribución del estudiante:
 - Primera semana (07/05-13/05):
   - Asistencia a clases.
   - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
-  - Elaboración de la presentación.
+  - Elaboración de la presentación individual. #336 
 
 - Segunda semana (14/05-20/05):
   - Elaboración de la presentación.
