@@ -32,7 +32,7 @@
 
 ## Evaluación de Desempeño de Usuarios Piloto:
 
-- No incluir los documentos de evaluación de desempeño requeridos en el repositorio según la plantilla proporcionada. (Falta el nuestro)
+- No incluir los documentos de evaluación de desempeño requeridos en el repositorio según la plantilla proporcionada.
   [Desempeño Usuarios Piloto](https://base-conocimiento-g11.vercel.app/docs/PPL/PilotUsersPerformanceEvaluation)
 
 ## Documentación de Feedback de Usuarios Piloto:
