@@ -1379,6 +1379,20 @@ Contribución del estudiante:
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
+- Primera semana (07/05-13/05):
+  - Asistencia a clases.
+  - Videos de tiktok marketing
+  - Elaboración de la presentación.
+  - Revisiones de Pull-Request.
+
+- Segunda semana (14/05-20/05):
+  - Elaboración de la presentación.
+  - Ayuda a compañeros en sus tareas.
+  - Videos de tiktok marketing.
+  - Tests de serializers de todos los modulos
+  - Fix de docs de marketing
+  - Asistencia a clases.
+  - Revisiones de Pull-Request.
 
 **Ruiz Jurado, Ismael**
 
