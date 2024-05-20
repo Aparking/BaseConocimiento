@@ -1342,6 +1342,20 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
+- Primera semana (07/05-13/05):
+
+  - Asistencia a clases.
+  - Arreglo de estilos y contenidos del frontend.
+  - Arreglo de validación de formularios.
+  - Elaborar presentación individual.
+  - Marketing: posts de instagram, meet the team
+
+- Segunda semana (14/05-20/05):
+  - Asistencia a clases.
+  - Arreglo de estilos y contenidos del frontend.
+  - Arreglo de validación de formularios.
+  - Marketing: posts de instagram, folleto WPL
+
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
