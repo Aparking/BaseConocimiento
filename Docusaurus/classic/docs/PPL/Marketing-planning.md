@@ -96,7 +96,7 @@ Anuncios cadenas de entretenimiento:
 - Spot de 20 segundos en Tele Sevilla de 21:00 a 22:30 : 600€
 - Spot de 20 segundos en Giralda TV 21:00 a 22:30 : 600€
 
-**Total campaña inicial: 7596,00€**
+**Total campaña inicial: 9.507,00€**
 
 ### Desglose
 
@@ -107,4 +107,6 @@ Anuncios cadenas de entretenimiento:
 | Diseñador gráfico | € 10,56 | 160               | € 1.689,60     |
 | Productora        | € -     | 0                 | € 1.000,00     |
 | Imprenta          | 0       | 0                 | € 60,00        |
-| TOTAL             |         |                   | **€ 7.596,00** |
+| Radio          | € 711,00       | 2                 | € 711,00        |
+| Televisión          | € 1200,00       | 1,5                 | € 1200,00        |
+| TOTAL             |         |                   | **€ 9.507,00** |
