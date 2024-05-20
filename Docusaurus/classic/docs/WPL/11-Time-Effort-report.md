@@ -36,4 +36,5 @@ $$
 
 ### Gráfica Tiempo-Esfuerzo
 
-![Grafica tiempo esfierzo semana 11](/img/es-ti-11.png)
+![Grafica tiempo esfierzo semana 11](https://github.com/Aparking/BaseConocimiento/assets/72878120/6f5561c4-bf07-43a2-8a75-de2832387e28)
+
