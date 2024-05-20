@@ -12,8 +12,6 @@
 
 [**CONSIDERACIONES**](#consideraciones)
 
-[**CONTENIDOS**](#contenidos)
-
 [**CASO 1: REGISTRO, INICIO Y CIERRE DE SESIÓN**](#caso-1-registro-inicio-y-cierre-de-sesión)
 
 [**CASO 2: MAPA INTERACTIVO**](#caso-2-mapa-interactivo)
@@ -25,8 +23,6 @@
 [**CASO 5: CESIONES**](#caso-5-cesiones)
 
 [**CASO 6: PLANES**](#caso-6-planes)
-
-[**CONCLUSIÓN**](#conclusión)
 
 ## **RESUMEN EJECUTIVO**
 
@@ -101,13 +97,21 @@ Figura 5 - Ejemplo de correo de validación
 ---
 
 ## **CASO 2: MAPA INTERACTIVO**
-La página que se obtiene al iniciar sesión es el mapa interactivo, donde se toma la ubicación del usuario y se ofrecen las siguientes funciones como un buscador por pueblos, añadir una plaza en la ubicación actual y el reposicionamiento del mapa para la posición del usuario.
+La página que se obtiene al iniciar sesión es el mapa interactivo, donde se toma la ubicación del usuario y se ofrecen las siguientes funciones como un buscador por pueblos, añadir una plaza en la ubicación actual y el reposicionamiento del mapa para la posición del usuario. Las plazas se muestran en el mapa, y se permite la opción de que se te guíe hasta la plaza con el uso de Google Maps.
+
+Adicionalmente, al clicar en el logo de Aparking, se redirige a la página About Us.
 
 ---
 
 ![](/img/SR-WPL/map.png)
 
 Figura 6 - Página del mapa interactivo
+
+---
+
+![](/img/SR-WPL/mapplaza.png)
+
+Figura 7 - Página del mapa interactivo mostrando una plaza
 
 ---
 
@@ -121,43 +125,43 @@ Se listan los garajes disponibles y se cuenta con un filtrado sobre el buscador.
 ![](/img/SR-WPL/alquiler1.png)
 ![](/img/SR-WPL/alquiler2.png)
 
-Figura 7/8 - Página de los alquileres
+Figura 8/9 - Página de los alquileres
 
 ---
 
 ![](/img/SR-WPL/misreservas.png)
 
-Figura 9 - Página del listado de reservas propias
+Figura 10 - Página del listado de reservas propias
 
 ---
 
 ![](/img/SR-WPL/garagepropio.png)
 
-Figura 10 - Página de los detalles de un garaje propio
+Figura 11 - Página de los detalles de un garaje propio
 
 ---
 
 ![](/img/SR-WPL/disponibilidades.png)
 
-Figura 11 - Página de las disponibilidades de un garaje propio
+Figura 12 - Página de las disponibilidades de un garaje propio
 
 ---
 
 ![](/img/SR-WPL/garagedeotro.png)
 
-Figura 12 - Página de los detalles de un garaje de otro usuario
+Figura 13 - Página de los detalles de un garaje de otro usuario
 
 ---
 
 ![](/img/SR-WPL/formreserva.png)
 
-Figura 13 - Página del formulario de reserva
+Figura 14 - Página del formulario de reserva
 
 ---
 
 ![](/img/SR-WPL/pagocard.png)
 
-Figura 14 - Pago de la reserva
+Figura 15 - Pago de la reserva
 
 ---
 
@@ -168,24 +172,32 @@ En la pestaña perfil se permite consultar, modificar y borrar los datos de nues
 
 ![](/img/SR-WPL/perfil.png)
 
-Figura 15 - Página del perfil de usuario
+Figura 16 - Página del perfil de usuario
 
 ---
 
 ![](/img/SR-WPL/listacoches.png)
 
-Figura 16 - Página del listado de vehículos del usuario
+Figura 17 - Página del listado de vehículos del usuario
 
 ---
 
 ![](/img/SR-WPL/regcoche.png)
 
-Figura 17 - Página de creación de un vehículo
+Figura 18 - Página de creación de un vehículo
 
 ---
 
 ## **CASO 5: CESIONES**
+En la pestaña Cesiones se muestran las distintas cesiones. Estas cesiones se pueden publicar si el usuario tiene alguna reserva de garaje activa (donde se indicará la hora a la que se dejará libre la plaza, entre otros datos), para que otro usuario pueda tomarla. También se dispone de la función de guiar a la plaza.
 
+---
+
+![](/img/SR-WPL/listcesiones.png)
+
+Figura 19 - Página de cesiones (sin tener reservas)
+
+---
 
 ## **CASO 6: PLANES**
 En la pestaña Planes se muestran las distintas suscripciones que Aparking ofrece, junto a sus beneficios y precio. Un usuario puede suscribirse mediante su tarjeta de crédito. Además, se pueden comprar créditos de la aplicación para buscar aparcamientos por separado. Todas estas operaciones se realizan por stripe.
@@ -195,8 +207,6 @@ En la pestaña Planes se muestran las distintas suscripciones que Aparking ofrec
 ![](/img/SR-WPL/planes1.png)
 ![](/img/SR-WPL/planes2.png)
 
-Figura  - Página de planes (con suscripción King activa)
+Figura 20/21 - Página de planes (con suscripción King activa)
 
 ---
-
-## **CONCLUSIÓN**
