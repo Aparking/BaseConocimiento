@@ -17,24 +17,24 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 
 **Fecha:** 20/05/2024
 
-|                                | Evaluación del rendimiento individual acordada |         |           |         |           |         |         |      |
-| ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | --------- | ------- | ------- | ---- |
-| Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL      | #WPL    | Total   | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         | 6       | 47,5    |      |
-| Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       | 9         | 9       | 53,5    | 1    |
-| Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       | 9         | 8       | 48,5    | 0.7  |
-| Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       | 7         | 7       | 44      | 0.6  |
-| Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       | 9         | 10      | 56,5    | 1    |
-| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 9       | 9,5       | 10      | 56      |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         | 9       | 58      |      |
-| Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       | 9         | 9       | 56      | 1    |
-| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       | 8,5     | 52,5    |      |
-| Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       | 9         | 7       | 50,5    | 0.6  |
-| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         | 9,5     | 54,5    |      |
-| Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       | 9         | 9       | 54,5    | 1    |
-| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       | 9       | 54,5    |      |
-| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9         | 10      | 55,5    |      |
-| **Total**                      | **132,5**                                      | **125** | **119,5** | **121** | **121,5** | **121** | **742** |      |
+|                                | Evaluación del rendimiento individual acordada |         |           |         |           |         |         |       |
+| ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | --------- | ------- | ------- | ----- |
+| Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL      | #WPL    | Total   | Peso  |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         | 6       | 47,5    | 0.7   |
+| Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       | 9         | 9       | 53,5    | 1     |
+| Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       | 9         | 8       | 48,5    | 0.7   |
+| Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       | 7         | 7       | 44      | 0.6   |
+| Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       | 9         | 10      | 56,5    | 1     |
+| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 9       | 9,5       | 10      | 56      | 1     |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         | 9       | 58      | 1     |
+| Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       | 9         | 9       | 56      | 1     |
+| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       | 8,5     | 52,5    | 0.9   |
+| Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       | 9         | 7       | 50,5    | 0.7   |
+| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         | 9,5     | 54,5    | 1     |
+| Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       | 9         | 9       | 54,5    | 1     |
+| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       | 9       | 54,5    | 1     |
+| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9         | 10      | 55,5    | 1     |
+| **Total**                      | **132,5**                                      | **125** | **119,5** | **121** | **121,5** | **121** | **742** | **9** |
 
 ### 3.2. Resumen de la contribución individual
 
