@@ -114,7 +114,7 @@ Figura 6 - Página del mapa interactivo
 ## **CASO 3: ALQUILERES**
 En la pestaña Alquileres se recogen las siguientes funcionalidades:
 
-Se listan los garages disponibles y se cuenta con un filtrado sobre el buscador. Además, se puede añadir un garage propio, así como consultar tus reservas. Al clicar sobre un garage se mostrarán sus datos y, dependiendo si pertenece al usuario logueado o no, se mostrará la opción de añadir disponibilidad (se requiere un plan, ver en su sección) o crear una reserva (donde se puede pagar con tarjeta), respectivamente.
+Se listan los garajes disponibles y se cuenta con un filtrado sobre el buscador. Además, se puede añadir un garaje propio, así como consultar tus reservas. Al clicar sobre un garaje se mostrarán sus datos y, dependiendo si pertenece al usuario logueado o no, se mostrará la opción de añadir disponibilidad (se requiere un plan, ver en su sección) o crear una reserva (donde se puede pagar con tarjeta), respectivamente.
 
 ---
 
@@ -133,19 +133,19 @@ Figura 9 - Página del listado de reservas propias
 
 ![](/img/SR-WPL/garagepropio.png)
 
-Figura 10 - Página de los detalles de un garage propio
+Figura 10 - Página de los detalles de un garaje propio
 
 ---
 
 ![](/img/SR-WPL/disponibilidades.png)
 
-Figura 11 - Página de las disponibilidades de un garage propio
+Figura 11 - Página de las disponibilidades de un garaje propio
 
 ---
 
 ![](/img/SR-WPL/garagedeotro.png)
 
-Figura 12 - Página de los detalles de un garage de otro usuario
+Figura 12 - Página de los detalles de un garaje de otro usuario
 
 ---
 
