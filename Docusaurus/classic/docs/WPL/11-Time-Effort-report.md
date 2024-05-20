@@ -1,6 +1,6 @@
 # Time-Effort Report
 
-Este rendimieto se calcula mediante la formula:
+Este rendimieto se calcula mediante la fórmula:
 
 **Si se han completado todos los puntos de historia asignados**:
 
@@ -36,4 +36,4 @@ $$
 
 ### Gráfica Tiempo-Esfuerzo
 
-![Grafica tiempo esfierzo semana 11](/img/es-ti-11.png)
+![Gráfica tiempo esfuerzo semana 13-14](/img/es-ti-11.png)
