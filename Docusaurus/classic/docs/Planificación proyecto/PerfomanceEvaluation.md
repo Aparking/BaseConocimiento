@@ -1408,6 +1408,19 @@ Contribución del estudiante:
 **Ruiz Jurado, Ismael**
 
 Contribución del estudiante:
+- Primera semana (7/05):
+
+  - Asistencia a clases
+  - Test: Editar y eliminar cuenta por el usuario #131
+  - Elaborar presentación individual
+
+- Segunda semana (14/05):
+  - Asistencia a clases
+  - Rehacer Software Review #271
+  - Test: modelos authentication y booking #353
+  - Fix check garajes en alquiler antes de eliminar usuario #343
+  - Fix selección de la disponibilidad de un garaje #338
+  - Ayuda a la elaboración de la presentacíon
 
 **Ruiz Porcel, Carmen**
 
