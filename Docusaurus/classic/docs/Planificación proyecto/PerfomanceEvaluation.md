@@ -8,6 +8,8 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 | 2                  | 28/02/2024        | Añadido el rendimiento del Sprint 1.                                                      |
 | 3                  | 24/03/2024        | Añadido el rendimiento del Sprint 2.                                                      |
 | 4                  | 21/04/2024        | Añadido el rendimiento del Sprint 3.                                                      |
+| 5                  | 07/05/2024        | Añadido el rendimiento del PPL.                                                      |
+| 6                  | 20/05/2024        | Añadido el rendimiento del WPL.                                                      |
 
 ## 3. Contenido
 
@@ -18,24 +20,24 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 |                                | Evaluación del rendimiento individual acordada |         |           |         |           |      |       |      |
 | ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | --------- | ---- | ----- | ---- |
 | Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL      | #WPL | Total | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         |      |       |      |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         |  6   |       |      |
 | Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       | 9         |      |       |      |
 | Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       | 9         |      |       |      |
 | Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       | 7         |      |       |      |
 | Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       | 9         |      |       |      |
-| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 10      | 9,5       |      |       |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         |      |       |      |
+| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 9      | 9,5       |   10  |       |      |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         |   9   |       |      |
 | Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       | 9         |      |       |      |
-| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       |      |       |      |
+| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       |   8,5  |       |      |
 | Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       | 9         |      |       |      |
-| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         |      |       |      |
+| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         |  9,5    |       |      |
 | Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       | 9         |      |       |      |
-| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       |      |       |      |
+| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       | 9    |       |      |
 | Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9         |      |       |      |
 | **Total**                      | **132,5**                                      | **125** | **119,5** | **121** | **121,5** |      |       |      |
 
 ### 3.2. Resumen de la contribución individual
-
+9.08
 #### Devising a Project (#DP)
 
 **Alcobendas Santos, José Javier**
@@ -1303,7 +1305,6 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (23/04):
-
   - Asistencia a clases.
   - Visualización de la píldora teórica.
   - Elaborar parte de inversiones del plan de negocio.
@@ -1320,55 +1321,103 @@ Contribución del estudiante:
 **Alcobendas Santos, José Javier**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Aroca Páez, Mario**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Perea León, Alberto**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Pérez Vázquez, Alejandro**
 
-Contribución del estudiante
+Contribución del estudiante:
+- Primera semana (07/05):
+    - Asistencia a clases.
+    - Arreglo de cambio de estado en plaza de cesiones de aparcamiento.
+    - Desarrollo presentación individual performance.
+    - Arreglo plan de precio compra de créditos.
+
+- Segunda semana (14/05):
+    - Asistencia a clases.
+    - Desarrollo de test de prueba de modulo completo de payment.
+    - Arreglo de filtro de “mis garages”.
+    - Fix gestión de bonificaciones.
 
 **Ramírez López, Juan Carlos**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+  - Asistencia a Clase.
+  - Fix despliegue PPL. 
+- Segunda semana (14/05):
+  - Asistencia a Clase.
+  - Despliegue WPL. 
 
 **Merat Roldán, Laura**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Ruiz Jurado, Ismael**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Ruiz Porcel, Carmen**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Sánchez San José, Iván**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Santiago Sánchez, Sergio**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+- Segunda semana (14/05):
 
 **Vico Martín, María**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+  - Asistencia a clases.
+  - Planificación y asignaciones.
+  - Elaboración de la presentación individual.
+  - Fix formulario vehicle.
+- Segunda semana (14/05):
+  - Asitenicas a clase.
+  - Preparación del App Engine para el nuevo despliegue.
+  - Fix mensajes formularios.
