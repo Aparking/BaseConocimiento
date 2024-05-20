@@ -62,11 +62,11 @@ Plan de publicaciones: [Office planner Marketing](https://tasks.office.com/uses0
 ![Flyer parking](/img/flyer1.png)
 ![Flyer semaforo us](/img/flyer2.png)
 
-**Vallas Publicitarias**:En carreteras que dirijan al centro, donde el aparcarmiento escasea,se establecerán vallas publicitarias con el mismo formato de los flyers para interesar al conductor que pase por la zona, relacionando las palabras claves del flyer con su problema actual.
+**Vallas Publicitarias**: En carreteras que dirijan al centro, donde el aparcarmiento escasea,se establecerán vallas publicitarias con el mismo formato de los flyers para interesar al conductor que pase por la zona, relacionando las palabras claves del flyer con su problema actual.
 
-**Anuncio de radio**:Se pretende hacer un anuncio de radio en una emisora local, como puede ser Radio Sevilla, ya que nuestros clientes al ser conductores hay una alta probabilidad de que esten escunchando la emisora.
+**Anuncio de radio**: Se pretende hacer un anuncio de radio en una emisora local, como puede ser Radio Sevilla, ya que nuestros clientes al ser conductores hay una alta probabilidad de que esten escunchando la emisora.
 
-**Anuncios de televisión**:Se pretende hacer un anuncio de televisión en una cadena local, como puede ser Tele Sevilla, para intentar abarcar más de ese público adulto que es conductor y que no sigue las redes sociales.
+**Anuncios de televisión**: Se pretende hacer un anuncio de televisión en una cadena local, como puede ser Tele Sevilla, para intentar abarcar más de ese público adulto que es conductor y que no sigue las redes sociales, usando los anuncios ya creados para las redes sociales. Se emitiran en la franja horaria de las 21:00 a las 22:30 la hora de cenar donde normalmente se enciende la tele.
 
 
 ## Medición y Evaluación
@@ -88,6 +88,13 @@ Creación de contenido:
 Anuncios físicos:
 
 - Panfletos y carteles: 60€ 4000 panfletos A4
+- Valla publicitaria: Valla de 8m² en el centro de Sevilla 300€ al mes
+
+Anuncios cadenas de entretenimiento:
+- Cuña de 20 segundos en Radio Sevilla: 130€
+- Cuña de 20 segundos en KISS FM Sevilla: 581€
+- Spot de 20 segundos en Tele Sevilla de 21:00 a 22:30 : 600€
+- Spot de 20 segundos en Giralda TV 21:00 a 22:30 : 600€
 
 **Total campaña inicial: 7596,00€**
 
