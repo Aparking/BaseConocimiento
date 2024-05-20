@@ -18,7 +18,7 @@
 - **Evaluación de rendimiento individual**: [Individual performance evaluation](https://base-conocimiento-g11.vercel.app/docs/Planificaci%C3%B3n%20proyecto/PerfomanceEvaluation)
 - **Informe Tiempo-Esfuerzo**: [Time-Efford report](https://base-conocimiento-g11.vercel.app/docs/WPL/Time-Effort-report)
 - **Informe uso de IA**: [IA-Usage](https://base-conocimiento-g11.vercel.app/docs/category/reporte-ia)
-- **Acuerdo de compromiso^**: [Commitment Agreement](https://base-conocimiento-g11.vercel.app/docs/Planificaci%C3%B3n%20proyecto/commimentAgreement)
+- **Acuerdo de compromiso**: [Commitment Agreement](https://base-conocimiento-g11.vercel.app/docs/Planificaci%C3%B3n%20proyecto/commimentAgreement)
 
 ## Cumplimiento de Entrega del Repositorio GitHub:
 
