@@ -1323,19 +1323,20 @@ Contribución del estudiante:
 
 **Aroca Páez, Mario**
 
-Contribución del estudiante: 
+Contribución del estudiante:
 
-  - Primera Semana (07/05-13/05):
-    - Anuncio de Inversores #332 
-    - Anuncio de Clientes #365 
-    - Demo #330 
-    - Presentación Individual #336 
+- Primera Semana (07/05-13/05):
 
-  - Segunda Semana (14/05-20/05):
-    - Anuncio de Inversores #332 
-    - Anuncio de Clientes #365 
-    - Demo #330 
-    - Ayuda en la presentación
+  - Anuncio de Inversores #332
+  - Anuncio de Clientes #365
+  - Demo #330
+  - Presentación Individual #336
+
+- Segunda Semana (14/05-20/05):
+  - Anuncio de Inversores #332
+  - Anuncio de Clientes #365
+  - Demo #330
+  - Ayuda en la presentación
 
 **Caballero Muñoz, Enrique**
 
@@ -1344,9 +1345,11 @@ Contribución del estudiante:
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+
 - Primera semana (7/05):
+
   - Asistencia a clases.
-  - Planificación  y creación de Issues tras el feedback recibido.
+  - Planificación y creación de Issues tras el feedback recibido.
   - Creación de test para el CRUD del administrador.
   - Revisiones de Pull-Requests.
   - Arreglar estilos y contenidos del frontend.
@@ -1377,10 +1380,12 @@ Contribución del estudiante:
 **Merat Roldán, Laura**
 
 Contribución del estudiante:
+
 - Primera semana (07/05-13/05):
+
   - Asistencia a clases.
   - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
-  - Elaboración de la presentación individual. #336 
+  - Elaboración de la presentación individual. #336
 
 - Segunda semana (14/05-20/05):
   - Elaboración de la presentación.
@@ -1391,7 +1396,9 @@ Contribución del estudiante:
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
+
 - Primera semana (07/05-13/05):
+
   - Asistencia a clases.
   - Videos de tiktok marketing
   - Elaboración de la presentación.
@@ -1414,8 +1421,28 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
-**Sánchez San José, Iván**
 - Primera semana (07/05-13/05):
+
+  - Asistencia a clases.
+  - Actualizar la base de conocimieto común y hacer el informe.
+  - Hacer TikToks para marketing.
+  - Hacer la presentación de la retrospectiva.
+
+- Segunda semana (14/05-20/05):
+  - Grabar TikToks para marketing.
+  - Revisar PR de los compañeros.
+  - Testeat views y validations de booking y garagement.
+  - Aumentar el tamaño del logo sin perder calidad.
+  - Ayudar a los compañeros con los Tests.
+  - Hacer la parte de marketin de la presentación.
+  - Fix volver a alguilar un garage si si ha cancelado.
+  - Fix Plan de marketing.
+  - Permitir que el usuario ponga la hora cuando crea disponivilidad.
+
+**Sánchez San José, Iván**
+
+- Primera semana (07/05-13/05):
+
   - Asistencia a clases.
   - #336 Actualizar presentación individual
   - #129 Test: Creación, edición y borrado de alquiler de zona de garaje
