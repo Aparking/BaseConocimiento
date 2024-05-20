@@ -1332,6 +1332,24 @@ Contribución del estudiante:
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+- Primera semana (7/05):
+
+  - Asistencia a clases.
+  - Planificación  y creación de Issues tras el feedback recibido.
+  - Creación de test para el CRUD del administrador.
+  - Revisiones de Pull-Requests.
+  - Arreglar estilos y contenidos del frontend.
+  - Elaborar presentación individual.
+
+- Segunda semana (14/05):
+  - Asistencia a clases.
+  - Creación de test para el CRUD del administrador.
+  - Actualización de la Base del Conocimiento.
+  - Arreglar estilos y contenido del frontend.
+  - Revisiones de Pull-Request.
+  - Búsqueda de fallos en la aplicación.
+  - Elaboración de diapositivas de reporte de IA.
+  - Ayuda a la elaboración de la presentacíon.
 
 **Perea León, Alberto**
 
