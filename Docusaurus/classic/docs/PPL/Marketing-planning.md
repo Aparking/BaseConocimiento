@@ -29,6 +29,8 @@ Además, también nos dirigimos a usuarios que quieran ahorrar dinero alquilando
 El objetivo principal de esta campaña de marketing inicial es acercase a través de las redes sociales a un público joven, de entre 18 a 35 años, para asentar las bases de la marca y poder expandirse desde ahí.
 Por lo tanto nuestra campaña se centrará en generar contenido en Instagram y TikTok además de panfletos, carteles, vallas publicitarias, anuncios de radio y televisión que serán expuestos en Sevilla nuestra base de clientes.
 
+Por otro lado nos dirigeremos a un público más adulto invirtiendo en anuncios en la televisión y radio, además de carteles en carreteras transidadas para llamar la atención.
+
 ### Instagram
 
 **Objetivo principal**: Crear comunidad.
@@ -52,6 +54,16 @@ Debido a que en TikTok es muy difícil crear una comunidad ya que la mayoría de
 - Videos de anuncios.
 - Memes virales relacionados con Aparking.
 
+### Anuncios radiofónicos y televisados
+
+**Objetivo principal**: Llamar la atención de un público adulto.
+Debido a que los usuarios mayores de 35 años no suelen frecuentar las redes sociales, nos acercaremos a ellos mediantes los medios de counicación que más consumen como son la televisión y la radio.
+
+**Contenido**:
+
+- Anuncio de AparKing.
+- Anuncio radiofónico.
+
 ## Plan de ejecución
 
 **Calendario de contenido**: Se publicará contenido diario en ambas redes sociales en horas de mayor engagemet. Se seguirá un planning donde se indicará a que hora se sube el contenido cada día y en que red social ya que dependiendo de la aplicación las horas de mayor engagement varían.
@@ -67,7 +79,6 @@ Plan de publicaciones: [Office planner Marketing](https://tasks.office.com/uses0
 **Anuncio de radio**: Se pretende hacer un anuncio de radio en una emisora local, como puede ser Radio Sevilla, ya que nuestros clientes al ser conductores hay una alta probabilidad de que esten escunchando la emisora.
 
 **Anuncios de televisión**: Se pretende hacer un anuncio de televisión en una cadena local, como puede ser Tele Sevilla, para intentar abarcar más de ese público adulto que es conductor y que no sigue las redes sociales, usando los anuncios ya creados para las redes sociales. Se emitiran en la franja horaria de las 21:00 a las 22:30 la hora de cenar donde normalmente se enciende la tele.
-
 
 ## Medición y Evaluación
 
@@ -91,6 +102,7 @@ Anuncios físicos:
 - Valla publicitaria: Valla de 8m² en el centro de Sevilla 300€ al mes
 
 Anuncios cadenas de entretenimiento:
+
 - Cuña de 20 segundos en Radio Sevilla: 130€
 - Cuña de 20 segundos en KISS FM Sevilla: 581€
 - Spot de 20 segundos en Tele Sevilla de 21:00 a 22:30 : 600€
@@ -107,6 +119,6 @@ Anuncios cadenas de entretenimiento:
 | Diseñador gráfico | € 10,56 | 160               | € 1.689,60     |
 | Productora        | € -     | 0                 | € 1.000,00     |
 | Imprenta          | 0       | 0                 | € 60,00        |
-| Radio          | € -       | 2                 | € 711,00        |
-| Televisión          | € -      | 1,5                 | € 1200,00        |
+| Radio             | € -     | 2                 | € 711,00       |
+| Televisión        | € -     | 1,5               | € 1200,00      |
 | TOTAL             |         |                   | **€ 9.507,00** |
