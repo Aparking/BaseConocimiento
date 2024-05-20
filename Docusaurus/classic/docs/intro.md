@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # AparKing, Grupo 11 Ingenieria del Software y Practica profesional curso 2024
 
-# Entregable Actual: Preparing Project Launch
+# Entregable Actual: World Project Launch
 
 ## ¡Bienvenido a la Base del Conocimiento de Aparking!
 En esta página se podrá encontrar toda la documentación relativa al trabajo para el proyecto de Aparking. 
