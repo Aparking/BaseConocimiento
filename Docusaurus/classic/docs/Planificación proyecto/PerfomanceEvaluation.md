@@ -38,8 +38,6 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 
 ### 3.2. Resumen de la contribución individual
 
-9.08
-
 #### Devising a Project (#DP)
 
 **Alcobendas Santos, José Javier**
@@ -1486,8 +1484,23 @@ Contribución del estudiante:
 
 Contribución del estudiante:
 
-- Primera semana (07/05):
-- Segunda semana (14/05):
+- Primera semana (07/05-13/05):
+
+  - Asistencia a clases.
+  - Actualizar la base de conocimieto común y hacer el informe.
+  - Hacer TikToks para marketing.
+  - Hacer la presentación de la retrospectiva.
+
+- Segunda semana (14/05-20/05):
+  - Grabar TikToks para marketing.
+  - Revisar PR de los compañeros.
+  - Testeat views y validations de booking y garagement.
+  - Aumentar el tamaño del logo sin perder calidad.
+  - Ayudar a los compañeros con los Tests.
+  - Hacer la parte de marketin de la presentación.
+  - Fix volver a alguilar un garage si si ha cancelado.
+  - Fix Plan de marketing.
+  - Permitir que el usuario ponga la hora cuando crea disponivilidad.
 
 **Sánchez San José, Iván**
 
