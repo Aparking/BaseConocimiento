@@ -1415,6 +1415,21 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 **Sánchez San José, Iván**
+- Primera semana (07/05-13/05):
+  - Asistencia a clases.
+  - #336 Actualizar presentación individual
+  - #129 Test: Creación, edición y borrado de alquiler de zona de garaje
+  - #340 Fix filtro "mis garajes"
+  - #264 Refactor atributo IBAN en perfil usuario
+
+- Segunda semana (14/05-20/05):
+  - Ayuda a compañeros en sus tareas.
+  - Asistencia a clases.
+  - Revisiones de Pull-Request.
+  - #129 Test: Creación, edición y borrado de alquiler de zona de garaje
+  - #340 Fix filtro "mis garajes"
+  - #129 Test: Creación, edición y borrado de alquiler de zona de garaje
+  - #330 Mejorar la demo de Aparking
 
 Contribución del estudiante:
 
