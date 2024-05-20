@@ -1346,8 +1346,24 @@ Contribución del estudiante:
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
-- Primera semana (07/05):
+- Primera semana (7/05):
+
+  - Asistencia a clases.
+  - Planificación  y creación de Issues tras el feedback recibido.
+  - Creación de test para el CRUD del administrador.
+  - Revisiones de Pull-Requests.
+  - Arreglar estilos y contenidos del frontend.
+  - Elaborar presentación individual.
+
 - Segunda semana (14/05):
+  - Asistencia a clases.
+  - Creación de test para el CRUD del administrador.
+  - Actualización de la Base del Conocimiento.
+  - Arreglar estilos y contenido del frontend.
+  - Revisiones de Pull-Request.
+  - Búsqueda de fallos en la aplicación.
+  - Elaboración de diapositivas de reporte de IA.
+  - Ayuda a la elaboración de la presentacíon.
 
 **Perea León, Alberto**
 
@@ -1383,20 +1399,53 @@ Contribución del estudiante:
 **Merat Roldán, Laura**
 
 Contribución del estudiante:
-- Primera semana (07/05):
-- Segunda semana (14/05):
+- Primera semana (07/05-13/05):
+  - Asistencia a clases.
+  - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
+  - Elaboración de la presentación.
+
+- Segunda semana (14/05-20/05):
+  - Elaboración de la presentación.
+  - Ayuda a compañeros en sus tareas.
+  - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
+
 
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
-- Primera semana (07/05):
-- Segunda semana (14/05):
+- Primera semana (07/05-13/05):
+  - Asistencia a clases.
+  - Videos de tiktok marketing
+  - Elaboración de la presentación.
+  - Revisiones de Pull-Request.
+
+- Segunda semana (14/05-20/05):
+  - Elaboración de la presentación.
+  - Ayuda a compañeros en sus tareas.
+  - Videos de tiktok marketing.
+  - Tests de serializers de todos los modulos
+  - Fix de docs de marketing
+  - Asistencia a clases.
+  - Revisiones de Pull-Request.
+
 
 **Ruiz Jurado, Ismael**
 
 Contribución del estudiante:
-- Primera semana (07/05):
+- Primera semana (7/05):
+
+  - Asistencia a clases
+  - Test: Editar y eliminar cuenta por el usuario #131
+  - Elaborar presentación individual
+
 - Segunda semana (14/05):
+  - Asistencia a clases
+  - Rehacer Software Review #271
+  - Test: modelos authentication y booking #353
+  - Fix check garajes en alquiler antes de eliminar usuario #343
+  - Fix selección de la disponibilidad de un garaje #338
+  - Ayuda a la elaboración de la presentacíon
+
 
 **Ruiz Porcel, Carmen**
 
