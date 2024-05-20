@@ -1415,9 +1415,8 @@ Contribución del estudiante:
 Contribución del estudiante:
 - Primera semana (07/05):
   - Asistencia a clases.
-  - Visualización de la píldora teórica.
-  - Elaborar parte de inversiones del plan de negocio.
-  - Planificación y asignacios de las tareas del PPL.
+  - Fix estado parking libre/privada.
+  - Presentación indiviual de evaluación.
 - Segunda semana (14/05):
   - Asistencia a clases.
   - Despliegue Frontend.
