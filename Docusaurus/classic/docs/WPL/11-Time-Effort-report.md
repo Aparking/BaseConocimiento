@@ -36,4 +36,5 @@ $$
 
 ### Gráfica Tiempo-Esfuerzo
 
-![Gráfica tiempo esfuerzo semana 13-14](https://github.com/Aparking/BaseConocimiento/assets/72878120/6f5561c4-bf07-43a2-8a75-de2832387e28)
+![Gráfica tiempo esfuerzo semana 13-14](https://github.com/Aparking/BaseConocimiento/assets/72878120/f1e1da3a-96af-4c11-b03e-f072cf501d9f)
+
