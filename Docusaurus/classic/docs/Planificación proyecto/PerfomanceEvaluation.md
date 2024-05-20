@@ -8,36 +8,36 @@ El propósito de este documento es establecer un marco para evaluar el rendimien
 | 2                  | 28/02/2024        | Añadido el rendimiento del Sprint 1.                                                      |
 | 3                  | 24/03/2024        | Añadido el rendimiento del Sprint 2.                                                      |
 | 4                  | 21/04/2024        | Añadido el rendimiento del Sprint 3.                                                      |
-| 5                  | 07/05/2024        | Añadido el rendimiento del PPL.                                                      |
-| 6                  | 20/05/2024        | Añadido el rendimiento del WPL.                                                      |
+| 5                  | 07/05/2024        | Añadido el rendimiento del PPL.                                                           |
+| 6                  | 20/05/2024        | Añadido el rendimiento del WPL.                                                           |
 
 ## 3. Contenido
 
 ### 3.1. Evaluación del rendimiento individual acordada
 
-**Fecha:** 11/03/2024
+**Fecha:** 20/05/2024
 
-|                                | Evaluación del rendimiento individual acordada |         |           |         |           |      |       |      |
-| ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | --------- | ---- | ----- | ---- |
-| Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL      | #WPL | Total | Peso |
-| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         |  6   |       |      |
-| Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       | 9         |      |       |      |
-| Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       | 9         |      |       |      |
-| Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       | 7         |      |       |      |
-| Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       | 9         |      |       |      |
-| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 9      | 9,5       |   10  |       |      |
-| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         |   9   |       |      |
-| Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       | 9         |      |       |      |
-| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       |   8,5  |       |      |
-| Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       | 9         |      |       |      |
-| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         |  9,5    |       |      |
-| Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       | 9         |      |       |      |
-| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       | 9    |       |      |
-| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9         |      |       |      |
-| **Total**                      | **132,5**                                      | **125** | **119,5** | **121** | **121,5** |      |       |      |
+|                                | Evaluación del rendimiento individual acordada |         |           |         |           |         |         |       |
+| ------------------------------ | ---------------------------------------------- | ------- | --------- | ------- | --------- | ------- | ------- | ----- |
+| Estudiante                     | #DP1                                           | #S1     | #S2       | #S3     | #PPL      | #WPL    | Total   | Peso  |
+| Alcobendas Santos, José Javier | 9,5                                            | 8,5     | 8,5       | 8       | 7         | 6       | 47,5    | 0.7   |
+| Aroca Páez, Mario              | 9                                              | 8,5     | 9         | 9       | 9         | 9       | 53,5    | 1     |
+| Caballero Muñoz, Enrique       | 9                                              | 8,5     | 6         | 8       | 9         | 8       | 48,5    | 0.7   |
+| Oliva Alonso, Virgilio         | 9                                              | 9       | 7         | 5       | 7         | 7       | 44      | 0.6   |
+| Perea León, Alberto            | 10                                             | 9,5     | 9         | 9       | 9         | 10      | 56,5    | 1     |
+| Pérez Vázquez, Alejandro       | 9,5                                            | 9,5     | 8,5       | 9       | 9,5       | 10      | 56      | 1     |
+| Ramírez López, Juan Carlos     | 10                                             | 10      | 10        | 10      | 9         | 9       | 58      | 1     |
+| Merat Roldán, Laura            | 10                                             | 9,5     | 9,5       | 9       | 9         | 9       | 56      | 1     |
+| Ruiz Aguilar, Pedro Jesús      | 9                                              | 9,5     | 8,5       | 8,5     | 8,5       | 8,5     | 52,5    | 0.9   |
+| Ruiz Jurado, Ismael            | 9                                              | 9       | 8,5       | 8       | 9         | 7       | 50,5    | 0.7   |
+| Ruiz Porcel, Carmen            | 9,5                                            | 8,5     | 8,5       | 9,5     | 9         | 9,5     | 54,5    | 1     |
+| Sánchez San José, Iván         | 9,5                                            | 8,5     | 9,5       | 9       | 9         | 9       | 54,5    | 1     |
+| Santiago Sánchez, Sergio       | 9,5                                            | 9       | 9         | 9,5     | 8,5       | 9       | 54,5    | 1     |
+| Vico Martín, María             | 10                                             | 8,5     | 8,5       | 9,5     | 9         | 10      | 55,5    | 1     |
+| **Total**                      | **132,5**                                      | **125** | **119,5** | **121** | **121,5** | **121** | **742** | **9** |
 
 ### 3.2. Resumen de la contribución individual
-9.08
+
 #### Devising a Project (#DP)
 
 **Alcobendas Santos, José Javier**
@@ -1305,6 +1305,7 @@ Contribución del estudiante:
 Contribución del estudiante:
 
 - Primera semana (23/04):
+
   - Asistencia a clases.
   - Visualización de la píldora teórica.
   - Elaborar parte de inversiones del plan de negocio.
@@ -1321,7 +1322,9 @@ Contribución del estudiante:
 **Alcobendas Santos, José Javier**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
+
   - Asistencia a clases
   - Ayuda en las presentaciones
   - Página de Términos y Condiciones
@@ -1334,22 +1337,40 @@ Contribución del estudiante:
 **Aroca Páez, Mario**
 
 Contribución del estudiante:
-- Primera semana (07/05):
-- Segunda semana (14/05):
+
+- Primera Semana (07/05-13/05)
+  - Anuncio de Clientes #365
+  - Anuncio de Inversores #332
+  - Demo #330
+  - Presentación Individual #336
+- Segunda Semana (14/05-20/05)
+  - Anuncio de Inversores #332
+  - Anuncio de Clientes #365
+  - Demo #330
+  - Ayuda en la presentación
 
 **Caballero Muñoz, Enrique**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
+  - Asistencia a clase
+  - #125 Implementar estilos en los garajes
+  - #209 watch_theory_pill_on_GDPR_and_UX
 - Segunda semana (14/05):
+  - #187 Nueva versión del Failure Conditions y de las Guías de Revisión
+  - #225 Test: Listado de anuncios de alquiler por el administrador
+  - #128 Test: Listado y filtrado de alquileres
+  - #7 Apoyo en épica Listado de garajes
 
 **Oliva Alonso, Virgilio**
 
 Contribución del estudiante:
+
 - Primera semana (7/05):
 
   - Asistencia a clases.
-  - Planificación  y creación de Issues tras el feedback recibido.
+  - Planificación y creación de Issues tras el feedback recibido.
   - Creación de test para el CRUD del administrador.
   - Revisiones de Pull-Requests.
   - Arreglar estilos y contenidos del frontend.
@@ -1368,38 +1389,50 @@ Contribución del estudiante:
 **Perea León, Alberto**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
+  - Asistencia a clases.
+  - Planificación y gestión de tareas restantes.
+  - Elaboración de presentación individual.
 - Segunda semana (14/05):
+  - Asistencia a clases.
+  - Corrección presentación WPL.
+  - Apoyo en la creación de contenido audiovisual para la presentación.
 
 **Pérez Vázquez, Alejandro**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
-    - Asistencia a clases.
-    - Arreglo de cambio de estado en plaza de cesiones de aparcamiento.
-    - Desarrollo presentación individual performance.
-    - Arreglo plan de precio compra de créditos.
+
+  - Asistencia a clases.
+  - Arreglo de cambio de estado en plaza de cesiones de aparcamiento.
+  - Desarrollo presentación individual performance.
+  - Arreglo plan de precio compra de créditos.
 
 - Segunda semana (14/05):
-    - Asistencia a clases.
-    - Desarrollo de test de prueba de modulo completo de payment.
-    - Arreglo de filtro de “mis garages”.
-    - Fix gestión de bonificaciones.
+  - Asistencia a clases.
+  - Desarrollo de test de prueba de modulo completo de payment.
+  - Arreglo de filtro de “mis garages”.
+  - Fix gestión de bonificaciones.
 
 **Ramírez López, Juan Carlos**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
   - Asistencia a Clase.
-  - Fix despliegue PPL. 
+  - Fix despliegue PPL.
 - Segunda semana (14/05):
   - Asistencia a Clase.
-  - Despliegue WPL. 
+  - Despliegue WPL.
 
 **Merat Roldán, Laura**
 
 Contribución del estudiante:
+
 - Primera semana (07/05-13/05):
+
   - Asistencia a clases.
   - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
   - Elaboración de la presentación.
@@ -1409,11 +1442,12 @@ Contribución del estudiante:
   - Ayuda a compañeros en sus tareas.
   - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
 
-
 **Ruiz Aguilar, Pedro Jesús**
 
 Contribución del estudiante:
+
 - Primera semana (07/05-13/05):
+
   - Asistencia a clases.
   - Videos de tiktok marketing
   - Elaboración de la presentación.
@@ -1428,10 +1462,10 @@ Contribución del estudiante:
   - Asistencia a clases.
   - Revisiones de Pull-Request.
 
-
 **Ruiz Jurado, Ismael**
 
 Contribución del estudiante:
+
 - Primera semana (7/05):
 
   - Asistencia a clases
@@ -1446,22 +1480,49 @@ Contribución del estudiante:
   - Fix selección de la disponibilidad de un garaje #338
   - Ayuda a la elaboración de la presentacíon
 
-
 **Ruiz Porcel, Carmen**
 
 Contribución del estudiante:
-- Primera semana (07/05):
-- Segunda semana (14/05):
+
+- Primera semana (07/05-13/05):
+
+  - Asistencia a clases.
+  - Actualizar la base de conocimieto común y hacer el informe.
+  - Hacer TikToks para marketing.
+  - Hacer la presentación de la retrospectiva.
+
+- Segunda semana (14/05-20/05):
+  - Grabar TikToks para marketing.
+  - Revisar PR de los compañeros.
+  - Testeat views y validations de booking y garagement.
+  - Aumentar el tamaño del logo sin perder calidad.
+  - Ayudar a los compañeros con los Tests.
+  - Hacer la parte de marketin de la presentación.
+  - Fix volver a alguilar un garage si si ha cancelado.
+  - Fix Plan de marketing.
+  - Permitir que el usuario ponga la hora cuando crea disponivilidad.
 
 **Sánchez San José, Iván**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
+  - sprint review
+  - Asistencia a clase
+  - #209 watch_theory_pill_on_GDPR_and_UX
+  - #208 Permisos para los alquileres y disponibilidades
+  - #191 Customer Agreemen
 - Segunda semana (14/05):
+  - #199 Usuarios piloto: revisión, gestión y elaboración de contenido para la presentación
+  - #204 Sprint Review - S3
+  - #224 Hacer de Usuarios Piloto para el grupo 5
+  - #129 Test: Creación, edición y borrado de alquiler de zona de garaje
+  - Rellenar documentación del Sprint 3
 
 **Santiago Sánchez, Sergio**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
   - Asistencia a clases.
   - Fix estado parking libre/privada.
@@ -1469,11 +1530,11 @@ Contribución del estudiante:
 - Segunda semana (14/05):
   - Asistencia a clases.
   - Despliegue Frontend.
-     
 
 **Vico Martín, María**
 
 Contribución del estudiante:
+
 - Primera semana (07/05):
   - Asistencia a clases.
   - Planificación y asignaciones.
