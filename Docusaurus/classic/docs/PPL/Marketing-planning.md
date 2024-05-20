@@ -27,9 +27,9 @@ Además, también nos dirigimos a usuarios que quieran ahorrar dinero alquilando
 ## Estrategia de Marketing
 
 El objetivo principal de esta campaña de marketing inicial es acercase a través de las redes sociales a un público joven, de entre 18 a 35 años, para asentar las bases de la marca y poder expandirse desde ahí.
-Por lo tanto nuestra campaña se centrará en generar contenido en Instagram y TikTok además de panfletos, carteles, vallas publicitarias, anuncios de radio y televisión que serán expuestos en Sevilla nuestra base de clientes.
+Por lo tanto nuestra campaña se centrará en generar contenido en Instagram y TikTok, además de panfletos, carteles, vallas publicitarias, anuncios de radio y televisión que serán expuestos en Sevilla, conformando ahí nuestra base de clientes, de la que partiremos.
 
-Por otro lado nos dirigeremos a un público más adulto invirtiendo en anuncios en la televisión y radio, además de carteles en carreteras transidadas para llamar la atención.
+Por otro lado nos dirigiremos a un público más adulto, invirtiendo en anuncios en la televisión y radio, además de carteles en carreteras transidadas para llamar la atención.
 
 ### Instagram
 
@@ -57,7 +57,7 @@ Debido a que en TikTok es muy difícil crear una comunidad ya que la mayoría de
 ### Anuncios radiofónicos y televisados
 
 **Objetivo principal**: Llamar la atención de un público adulto.
-Debido a que los usuarios mayores de 35 años no suelen frecuentar las redes sociales, nos acercaremos a ellos mediantes los medios de counicación que más consumen como son la televisión y la radio.
+Debido a que los usuarios mayores de 35 años no suelen frecuentar las redes sociales, nos acercaremos a ellos mediantes los medios de comunicación que más consumen, tales como la televisión y la radio.
 
 **Contenido**:
 
@@ -70,11 +70,11 @@ Debido a que los usuarios mayores de 35 años no suelen frecuentar las redes soc
 ![Calendario marketing](/img/calendario_marketing.png)
 Plan de publicaciones: [Office planner Marketing](https://tasks.office.com/uses0.onmicrosoft.com/Home/PlanViews/uF8w2AgxvUWQIe2zy07L2JYAHS6_?Type=PlanLink&Channel=Link&CreatedTime=638505846636750000)
 
-**Carteles y panfletos**: Alrededor de Sevilla, especialmente en zonas estratégicas para la aplicación como podrían ser parkings y otras zonas con mucho tráfico donde el aparcar se ve frustrado, como el centro, se repartirán varios carteles y panfletos que sean llamativos e inviten a las personas a saber más de nuestro producto.
+**Carteles y panfletos**: Alrededor de Sevilla, especialmente en zonas estratégicas como podrían ser parkings y otras zonas con mucho tráfico en donde el aparcar es una tarea difícil y frustrante como el centro. Se repartirán varios carteles y panfletos que sean llamativos e inviten a las personas a saber más de nuestro producto.
 ![Flyer parking](/img/flyer1.png)
 ![Flyer semaforo us](/img/flyer2.png)
 
-**Vallas Publicitarias**: En carreteras que dirijan al centro, donde el aparcarmiento escasea,se establecerán vallas publicitarias con el mismo formato de los flyers para interesar al conductor que pase por la zona, relacionando las palabras claves del flyer con su problema actual.
+**Vallas Publicitarias**: En carreteras que dirijan al centro, donde el aparcarmiento escasea, se establecerán vallas publicitarias con el mismo formato de los flyers para interesar al conductor que pase por la zona, relacionando las palabras claves del flyer con su problema actual.
 
 **Anuncio de radio**: Se pretende hacer un anuncio de radio en una emisora local, como puede ser Radio Sevilla, ya que nuestros clientes al ser conductores hay una alta probabilidad de que esten escunchando la emisora.
 
