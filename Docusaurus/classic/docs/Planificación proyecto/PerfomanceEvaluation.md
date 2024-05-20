@@ -1375,6 +1375,7 @@ Contribución del estudiante:
   - Elaboración de la presentación.
   - Ayuda a compañeros en sus tareas.
   - Revisiones de Pull-Requests y comprobación del estado de las tareas hasta su cierre.
+  - Arreglo del análisis de costes.
 
 **Ruiz Aguilar, Pedro Jesús**
 
