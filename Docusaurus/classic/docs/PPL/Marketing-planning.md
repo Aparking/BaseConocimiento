@@ -107,6 +107,6 @@ Anuncios cadenas de entretenimiento:
 | Diseñador gráfico | € 10,56 | 160               | € 1.689,60     |
 | Productora        | € -     | 0                 | € 1.000,00     |
 | Imprenta          | 0       | 0                 | € 60,00        |
-| Radio          | € 711,00       | 2                 | € 711,00        |
-| Televisión          | € 1200,00       | 1,5                 | € 1200,00        |
+| Radio          | € -       | 2                 | € 711,00        |
+| Televisión          | € -      | 1,5                 | € 1200,00        |
 | TOTAL             |         |                   | **€ 9.507,00** |
