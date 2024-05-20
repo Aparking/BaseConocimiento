@@ -1320,6 +1320,17 @@ Contribución del estudiante:
 **Alcobendas Santos, José Javier**
 
 Contribución del estudiante:
+- Primera semana (07/05):
+  - Asistencia a clases
+  - Ayuda en las presentaciones
+  - Página de Términos y Condiciones
+
+- Segunda semana (14/05):
+  - Asistencia a clases.
+  - Fix filtros garages
+  - Fix seleccion disponibilidad garages
+  
+
 
 **Aroca Páez, Mario**
 
