@@ -50,11 +50,11 @@ El GitHub de la organización del equipo de trabajo se encuentra en la siguiente
 La herramienta para registrar las horas de cada uno de los miembros es
 Clockify, para distinguir el trabajo de cada uno puede acceder a la URL:
 
-- [[Clockify grupal]](https://app.clockify.me/shared/664bc5f749f5bd3c4501d0ad)
+- [Clockify grupal](https://app.clockify.me/shared/664bc5f749f5bd3c4501d0ad)
 
 Por último, cuenta con el despliegue de la aplicación en el siguiente enlace:
 
-- [[Aparking]]([https://apar-king-frontend2.vercel.app])
+- [Aparking](https://apar-king-frontend2.vercel.app)
 
 ## **CONSIDERACIONES**
 - Es esencial destacar que las credenciales necesarias para probar la aplicación serán proporcionadas exclusivamente a los usuarios piloto y al profesorado evaluador, con el fin de salvaguardar la privacidad y la seguridad del proyecto. 
