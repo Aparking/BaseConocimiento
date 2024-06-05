@@ -50,7 +50,7 @@ Clockify, para distinguir el trabajo de cada uno puede acceder a la URL:
 
 Por último, cuenta con el despliegue de la aplicación en el siguiente enlace:
 
-- [Aparking](https://apar-king-frontend2.vercel.app)
+- [Aparking](https://aparking-ionic.vercel.app/)
 
 ## **CONSIDERACIONES**
 - Es esencial destacar que las credenciales necesarias para probar la aplicación serán proporcionadas exclusivamente a los usuarios piloto y al profesorado evaluador, con el fin de salvaguardar la privacidad y la seguridad del proyecto. 
